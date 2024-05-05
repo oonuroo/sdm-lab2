@@ -1,0 +1,172 @@
+@prefix ex: <http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Journal_0291ce72-3b8c-425b-b8db-18605f05ff40 a ex:Journal ;
+    ex:name "Journal of Network and Systems Management" ;
+    ex:volume 3 ;
+    ex:year 1977 ;
+    foaf:homepage <https://link.springer.com/journal/10922> .
+
+ex:Journal_12162322-fe17-4fc9-ad8b-765a5472d33d a ex:Journal ;
+    ex:name "International Journal of Financial Studies" ;
+    ex:volume 1 ;
+    ex:year 2004 ;
+    foaf:homepage <http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-281817> .
+
+ex:Journal_2cc2fe4d-9264-4cb6-8700-600fa47043f4 a ex:Journal ;
+    ex:name "Molecular Informatics" ;
+    ex:volume 3 ;
+    ex:year 1992 ;
+    foaf:homepage <http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1868-1751> .
+
+ex:Journal_3a342388-5892-44cf-a828-0a43c634227d a ex:Journal ;
+    ex:name "Molecular Informatics" ;
+    ex:volume 1 ;
+    ex:year 2007 ;
+    foaf:homepage <http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1868-1751> .
+
+ex:Journal_3a380e72-e857-45ed-ae9b-bac77b47b3e0 a ex:Journal ;
+    ex:name "Clinical Chemistry" ;
+    ex:volume 3 ;
+    ex:year 1996 ;
+    foaf:homepage <http://www.clinchem.org/> .
+
+ex:Journal_4807a595-9170-4a2f-8098-f8927001263d a ex:Journal ;
+    ex:name "Clinical Chemistry" ;
+    ex:volume 4 ;
+    ex:year 2001 ;
+    foaf:homepage <http://www.clinchem.org/> .
+
+ex:Journal_4b661303-3a59-4dff-82cc-9ac025918d16 a ex:Journal ;
+    ex:name "Molecular Informatics" ;
+    ex:volume 2 ;
+    ex:year 2000 ;
+    foaf:homepage <http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1868-1751> .
+
+ex:Journal_4fffb1bc-6691-4faf-9893-11932df011d7 a ex:Journal ;
+    ex:name "Journal of Chemical Information and Modeling" ;
+    ex:volume 7 ;
+    ex:year 1975 ;
+    foaf:homepage <http://pubs.acs.org/jcim> .
+
+ex:Journal_514fd58d-eca6-46f3-958a-b689a09c069e a ex:Journal ;
+    ex:name "International Journal of Pediatrics" ;
+    ex:volume 2 ;
+    ex:year 2015 ;
+    foaf:homepage <http://www.hindawi.com/journals/ijped/> .
+
+ex:Journal_758767ef-3ff6-46cb-8121-77901d42097b a ex:Journal ;
+    ex:name "Journal of Network and Systems Management" ;
+    ex:volume 1 ;
+    ex:year 2014 ;
+    foaf:homepage <https://link.springer.com/journal/10922> .
+
+ex:Journal_86f545ac-3178-4c21-b813-dd81bd62ae65 a ex:Journal ;
+    ex:name "International Journal of Pediatrics" ;
+    ex:volume 3 ;
+    ex:year 1980 ;
+    foaf:homepage <http://www.hindawi.com/journals/ijped/> .
+
+ex:Journal_8efd30fa-f14b-4e97-80f1-00ec3fd93805 a ex:Journal ;
+    ex:name "Clinical Chemistry" ;
+    ex:volume 1 ;
+    ex:year 2018 ;
+    foaf:homepage <http://www.clinchem.org/> .
+
+ex:Journal_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d a ex:Journal ;
+    ex:name "Journal of Chemical Information and Modeling" ;
+    ex:volume 3 ;
+    ex:year 1984 ;
+    foaf:homepage <http://pubs.acs.org/jcim> .
+
+ex:Journal_919a6285-95c8-4836-9e7a-2bdab11dab1b a ex:Journal ;
+    ex:name "Journal of Chemical Information and Modeling" ;
+    ex:volume 4 ;
+    ex:year 2016 ;
+    foaf:homepage <http://pubs.acs.org/jcim> .
+
+ex:Journal_97a6d048-5f06-4dff-9968-1daebf55e895 a ex:Journal ;
+    ex:name "Journal of Chemical Information and Modeling" ;
+    ex:volume 2 ;
+    ex:year 1982 ;
+    foaf:homepage <http://pubs.acs.org/jcim> .
+
+ex:Journal_98fef3dc-eb74-4bb0-a54c-e718ac0366cd a ex:Journal ;
+    ex:name "Journal of Chemical Information and Modeling" ;
+    ex:volume 1 ;
+    ex:year 1997 ;
+    foaf:homepage <http://pubs.acs.org/jcim> .
+
+ex:Journal_9ad182fa-89fc-4dd0-a374-1808af9b8334 a ex:Journal ;
+    ex:name "Journal of Chemical Information and Modeling" ;
+    ex:volume 6 ;
+    ex:year 2015 ;
+    foaf:homepage <http://pubs.acs.org/jcim> .
+
+ex:Journal_a3322176-de98-4c5d-ae9e-bd517c20feec a ex:Journal ;
+    ex:name "International Journal of Financial Studies" ;
+    ex:volume 3 ;
+    ex:year 1983 ;
+    foaf:homepage <http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-281817> .
+
+ex:Journal_adcccd84-5384-4387-9b03-ac13d7a65245 a ex:Journal ;
+    ex:name "Clinical Chemistry" ;
+    ex:volume 2 ;
+    ex:year 2020 ;
+    foaf:homepage <http://www.clinchem.org/> .
+
+ex:Journal_b7439431-d4de-41ce-b923-e97c5e6ee8d9 a ex:Journal ;
+    ex:name "Journal of Chemical Information and Modeling" ;
+    ex:volume 3 ;
+    ex:year 1987 ;
+    foaf:homepage <http://pubs.acs.org/jcim> .
+
+ex:Journal_c98819d4-14e0-4a3a-a091-11cf8e63679e a ex:Journal ;
+    ex:name "International Journal of Pediatrics" ;
+    ex:volume 4 ;
+    ex:year 1994 ;
+    foaf:homepage <http://www.hindawi.com/journals/ijped/> .
+
+ex:Journal_cc2771d6-8250-4833-846f-49b471787b88 a ex:Journal ;
+    ex:name "Journal of Chemical Information and Modeling" ;
+    ex:volume 1 ;
+    ex:year 1996 ;
+    foaf:homepage <http://pubs.acs.org/jcim> .
+
+ex:Journal_cc6148fa-492e-4af3-9fc0-7d78df4c24b6 a ex:Journal ;
+    ex:name "International Journal of Financial Studies" ;
+    ex:volume 4 ;
+    ex:year 1993 ;
+    foaf:homepage <http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-281817> .
+
+ex:Journal_d09b380a-e850-4faf-a207-be6e75386589 a ex:Journal ;
+    ex:name "Journal of Chemical Information and Modeling" ;
+    ex:volume 5 ;
+    ex:year 2021 ;
+    foaf:homepage <http://pubs.acs.org/jcim> .
+
+ex:Journal_d7a24f8f-5ec1-4872-9d99-891b6e611a1b a ex:Journal ;
+    ex:name "International Journal of Pediatrics" ;
+    ex:volume 1 ;
+    ex:year 1972 ;
+    foaf:homepage <http://www.hindawi.com/journals/ijped/> .
+
+ex:Journal_db07ce9a-a4e2-4ab1-896e-728e535ead10 a ex:Journal ;
+    ex:name "Journal of Network and Systems Management" ;
+    ex:volume 2 ;
+    ex:year 1974 ;
+    foaf:homepage <https://link.springer.com/journal/10922> .
+
+ex:Journal_dd2a6bc1-8004-4bee-838e-200f25e1f68d a ex:Journal ;
+    ex:name "Journal of Chemical Information and Modeling" ;
+    ex:volume 2 ;
+    ex:year 2019 ;
+    foaf:homepage <http://pubs.acs.org/jcim> .
+
+ex:Journal_f0518e3f-2ce2-4ca7-9ea2-2cb5aa29cfc3 a ex:Journal ;
+    ex:name "International Journal of Financial Studies" ;
+    ex:volume 2 ;
+    ex:year 1975 ;
+    foaf:homepage <http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-281817> .
+

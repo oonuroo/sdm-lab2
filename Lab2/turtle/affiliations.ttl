@@ -1,0 +1,251 @@
+@prefix ap: <http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ap:Affiliation_University_of_Washington rdf:type ap:Affiliation .
+ap:Affiliation_University_of_Washington ap:affiliation_name "University of Washington"^^xsd:string .
+ap:Affiliation_University_of_Washington ap:type "University"^^xsd:string .
+ap:Affiliation_University_of_Washington ap:address "6215 Stanley Street, Lake Megan, NE 77181"^^xsd:string .
+ap:Affiliation_University_of_Washington ap:affiliation_email "daniellerobles@example.org"^^xsd:string .
+ap:Affiliation_University_of_Washington ap:phone_number "717.679.0453"^^xsd:string .
+
+ap:Affiliation_Yale_University rdf:type ap:Affiliation .
+ap:Affiliation_Yale_University ap:affiliation_name "Yale University"^^xsd:string .
+ap:Affiliation_Yale_University ap:type "University"^^xsd:string .
+ap:Affiliation_Yale_University ap:address "1043 John Bypass Apt. 600, Jessicaview, GA 79501"^^xsd:string .
+ap:Affiliation_Yale_University ap:affiliation_email "milesmarisa@example.com"^^xsd:string .
+ap:Affiliation_Yale_University ap:phone_number "001-709-699-5962"^^xsd:string .
+
+ap:Affiliation_University_of_Pennsylvania rdf:type ap:Affiliation .
+ap:Affiliation_University_of_Pennsylvania ap:affiliation_name "University of Pennsylvania"^^xsd:string .
+ap:Affiliation_University_of_Pennsylvania ap:type "University"^^xsd:string .
+ap:Affiliation_University_of_Pennsylvania ap:address "6888 Bryan Branch Apt. 558, Jonesland, FL 59496"^^xsd:string .
+ap:Affiliation_University_of_Pennsylvania ap:affiliation_email "gbarrett@example.com"^^xsd:string .
+ap:Affiliation_University_of_Pennsylvania ap:phone_number "492.924.2580x61145"^^xsd:string .
+
+ap:Affiliation_University_of_California_San_Diego rdf:type ap:Affiliation .
+ap:Affiliation_University_of_California_San_Diego ap:affiliation_name "University of California, San Diego"^^xsd:string .
+ap:Affiliation_University_of_California_San_Diego ap:type "University"^^xsd:string .
+ap:Affiliation_University_of_California_San_Diego ap:address "8731 Bean River, Port Toni, AZ 96428"^^xsd:string .
+ap:Affiliation_University_of_California_San_Diego ap:affiliation_email "jeff58@example.org"^^xsd:string .
+ap:Affiliation_University_of_California_San_Diego ap:phone_number "963-314-7948x1455"^^xsd:string .
+
+ap:Affiliation_FHNW_University_of_Applied_Sciences_and_Arts_Northwestern_Switzerland rdf:type ap:Affiliation .
+ap:Affiliation_FHNW_University_of_Applied_Sciences_and_Arts_Northwestern_Switzerland ap:affiliation_name "FHNW University of Applied Sciences and Arts Northwestern Switzerland"^^xsd:string .
+ap:Affiliation_FHNW_University_of_Applied_Sciences_and_Arts_Northwestern_Switzerland ap:type "University"^^xsd:string .
+ap:Affiliation_FHNW_University_of_Applied_Sciences_and_Arts_Northwestern_Switzerland ap:address "858 Kenneth Plains Apt. 964, Jimenezburgh, NH 55927"^^xsd:string .
+ap:Affiliation_FHNW_University_of_Applied_Sciences_and_Arts_Northwestern_Switzerland ap:affiliation_email "pkrause@example.org"^^xsd:string .
+ap:Affiliation_FHNW_University_of_Applied_Sciences_and_Arts_Northwestern_Switzerland ap:phone_number "+1-517-592-2843x592"^^xsd:string .
+
+ap:Affiliation_University_of_Cambridge rdf:type ap:Affiliation .
+ap:Affiliation_University_of_Cambridge ap:affiliation_name "University of Cambridge"^^xsd:string .
+ap:Affiliation_University_of_Cambridge ap:type "University"^^xsd:string .
+ap:Affiliation_University_of_Cambridge ap:address "619 Hunter Pass Apt. 751, West Scott, AL 77139"^^xsd:string .
+ap:Affiliation_University_of_Cambridge ap:affiliation_email "allencheryl@example.com"^^xsd:string .
+ap:Affiliation_University_of_Cambridge ap:phone_number "770-947-6002"^^xsd:string .
+
+ap:Affiliation_Massachusetts_Institute_of_Technology rdf:type ap:Affiliation .
+ap:Affiliation_Massachusetts_Institute_of_Technology ap:affiliation_name "Massachusetts Institute of Technology"^^xsd:string .
+ap:Affiliation_Massachusetts_Institute_of_Technology ap:type "University"^^xsd:string .
+ap:Affiliation_Massachusetts_Institute_of_Technology ap:address "2600 Yu Forges Apt. 619, Jenniferside, MH 16518"^^xsd:string .
+ap:Affiliation_Massachusetts_Institute_of_Technology ap:affiliation_email "tallen@example.net"^^xsd:string .
+ap:Affiliation_Massachusetts_Institute_of_Technology ap:phone_number "(672)880-8139"^^xsd:string .
+
+ap:Affiliation_Columbia_University rdf:type ap:Affiliation .
+ap:Affiliation_Columbia_University ap:affiliation_name "Columbia University"^^xsd:string .
+ap:Affiliation_Columbia_University ap:type "University"^^xsd:string .
+ap:Affiliation_Columbia_University ap:address "597 Gregory Station, Randystad, CA 92512"^^xsd:string .
+ap:Affiliation_Columbia_University ap:affiliation_email "lisa88@example.org"^^xsd:string .
+ap:Affiliation_Columbia_University ap:phone_number "(258)371-2890x372"^^xsd:string .
+
+ap:Affiliation_Harvard_University rdf:type ap:Affiliation .
+ap:Affiliation_Harvard_University ap:affiliation_name "Harvard University"^^xsd:string .
+ap:Affiliation_Harvard_University ap:type "Company"^^xsd:string .
+ap:Affiliation_Harvard_University ap:address "6952 Dean Court, Port John, VA 82984"^^xsd:string .
+ap:Affiliation_Harvard_University ap:affiliation_email "scott43@example.com"^^xsd:string .
+ap:Affiliation_Harvard_University ap:phone_number "319.613.3352"^^xsd:string .
+
+ap:Affiliation_University_of_Oxford rdf:type ap:Affiliation .
+ap:Affiliation_University_of_Oxford ap:affiliation_name "University of Oxford"^^xsd:string .
+ap:Affiliation_University_of_Oxford ap:type "University"^^xsd:string .
+ap:Affiliation_University_of_Oxford ap:address "33393 Rachel Street Apt. 926, South Vincentmouth, CO 64782"^^xsd:string .
+ap:Affiliation_University_of_Oxford ap:affiliation_email "taylormichael@example.org"^^xsd:string .
+ap:Affiliation_University_of_Oxford ap:phone_number "968-809-1249x3150"^^xsd:string .
+
+ap:Affiliation_University_of_Chicago rdf:type ap:Affiliation .
+ap:Affiliation_University_of_Chicago ap:affiliation_name "University of Chicago"^^xsd:string .
+ap:Affiliation_University_of_Chicago ap:type "Company"^^xsd:string .
+ap:Affiliation_University_of_Chicago ap:address "86715 Steven Terrace Suite 296, Patelside, DC 46615"^^xsd:string .
+ap:Affiliation_University_of_Chicago ap:affiliation_email "dianawilson@example.org"^^xsd:string .
+ap:Affiliation_University_of_Chicago ap:phone_number "(361)969-1945x3136"^^xsd:string .
+
+ap:Affiliation_University_of_Michigan rdf:type ap:Affiliation .
+ap:Affiliation_University_of_Michigan ap:affiliation_name "University of Michigan"^^xsd:string .
+ap:Affiliation_University_of_Michigan ap:type "University"^^xsd:string .
+ap:Affiliation_University_of_Michigan ap:address "1468 Brandon Light Suite 872, West Brianport, GU 56401"^^xsd:string .
+ap:Affiliation_University_of_Michigan ap:affiliation_email "murrayjoseph@example.net"^^xsd:string .
+ap:Affiliation_University_of_Michigan ap:phone_number "994.311.5671x8867"^^xsd:string .
+
+ap:Affiliation_California_Institute_of_Technology rdf:type ap:Affiliation .
+ap:Affiliation_California_Institute_of_Technology ap:affiliation_name "California Institute of Technology"^^xsd:string .
+ap:Affiliation_California_Institute_of_Technology ap:type "University"^^xsd:string .
+ap:Affiliation_California_Institute_of_Technology ap:address "62555 Steve Path, Simonton, IA 08451"^^xsd:string .
+ap:Affiliation_California_Institute_of_Technology ap:affiliation_email "lawrence31@example.org"^^xsd:string .
+ap:Affiliation_California_Institute_of_Technology ap:phone_number "(569)366-6173x145"^^xsd:string .
+
+ap:Affiliation_Stanford_University rdf:type ap:Affiliation .
+ap:Affiliation_Stanford_University ap:affiliation_name "Stanford University"^^xsd:string .
+ap:Affiliation_Stanford_University ap:type "University"^^xsd:string .
+ap:Affiliation_Stanford_University ap:address "0880 Ramos Shoal Apt. 271, Jeremyfort, PW 29980"^^xsd:string .
+ap:Affiliation_Stanford_University ap:affiliation_email "michaelroberts@example.net"^^xsd:string .
+ap:Affiliation_Stanford_University ap:phone_number "+1-666-321-2813"^^xsd:string .
+
+ap:Affiliation_University_of_California_Berkeley rdf:type ap:Affiliation .
+ap:Affiliation_University_of_California_Berkeley ap:affiliation_name "University of California, Berkeley"^^xsd:string .
+ap:Affiliation_University_of_California_Berkeley ap:type "University"^^xsd:string .
+ap:Affiliation_University_of_California_Berkeley ap:address "3404 Pamela Terrace Apt. 119, North Suzanneview, ND 84475"^^xsd:string .
+ap:Affiliation_University_of_California_Berkeley ap:affiliation_email "lyonsarthur@example.org"^^xsd:string .
+ap:Affiliation_University_of_California_Berkeley ap:phone_number "680-539-0074x611"^^xsd:string .
+
+ap:Affiliation_University_of_California_Los_Angeles rdf:type ap:Affiliation .
+ap:Affiliation_University_of_California_Los_Angeles ap:affiliation_name "University of California, Los Angeles"^^xsd:string .
+ap:Affiliation_University_of_California_Los_Angeles ap:type "Company"^^xsd:string .
+ap:Affiliation_University_of_California_Los_Angeles ap:address "72588 Gonzales Orchard Apt. 776, Jacobtown, FL 90488"^^xsd:string .
+ap:Affiliation_University_of_California_Los_Angeles ap:affiliation_email "jasonoconnor@example.net"^^xsd:string .
+ap:Affiliation_University_of_California_Los_Angeles ap:phone_number "722-834-0334x641"^^xsd:string .
+
+ap:Affiliation_Princeton_University rdf:type ap:Affiliation .
+ap:Affiliation_Princeton_University ap:affiliation_name "Princeton University"^^xsd:string .
+ap:Affiliation_Princeton_University ap:type "University"^^xsd:string .
+ap:Affiliation_Princeton_University ap:address "6902 Dawson Crest Suite 782, South Emilyview, VA 46624"^^xsd:string .
+ap:Affiliation_Princeton_University ap:affiliation_email "floresdavid@example.com"^^xsd:string .
+ap:Affiliation_Princeton_University ap:phone_number "(707)309-3173x103"^^xsd:string .
+
+ap:Affiliation_Google rdf:type ap:Affiliation .
+ap:Affiliation_Google ap:affiliation_name "['Google']"^^xsd:string .
+ap:Affiliation_Google ap:type "Company"^^xsd:string .
+ap:Affiliation_Google ap:address "85604 Charlotte Haven Apt. 525, North Rebeccaberg, TX 11746"^^xsd:string .
+ap:Affiliation_Google ap:affiliation_email "edwardsjoe@example.com"^^xsd:string .
+ap:Affiliation_Google ap:phone_number "001-829-839-0166x262"^^xsd:string .
+
+ap:Affiliation_DeepMind rdf:type ap:Affiliation .
+ap:Affiliation_DeepMind ap:affiliation_name "['DeepMind']"^^xsd:string .
+ap:Affiliation_DeepMind ap:type "Company"^^xsd:string .
+ap:Affiliation_DeepMind ap:address "2841 Randy Inlet, Nataliefort, IN 19584"^^xsd:string .
+ap:Affiliation_DeepMind ap:affiliation_email "jeffreyanthony@example.net"^^xsd:string .
+ap:Affiliation_DeepMind ap:phone_number "001-582-363-5234"^^xsd:string .
+
+ap:Affiliation_INRIA rdf:type ap:Affiliation .
+ap:Affiliation_INRIA ap:affiliation_name "['INRIA']"^^xsd:string .
+ap:Affiliation_INRIA ap:type "Company"^^xsd:string .
+ap:Affiliation_INRIA ap:address "5056 Jeremy Plaza, Johnsonfort, NV 30153"^^xsd:string .
+ap:Affiliation_INRIA ap:affiliation_email "lozanocarolyn@example.com"^^xsd:string .
+ap:Affiliation_INRIA ap:phone_number "391-200-3341x343"^^xsd:string .
+
+ap:Affiliation_Sydney_University rdf:type ap:Affiliation .
+ap:Affiliation_Sydney_University ap:affiliation_name "['Sydney University']"^^xsd:string .
+ap:Affiliation_Sydney_University ap:type "University"^^xsd:string .
+ap:Affiliation_Sydney_University ap:address "29518 Carlson Circles Suite 534, Port James, NY 36463"^^xsd:string .
+ap:Affiliation_Sydney_University ap:affiliation_email "ejones@example.com"^^xsd:string .
+ap:Affiliation_Sydney_University ap:phone_number "959-332-2441"^^xsd:string .
+
+ap:Affiliation_Singapore_Management_University rdf:type ap:Affiliation .
+ap:Affiliation_Singapore_Management_University ap:affiliation_name "['Singapore Management University']"^^xsd:string .
+ap:Affiliation_Singapore_Management_University ap:type "Company"^^xsd:string .
+ap:Affiliation_Singapore_Management_University ap:address "65481 Mitchell Vista, Wrightborough, PA 58336"^^xsd:string .
+ap:Affiliation_Singapore_Management_University ap:affiliation_email "olsonjames@example.org"^^xsd:string .
+ap:Affiliation_Singapore_Management_University ap:phone_number "+1-581-892-8794x471"^^xsd:string .
+
+ap:Affiliation_AFRL rdf:type ap:Affiliation .
+ap:Affiliation_AFRL ap:affiliation_name "['AFRL']"^^xsd:string .
+ap:Affiliation_AFRL ap:type "University"^^xsd:string .
+ap:Affiliation_AFRL ap:address "5107 Hobbs Greens Suite 666, North Staceybury, SD 34521"^^xsd:string .
+ap:Affiliation_AFRL ap:affiliation_email "raymond20@example.com"^^xsd:string .
+ap:Affiliation_AFRL ap:phone_number "934-658-5717x60530"^^xsd:string .
+
+ap:Affiliation_St_Petersburg_Federal_Research_Center_of_the_Russian_Academy_of_Sciences rdf:type ap:Affiliation .
+ap:Affiliation_St_Petersburg_Federal_Research_Center_of_the_Russian_Academy_of_Sciences ap:affiliation_name "['St. Petersburg Federal Research Center of the Russian Academy of Sciences']"^^xsd:string .
+ap:Affiliation_St_Petersburg_Federal_Research_Center_of_the_Russian_Academy_of_Sciences ap:type "Company"^^xsd:string .
+ap:Affiliation_St_Petersburg_Federal_Research_Center_of_the_Russian_Academy_of_Sciences ap:address "Unit 1175 Box 2098, DPO AE 55718"^^xsd:string .
+ap:Affiliation_St_Petersburg_Federal_Research_Center_of_the_Russian_Academy_of_Sciences ap:affiliation_email "zgonzalez@example.com"^^xsd:string .
+ap:Affiliation_St_Petersburg_Federal_Research_Center_of_the_Russian_Academy_of_Sciences ap:phone_number "(935)421-8994x61682"^^xsd:string .
+
+ap:Affiliation_University_of_Geneva rdf:type ap:Affiliation .
+ap:Affiliation_University_of_Geneva ap:affiliation_name "['University of Geneva']"^^xsd:string .
+ap:Affiliation_University_of_Geneva ap:type "Company"^^xsd:string .
+ap:Affiliation_University_of_Geneva ap:address "81341 Michael Square Suite 316, South Jesse, WY 89420"^^xsd:string .
+ap:Affiliation_University_of_Geneva ap:affiliation_email "brooke99@example.net"^^xsd:string .
+ap:Affiliation_University_of_Geneva ap:phone_number "272.741.5463x592"^^xsd:string .
+
+ap:Affiliation_DeepMind rdf:type ap:Affiliation .
+ap:Affiliation_DeepMind ap:affiliation_name "DeepMind"^^xsd:string .
+ap:Affiliation_DeepMind ap:type "University"^^xsd:string .
+ap:Affiliation_DeepMind ap:address "5145 Hannah Spurs, New Russell, TX 46787"^^xsd:string .
+ap:Affiliation_DeepMind ap:affiliation_email "ldiaz@example.com"^^xsd:string .
+ap:Affiliation_DeepMind ap:phone_number "+1-627-883-4340x62179"^^xsd:string .
+
+ap:Affiliation_ANU_Murdoch_University_UNSW_Brunel_University_Flinders_University_UWA_Curtin_University rdf:type ap:Affiliation .
+ap:Affiliation_ANU_Murdoch_University_UNSW_Brunel_University_Flinders_University_UWA_Curtin_University ap:affiliation_name "['ANU, Murdoch University, UNSW, Brunel University, Flinders University, UWA, Curtin University']"^^xsd:string .
+ap:Affiliation_ANU_Murdoch_University_UNSW_Brunel_University_Flinders_University_UWA_Curtin_University ap:type "University"^^xsd:string .
+ap:Affiliation_ANU_Murdoch_University_UNSW_Brunel_University_Flinders_University_UWA_Curtin_University ap:address "4030 Stone Ville, New Jacqueline, CO 26591"^^xsd:string .
+ap:Affiliation_ANU_Murdoch_University_UNSW_Brunel_University_Flinders_University_UWA_Curtin_University ap:affiliation_email "brandon13@example.net"^^xsd:string .
+ap:Affiliation_ANU_Murdoch_University_UNSW_Brunel_University_Flinders_University_UWA_Curtin_University ap:phone_number "289-414-0709x437"^^xsd:string .
+
+ap:Affiliation_Hong_Kong_University_of_Science_and_Technology rdf:type ap:Affiliation .
+ap:Affiliation_Hong_Kong_University_of_Science_and_Technology ap:affiliation_name "['Hong Kong University of Science and Technology']"^^xsd:string .
+ap:Affiliation_Hong_Kong_University_of_Science_and_Technology ap:type "University"^^xsd:string .
+ap:Affiliation_Hong_Kong_University_of_Science_and_Technology ap:address "77531 Berger Creek, Crosschester, PR 94971"^^xsd:string .
+ap:Affiliation_Hong_Kong_University_of_Science_and_Technology ap:affiliation_email "tylerharvey@example.net"^^xsd:string .
+ap:Affiliation_Hong_Kong_University_of_Science_and_Technology ap:phone_number "510.837.1814"^^xsd:string .
+
+ap:Affiliation_dataworld rdf:type ap:Affiliation .
+ap:Affiliation_dataworld ap:affiliation_name "['data.world']"^^xsd:string .
+ap:Affiliation_dataworld ap:type "University"^^xsd:string .
+ap:Affiliation_dataworld ap:address "020 Holden Drive, Johnsonview, PW 45080"^^xsd:string .
+ap:Affiliation_dataworld ap:affiliation_email "perrymisty@example.org"^^xsd:string .
+ap:Affiliation_dataworld ap:phone_number "+1-260-475-8635x211"^^xsd:string .
+
+ap:Affiliation_Kansas_State_University rdf:type ap:Affiliation .
+ap:Affiliation_Kansas_State_University ap:affiliation_name "['Kansas State University']"^^xsd:string .
+ap:Affiliation_Kansas_State_University ap:type "University"^^xsd:string .
+ap:Affiliation_Kansas_State_University ap:address "123 Rodriguez Crossing Apt. 831, Mayoburgh, NH 89315"^^xsd:string .
+ap:Affiliation_Kansas_State_University ap:affiliation_email "jennifer93@example.net"^^xsd:string .
+ap:Affiliation_Kansas_State_University ap:phone_number "3525807468"^^xsd:string .
+
+ap:Affiliation_University_of_Washington rdf:type ap:Affiliation .
+ap:Affiliation_University_of_Washington ap:affiliation_name "['University of Washington']"^^xsd:string .
+ap:Affiliation_University_of_Washington ap:type "Company"^^xsd:string .
+ap:Affiliation_University_of_Washington ap:address "48613 Debbie Corner, Jillville, SD 80885"^^xsd:string .
+ap:Affiliation_University_of_Washington ap:affiliation_email "mindylevy@example.com"^^xsd:string .
+ap:Affiliation_University_of_Washington ap:phone_number "(488)805-2846"^^xsd:string .
+
+ap:Affiliation_Universitat_de_Barcelona rdf:type ap:Affiliation .
+ap:Affiliation_Universitat_de_Barcelona ap:affiliation_name "Universitat de Barcelona"^^xsd:string .
+ap:Affiliation_Universitat_de_Barcelona ap:type "University"^^xsd:string .
+ap:Affiliation_Universitat_de_Barcelona ap:address "58999 Knox Street, Randyton, PW 63424"^^xsd:string .
+ap:Affiliation_Universitat_de_Barcelona ap:affiliation_email "hillsally@example.net"^^xsd:string .
+ap:Affiliation_Universitat_de_Barcelona ap:phone_number "725-685-6659"^^xsd:string .
+
+ap:Affiliation_University_of_Dsseldorf rdf:type ap:Affiliation .
+ap:Affiliation_University_of_Dsseldorf ap:affiliation_name "['University of Düsseldorf']"^^xsd:string .
+ap:Affiliation_University_of_Dsseldorf ap:type "University"^^xsd:string .
+ap:Affiliation_University_of_Dsseldorf ap:address "6022 Flowers Mountain, Jamesland, MS 00931"^^xsd:string .
+ap:Affiliation_University_of_Dsseldorf ap:affiliation_email "derekkane@example.com"^^xsd:string .
+ap:Affiliation_University_of_Dsseldorf ap:phone_number "001-513-907-0951"^^xsd:string .
+
+ap:Affiliation_Technische_Universitt_Dresden rdf:type ap:Affiliation .
+ap:Affiliation_Technische_Universitt_Dresden ap:affiliation_name "['Technische Universität Dresden']"^^xsd:string .
+ap:Affiliation_Technische_Universitt_Dresden ap:type "University"^^xsd:string .
+ap:Affiliation_Technische_Universitt_Dresden ap:address "60185 Chavez Street, Rebeccamouth, MN 44842"^^xsd:string .
+ap:Affiliation_Technische_Universitt_Dresden ap:affiliation_email "amccullough@example.net"^^xsd:string .
+ap:Affiliation_Technische_Universitt_Dresden ap:phone_number "480.830.4754x548"^^xsd:string .
+
+ap:Affiliation_Harvard_University rdf:type ap:Affiliation .
+ap:Affiliation_Harvard_University ap:affiliation_name "['Harvard University']"^^xsd:string .
+ap:Affiliation_Harvard_University ap:type "Company"^^xsd:string .
+ap:Affiliation_Harvard_University ap:address "7650 Richard Glen, Parkertown, AS 84037"^^xsd:string .
+ap:Affiliation_Harvard_University ap:affiliation_email "brownteresa@example.net"^^xsd:string .
+ap:Affiliation_Harvard_University ap:phone_number "(933)779-7196x192"^^xsd:string .
+

@@ -1,0 +1,3624 @@
+@prefix ex: <http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89-1 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7,
+        ex:Paper_007098d098b83163f76d17b75fb47f2eec43fd2d,
+        ex:Paper_009eb31338512d9ca6ffde4062f0443f94b61fd1 .
+
+ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89-2 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b .
+
+ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89-3 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_001c15accd39827ecf9838d496b7e44e9f890ee7,
+        ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359 .
+
+ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89-4 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b .
+
+ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89-5 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637 .
+
+ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89-6 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_005b716759daadb580b472602f6167559aadc9c5 .
+
+ex:Paper_00016e315b39d20b69f041790573e2215f9eb028-1 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_001bd1d8b04d5c20d9f4f4860146d43de445bc17,
+        ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6,
+        ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2 .
+
+ex:Paper_00016e315b39d20b69f041790573e2215f9eb028-2 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204,
+        ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c .
+
+ex:Paper_00016e315b39d20b69f041790573e2215f9eb028-3 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_0075dfdbd25dce1fd545d2ece39476a3a6dee5da .
+
+ex:Paper_00016e315b39d20b69f041790573e2215f9eb028-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924 .
+
+ex:Paper_00016e315b39d20b69f041790573e2215f9eb028-5 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637,
+        ex:Paper_0018e888e83bfd993bc49455a8787577ab28a19c,
+        ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1 .
+
+ex:Paper_00040bdd447f041a50ae95fd51926cf435ef1eba-1 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e,
+        ex:Paper_0152f2ba5f4765a313e4e41f735a37fca52a2a59 .
+
+ex:Paper_00040bdd447f041a50ae95fd51926cf435ef1eba-2 ex:citation_year 2020,
+        2024 ;
+    ex:cites_to ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888,
+        ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359 .
+
+ex:Paper_00040bdd447f041a50ae95fd51926cf435ef1eba-3 ex:citation_year 2021,
+        2022,
+        2024 ;
+    ex:cites_to ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f,
+        ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4,
+        ex:Paper_011efa271f4a51f73312e407d84161b7819ab066 .
+
+ex:Paper_00040bdd447f041a50ae95fd51926cf435ef1eba-4 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2,
+        ex:Paper_0101bef3602965eb124803564e37141cff2333ea .
+
+ex:Paper_00040bdd447f041a50ae95fd51926cf435ef1eba-5 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf .
+
+ex:Paper_00040bdd447f041a50ae95fd51926cf435ef1eba-6 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7 .
+
+ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1-1 ex:citation_year 2019,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_000bf014a71283e739b3288783e0572dd4de7301,
+        ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1,
+        ex:Paper_00967c22396abfb895868323ab720c28b837b4be .
+
+ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1-2 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_006bf046e6c27d882bae79688004c4c4f4781a0f,
+        ex:Paper_00e3e4cfdba66226403368edd30df8032c9802f0 .
+
+ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00ba98cf43f53a8e9e61b8895a7ca302900e6d7e .
+
+ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0056e636953cb016836b2c05f43a3d1d4f19880b .
+
+ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1-5 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_006609032b88eb4feaa63d1465fde5611156ca86 .
+
+ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637-1 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_00c92bd26958dbc085eb4bbc72aa3d34f92e32c7,
+        ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2,
+        ex:Paper_0152f2ba5f4765a313e4e41f735a37fca52a2a59 .
+
+ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637-2 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_009eb31338512d9ca6ffde4062f0443f94b61fd1,
+        ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688,
+        ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359 .
+
+ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637-3 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637,
+        ex:Paper_00296433175f54b52d49cb21f57ab608afe2d1bf .
+
+ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_008a0971b86645137102eebd63f8901638bf983c .
+
+ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f-1 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_00ada6a5c6607c63b7e060d040ddee120d5107ee .
+
+ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f-2 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3,
+        ex:Paper_0047798ed5bbb87084440d31345ae318e1e3a1b4 .
+
+ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f-3 ex:citation_year 2020,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885,
+        ex:Paper_00296433175f54b52d49cb21f57ab608afe2d1bf,
+        ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06 .
+
+ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f-4 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_002050388cdb39d6413ce48230496e8ccc08df04 .
+
+ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1-1 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_001fed0e97d344c3aa563c704356099a05111949,
+        ex:Paper_00bc156bac2b39fab1689fe047b23c9f216d7f29 .
+
+ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00735bf6a1ad14a343650e7a4b6661eda04ddd60,
+        ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26 .
+
+ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1-3 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_0013693bccf244dad3d321558ac7986bc0230db9,
+        ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4 .
+
+ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1-4 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_00363213c1d91a7d051c5ccbd360e11c8210aae4,
+        ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89 .
+
+ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9-1 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d .
+
+ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9-2 ex:citation_year 2021,
+        2023,
+        2024 ;
+    ex:cites_to ex:Paper_000cd7ac3435007cca292fc8f1bac86b7a066467,
+        ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac,
+        ex:Paper_00672bec9dd0e755f9c375f912c0f1c3918a6b74 .
+
+ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9-3 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_0013693bccf244dad3d321558ac7986bc0230db9,
+        ex:Paper_0018e888e83bfd993bc49455a8787577ab28a19c .
+
+ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0018e888e83bfd993bc49455a8787577ab28a19c,
+        ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b .
+
+ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9-5 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2 .
+
+ex:Paper_000bf014a71283e739b3288783e0572dd4de7301-1 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89,
+        ex:Paper_009eb31338512d9ca6ffde4062f0443f94b61fd1,
+        ex:Paper_00ada6a5c6607c63b7e060d040ddee120d5107ee .
+
+ex:Paper_000bf014a71283e739b3288783e0572dd4de7301-2 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00768f59dc45c197f4329a4d6287423dca22cdbf .
+
+ex:Paper_000bf014a71283e739b3288783e0572dd4de7301-3 ex:citation_year 2019,
+        2021,
+        2024 ;
+    ex:cites_to ex:Paper_0083bf90c49c5f48d52ce309c4ddc7f4f9782b15,
+        ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a,
+        ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7 .
+
+ex:Paper_000bf014a71283e739b3288783e0572dd4de7301-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0075dfdbd25dce1fd545d2ece39476a3a6dee5da .
+
+ex:Paper_000bf014a71283e739b3288783e0572dd4de7301-5 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d .
+
+ex:Paper_000cd7ac3435007cca292fc8f1bac86b7a066467-1 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_002523ab48c0a79567a275c5ba219e95e37d9cca,
+        ex:Paper_006707fad29166a3426fbb654d842c6d9292a771,
+        ex:Paper_00b0779034bc13da8f4eb18ed3d0c3466d759b91 .
+
+ex:Paper_000cd7ac3435007cca292fc8f1bac86b7a066467-2 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e,
+        ex:Paper_008f51c5a995cf3d19bdcf2c7bb01648774daafb,
+        ex:Paper_00bb7f29057d30892f84cc01a96301b688fcdef8 .
+
+ex:Paper_000cd7ac3435007cca292fc8f1bac86b7a066467-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1 .
+
+ex:Paper_000f945179e9ffc0ad20fe695bcc992066d6d072-1 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1 .
+
+ex:Paper_000f945179e9ffc0ad20fe695bcc992066d6d072-2 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1,
+        ex:Paper_014cf690afedcb7d8fddaa9d6770f162385ffc99 .
+
+ex:Paper_000f945179e9ffc0ad20fe695bcc992066d6d072-3 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7,
+        ex:Paper_00a653b045e7df3e93de9dc3cb0a186024ad1df0 .
+
+ex:Paper_0013693bccf244dad3d321558ac7986bc0230db9-1 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09,
+        ex:Paper_00bcec142c7d49ba269f65ba1463e2e226fdf545,
+        ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b .
+
+ex:Paper_0013693bccf244dad3d321558ac7986bc0230db9-2 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_000f945179e9ffc0ad20fe695bcc992066d6d072,
+        ex:Paper_0088aea75b76d7ecd3fa9680ebe778e271c4efcb,
+        ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe .
+
+ex:Paper_0013693bccf244dad3d321558ac7986bc0230db9-3 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945,
+        ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b,
+        ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01 .
+
+ex:Paper_0013693bccf244dad3d321558ac7986bc0230db9-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_001c15accd39827ecf9838d496b7e44e9f890ee7,
+        ex:Paper_008f51c5a995cf3d19bdcf2c7bb01648774daafb,
+        ex:Paper_00c39a8b3857f16fd59ebd91ed13d68a1aed4d8b .
+
+ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e-1 ex:citation_year 2020,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_001842ba6c880608a573eeeb2ccd38e9a8ba8281,
+        ex:Paper_00ba98cf43f53a8e9e61b8895a7ca302900e6d7e,
+        ex:Paper_0101bef3602965eb124803564e37141cff2333ea .
+
+ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e-2 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6 .
+
+ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e-3 ex:citation_year 2019,
+        2020,
+        2023 ;
+    ex:cites_to ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c,
+        ex:Paper_0101bef3602965eb124803564e37141cff2333ea,
+        ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8 .
+
+ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e-4 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_00296433175f54b52d49cb21f57ab608afe2d1bf,
+        ex:Paper_00672bec9dd0e755f9c375f912c0f1c3918a6b74 .
+
+ex:Paper_001533bcbe30802b9a37d8f9f22a083ccef516b4-1 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_0067258937f69e4cc4371a924134189074be8d93,
+        ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b .
+
+ex:Paper_001533bcbe30802b9a37d8f9f22a083ccef516b4-2 ex:citation_year 2019,
+        2021,
+        2022 ;
+    ex:cites_to ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89,
+        ex:Paper_00dc5c4cb64d6bd66ba091b2bdbd7baa189a3ced,
+        ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8 .
+
+ex:Paper_001842ba6c880608a573eeeb2ccd38e9a8ba8281-1 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275 .
+
+ex:Paper_001842ba6c880608a573eeeb2ccd38e9a8ba8281-2 ex:citation_year 2020,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637,
+        ex:Paper_002b5b830c6c7f312dd82cf936b6204bd4018de6,
+        ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2 .
+
+ex:Paper_001842ba6c880608a573eeeb2ccd38e9a8ba8281-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1 .
+
+ex:Paper_001842ba6c880608a573eeeb2ccd38e9a8ba8281-4 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9 .
+
+ex:Paper_0018e888e83bfd993bc49455a8787577ab28a19c-1 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637,
+        ex:Paper_005ad8621bb9672af1ac43500a5143d9d3f2db3e .
+
+ex:Paper_0018e888e83bfd993bc49455a8787577ab28a19c-2 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_0059adaaa42b647f4810d651fee0d7c5e5f60eaa,
+        ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2 .
+
+ex:Paper_0018e888e83bfd993bc49455a8787577ab28a19c-3 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_002050388cdb39d6413ce48230496e8ccc08df04,
+        ex:Paper_0042b16cba12db67855b603c261199b70067c69a .
+
+ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac,
+        ex:Paper_0067258937f69e4cc4371a924134189074be8d93 .
+
+ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00b42b3d8e4417399b06d547f4c46030f332c9be .
+
+ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1-3 ex:citation_year 2020,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_0067258937f69e4cc4371a924134189074be8d93,
+        ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b,
+        ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26 .
+
+ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1-4 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00b3fc061b3600b9508480022556c9a76494dba4 .
+
+ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1-5 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7 .
+
+ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac-1 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885,
+        ex:Paper_00250fc7fe665bdb5af3e895a18d1c94db3a7c8e,
+        ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34 .
+
+ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac-2 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23,
+        ex:Paper_00dc5c4cb64d6bd66ba091b2bdbd7baa189a3ced .
+
+ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945 .
+
+ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac-4 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_008f8eb8cfbada33bedbcf794e725606b5a3a3e7 .
+
+ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac-5 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_003d912198ad1a718a84e430d47f6c513bb4df92 .
+
+ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58-1 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_00296433175f54b52d49cb21f57ab608afe2d1bf,
+        ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c .
+
+ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58-2 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_0092c1083e4fb679b288686d1dc8c9d83efef9bc .
+
+ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58-3 ex:citation_year 2020,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1,
+        ex:Paper_00b9b9bf5b07d6af71bef29c48a35b948cc12255,
+        ex:Paper_00e70c97afd1af0b70e1fc6480d05a9d55a75413 .
+
+ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0083bf90c49c5f48d52ce309c4ddc7f4f9782b15 .
+
+ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204-1 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_002ca9eeb8de246f430f8c5ea4b60c5b3165aeac .
+
+ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204-2 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_00296433175f54b52d49cb21f57ab608afe2d1bf,
+        ex:Paper_00bb7f29057d30892f84cc01a96301b688fcdef8 .
+
+ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204-3 ex:citation_year 2020,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_0039e77f1a6de8f375b9c57417201957471ea121,
+        ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7,
+        ex:Paper_0047798ed5bbb87084440d31345ae318e1e3a1b4 .
+
+ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204-4 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_007617660cc0d33741a6b6603da6a1844714cbdf .
+
+ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204-5 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6,
+        ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8 .
+
+ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204-6 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637,
+        ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e .
+
+ex:Paper_001bd1d8b04d5c20d9f4f4860146d43de445bc17-1 ex:citation_year 2019,
+        2020,
+        2023 ;
+    ex:cites_to ex:Paper_00d751c11cf2390626d051bcbda4a70cb9355a38,
+        ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34,
+        ex:Paper_00e3e4cfdba66226403368edd30df8032c9802f0 .
+
+ex:Paper_001bd1d8b04d5c20d9f4f4860146d43de445bc17-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923 .
+
+ex:Paper_001bd1d8b04d5c20d9f4f4860146d43de445bc17-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739 .
+
+ex:Paper_001bd1d8b04d5c20d9f4f4860146d43de445bc17-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00b0779034bc13da8f4eb18ed3d0c3466d759b91,
+        ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4 .
+
+ex:Paper_001bd1d8b04d5c20d9f4f4860146d43de445bc17-5 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_00c39a8b3857f16fd59ebd91ed13d68a1aed4d8b,
+        ex:Paper_00e70c97afd1af0b70e1fc6480d05a9d55a75413 .
+
+ex:Paper_001c15accd39827ecf9838d496b7e44e9f890ee7-1 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d,
+        ex:Paper_00b42b3d8e4417399b06d547f4c46030f332c9be .
+
+ex:Paper_001c15accd39827ecf9838d496b7e44e9f890ee7-2 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_0067258937f69e4cc4371a924134189074be8d93,
+        ex:Paper_008a0971b86645137102eebd63f8901638bf983c,
+        ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523 .
+
+ex:Paper_001c15accd39827ecf9838d496b7e44e9f890ee7-3 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_007617660cc0d33741a6b6603da6a1844714cbdf,
+        ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734 .
+
+ex:Paper_001c15accd39827ecf9838d496b7e44e9f890ee7-4 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_001533bcbe30802b9a37d8f9f22a083ccef516b4,
+        ex:Paper_0125abc6b5f4b4e1c9b87c4735fc8313c0600c88 .
+
+ex:Paper_001c15accd39827ecf9838d496b7e44e9f890ee7-5 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f,
+        ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b,
+        ex:Paper_01383cf064a9963054b5416c04cc421100656892 .
+
+ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc-1 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27 .
+
+ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b .
+
+ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc-3 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945 .
+
+ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc-4 ex:citation_year 2020,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885,
+        ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94,
+        ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75 .
+
+ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc-5 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27 .
+
+ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc-6 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc,
+        ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1 .
+
+ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc-7 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c .
+
+ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc-8 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_005ad8621bb9672af1ac43500a5143d9d3f2db3e .
+
+ex:Paper_001fed0e97d344c3aa563c704356099a05111949-1 ex:citation_year 2020,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89,
+        ex:Paper_008a0971b86645137102eebd63f8901638bf983c,
+        ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8 .
+
+ex:Paper_001fed0e97d344c3aa563c704356099a05111949-2 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_00c5cf4399df8efa1179915c36088a99eb26f281,
+        ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923 .
+
+ex:Paper_001fed0e97d344c3aa563c704356099a05111949-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_000bf014a71283e739b3288783e0572dd4de7301 .
+
+ex:Paper_001fed0e97d344c3aa563c704356099a05111949-4 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_0059adaaa42b647f4810d651fee0d7c5e5f60eaa,
+        ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23,
+        ex:Paper_00e2b0f9bcdfa52fbf68a959f9daa8a5ba23bba8 .
+
+ex:Paper_002050388cdb39d6413ce48230496e8ccc08df04-1 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_0039e77f1a6de8f375b9c57417201957471ea121,
+        ex:Paper_00bb7f29057d30892f84cc01a96301b688fcdef8,
+        ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2 .
+
+ex:Paper_002050388cdb39d6413ce48230496e8ccc08df04-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945 .
+
+ex:Paper_002050388cdb39d6413ce48230496e8ccc08df04-3 ex:citation_year 2020,
+        2024 ;
+    ex:cites_to ex:Paper_00016e315b39d20b69f041790573e2215f9eb028,
+        ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c,
+        ex:Paper_00b3fc061b3600b9508480022556c9a76494dba4 .
+
+ex:Paper_002050388cdb39d6413ce48230496e8ccc08df04-4 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89,
+        ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950 .
+
+ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7-1 ex:citation_year 2019,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_0075dfdbd25dce1fd545d2ece39476a3a6dee5da,
+        ex:Paper_00ad2477dc6e9223507654688f088ba35a29a653,
+        ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688 .
+
+ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7-2 ex:citation_year 2019,
+        2020,
+        2022 ;
+    ex:cites_to ex:Paper_0067258937f69e4cc4371a924134189074be8d93,
+        ex:Paper_008a0971b86645137102eebd63f8901638bf983c,
+        ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b .
+
+ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7-3 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1,
+        ex:Paper_003d912198ad1a718a84e430d47f6c513bb4df92,
+        ex:Paper_00bc156bac2b39fab1689fe047b23c9f216d7f29 .
+
+ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275 .
+
+ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c-1 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918 .
+
+ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c-2 ex:citation_year 2021,
+        2024 ;
+    ex:cites_to ex:Paper_00a653b045e7df3e93de9dc3cb0a186024ad1df0,
+        ex:Paper_01383cf064a9963054b5416c04cc421100656892 .
+
+ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c-3 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89,
+        ex:Paper_000cd7ac3435007cca292fc8f1bac86b7a066467,
+        ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b .
+
+ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c-4 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_0027a5389929596cc4bd1d645104cd7d88588509,
+        ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b,
+        ex:Paper_00a475e5f179857ad0d2d139d65183109b8c7dc4 .
+
+ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c-5 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe .
+
+ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c-6 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_007617660cc0d33741a6b6603da6a1844714cbdf,
+        ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87 .
+
+ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885-1 ex:citation_year 2023,
+        2024 ;
+    ex:cites_to ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a,
+        ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c,
+        ex:Paper_00c39a8b3857f16fd59ebd91ed13d68a1aed4d8b .
+
+ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885-2 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_000f945179e9ffc0ad20fe695bcc992066d6d072,
+        ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac,
+        ex:Paper_0056e636953cb016836b2c05f43a3d1d4f19880b .
+
+ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885-3 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_005b716759daadb580b472602f6167559aadc9c5 .
+
+ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885-4 ex:citation_year 2023,
+        2024 ;
+    ex:cites_to ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035,
+        ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a,
+        ex:Paper_00a3e1c293f3c8dfc205f0094f4d971850a5d99c .
+
+ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885-5 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b .
+
+ex:Paper_00250fc7fe665bdb5af3e895a18d1c94db3a7c8e-1 ex:citation_year 2019,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75,
+        ex:Paper_00b3fc061b3600b9508480022556c9a76494dba4,
+        ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6 .
+
+ex:Paper_00250fc7fe665bdb5af3e895a18d1c94db3a7c8e-2 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75,
+        ex:Paper_013fc96537baedea3e397d057be8404aa93d5299 .
+
+ex:Paper_00250fc7fe665bdb5af3e895a18d1c94db3a7c8e-3 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e .
+
+ex:Paper_002523ab48c0a79567a275c5ba219e95e37d9cca-1 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8 .
+
+ex:Paper_002523ab48c0a79567a275c5ba219e95e37d9cca-2 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011 .
+
+ex:Paper_002523ab48c0a79567a275c5ba219e95e37d9cca-3 ex:citation_year 2022,
+        2024 ;
+    ex:cites_to ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e,
+        ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38,
+        ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06 .
+
+ex:Paper_002523ab48c0a79567a275c5ba219e95e37d9cca-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9 .
+
+ex:Paper_0027a5389929596cc4bd1d645104cd7d88588509-1 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94,
+        ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d,
+        ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b .
+
+ex:Paper_0027a5389929596cc4bd1d645104cd7d88588509-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00ba98cf43f53a8e9e61b8895a7ca302900e6d7e .
+
+ex:Paper_0027a5389929596cc4bd1d645104cd7d88588509-3 ex:citation_year 2022,
+        2024 ;
+    ex:cites_to ex:Paper_001842ba6c880608a573eeeb2ccd38e9a8ba8281,
+        ex:Paper_002ca9eeb8de246f430f8c5ea4b60c5b3165aeac,
+        ex:Paper_00363213c1d91a7d051c5ccbd360e11c8210aae4 .
+
+ex:Paper_00296433175f54b52d49cb21f57ab608afe2d1bf-1 ex:citation_year 2019,
+        2020,
+        2023 ;
+    ex:cites_to ex:Paper_00250fc7fe665bdb5af3e895a18d1c94db3a7c8e,
+        ex:Paper_0074abb724b0cec51d8ff51b73f41452fa3b156f,
+        ex:Paper_00b5f8d132c6223e130622b4136e1090e943f238 .
+
+ex:Paper_00296433175f54b52d49cb21f57ab608afe2d1bf-2 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89,
+        ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e .
+
+ex:Paper_00296433175f54b52d49cb21f57ab608afe2d1bf-3 ex:citation_year 2019,
+        2020,
+        2021 ;
+    ex:cites_to ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e,
+        ex:Paper_006bf046e6c27d882bae79688004c4c4f4781a0f,
+        ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c .
+
+ex:Paper_002b5b830c6c7f312dd82cf936b6204bd4018de6-1 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8 .
+
+ex:Paper_002b5b830c6c7f312dd82cf936b6204bd4018de6-2 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f,
+        ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8 .
+
+ex:Paper_002b5b830c6c7f312dd82cf936b6204bd4018de6-3 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_0042b16cba12db67855b603c261199b70067c69a,
+        ex:Paper_0090fe788feb3d56ee9bb1aaf83d51de71d8d3e6 .
+
+ex:Paper_002b5b830c6c7f312dd82cf936b6204bd4018de6-4 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9,
+        ex:Paper_008f8eb8cfbada33bedbcf794e725606b5a3a3e7 .
+
+ex:Paper_002b5b830c6c7f312dd82cf936b6204bd4018de6-5 ex:citation_year 2022,
+        2024 ;
+    ex:cites_to ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1,
+        ex:Paper_0075dfdbd25dce1fd545d2ece39476a3a6dee5da .
+
+ex:Paper_002b5b830c6c7f312dd82cf936b6204bd4018de6-6 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_00ada6a5c6607c63b7e060d040ddee120d5107ee,
+        ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739 .
+
+ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035-1 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25,
+        ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06,
+        ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba .
+
+ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035-2 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4,
+        ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b .
+
+ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035-3 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a .
+
+ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c .
+
+ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035-5 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734 .
+
+ex:Paper_002ca9eeb8de246f430f8c5ea4b60c5b3165aeac-1 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e,
+        ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b .
+
+ex:Paper_002ca9eeb8de246f430f8c5ea4b60c5b3165aeac-2 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_001c15accd39827ecf9838d496b7e44e9f890ee7,
+        ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f,
+        ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8 .
+
+ex:Paper_002ca9eeb8de246f430f8c5ea4b60c5b3165aeac-3 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_000cd7ac3435007cca292fc8f1bac86b7a066467,
+        ex:Paper_0152f2ba5f4765a313e4e41f735a37fca52a2a59 .
+
+ex:Paper_002df72c36a270cc824897f6e5f88edf70fb1f61-1 ex:citation_year 2020,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_005b716759daadb580b472602f6167559aadc9c5,
+        ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b,
+        ex:Paper_009eb31338512d9ca6ffde4062f0443f94b61fd1 .
+
+ex:Paper_002df72c36a270cc824897f6e5f88edf70fb1f61-2 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3,
+        ex:Paper_00554b24a42a74ce45d041d3ace268d3fe3eb77a,
+        ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27 .
+
+ex:Paper_002df72c36a270cc824897f6e5f88edf70fb1f61-3 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7,
+        ex:Paper_00d751c11cf2390626d051bcbda4a70cb9355a38 .
+
+ex:Paper_002df72c36a270cc824897f6e5f88edf70fb1f61-4 ex:citation_year 2019,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_00768f59dc45c197f4329a4d6287423dca22cdbf,
+        ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e,
+        ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2 .
+
+ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b-1 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_0098b6f1bf31b12cdd0c24ef81050c3d2a39b0f5,
+        ex:Paper_00c5cf4399df8efa1179915c36088a99eb26f281 .
+
+ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e .
+
+ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b-3 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_00c92bd26958dbc085eb4bbc72aa3d34f92e32c7,
+        ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b .
+
+ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b-4 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00c53bf5f1a48b64ee809cad8acc933d43234b9c .
+
+ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b-5 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25,
+        ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8,
+        ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b .
+
+ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b-6 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1,
+        ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23,
+        ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e .
+
+ex:Paper_0034365ccb6a98eddd0fab3184c1930621ca7b17-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7 .
+
+ex:Paper_0034365ccb6a98eddd0fab3184c1930621ca7b17-2 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1,
+        ex:Paper_0150286dd10c0e18fd86a08603fd32343ba73d46 .
+
+ex:Paper_0034365ccb6a98eddd0fab3184c1930621ca7b17-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f,
+        ex:Paper_00b42b3d8e4417399b06d547f4c46030f332c9be .
+
+ex:Paper_0034365ccb6a98eddd0fab3184c1930621ca7b17-4 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf,
+        ex:Paper_0101bef3602965eb124803564e37141cff2333ea .
+
+ex:Paper_0034365ccb6a98eddd0fab3184c1930621ca7b17-5 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918,
+        ex:Paper_013fc96537baedea3e397d057be8404aa93d5299 .
+
+ex:Paper_0034365ccb6a98eddd0fab3184c1930621ca7b17-6 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_008f8eb8cfbada33bedbcf794e725606b5a3a3e7,
+        ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1 .
+
+ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945-1 ex:citation_year 2019,
+        2024 ;
+    ex:cites_to ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1,
+        ex:Paper_006bf046e6c27d882bae79688004c4c4f4781a0f .
+
+ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945-2 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f,
+        ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1 .
+
+ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945-3 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc,
+        ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f,
+        ex:Paper_00e26133551f152f4c8913c5442238d30a63ef79 .
+
+ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945-4 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5 .
+
+ex:Paper_00363213c1d91a7d051c5ccbd360e11c8210aae4-1 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_00ad2477dc6e9223507654688f088ba35a29a653,
+        ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b .
+
+ex:Paper_00363213c1d91a7d051c5ccbd360e11c8210aae4-2 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_0059adaaa42b647f4810d651fee0d7c5e5f60eaa,
+        ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94,
+        ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e .
+
+ex:Paper_00363213c1d91a7d051c5ccbd360e11c8210aae4-3 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00040bdd447f041a50ae95fd51926cf435ef1eba .
+
+ex:Paper_00363213c1d91a7d051c5ccbd360e11c8210aae4-4 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba .
+
+ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf-1 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_007b5590510ea92dddb5c43ea4df9c8bc068e15d .
+
+ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf-2 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_00040bdd447f041a50ae95fd51926cf435ef1eba,
+        ex:Paper_003d912198ad1a718a84e430d47f6c513bb4df92 .
+
+ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf-3 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e .
+
+ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf-4 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c .
+
+ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf-5 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359 .
+
+ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf-6 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d .
+
+ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf-7 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba .
+
+ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf-8 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89 .
+
+ex:Paper_0039e77f1a6de8f375b9c57417201957471ea121-1 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80,
+        ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c .
+
+ex:Paper_0039e77f1a6de8f375b9c57417201957471ea121-2 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a,
+        ex:Paper_00d3c2608f64f432f21a7749b9c674c94170d17e,
+        ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37 .
+
+ex:Paper_0039e77f1a6de8f375b9c57417201957471ea121-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011 .
+
+ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a-1 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_007b0a33a13c085f7ba0a66d1b6b1f7fbace740e .
+
+ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a-2 ex:citation_year 2019,
+        2020,
+        2023 ;
+    ex:cites_to ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1,
+        ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7,
+        ex:Paper_0027a5389929596cc4bd1d645104cd7d88588509 .
+
+ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b .
+
+ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2 .
+
+ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a-5 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27 .
+
+ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a-6 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00a427715f49105b001ba242ad0e36b570c6d5db .
+
+ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171-1 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923 .
+
+ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00b3fc061b3600b9508480022556c9a76494dba4 .
+
+ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171-3 ex:citation_year 2019,
+        2023,
+        2024 ;
+    ex:cites_to ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1,
+        ex:Paper_00b9b9bf5b07d6af71bef29c48a35b948cc12255,
+        ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8 .
+
+ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7-1 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00b42b3d8e4417399b06d547f4c46030f332c9be .
+
+ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7-2 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c,
+        ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888,
+        ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9 .
+
+ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7-3 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00a653b045e7df3e93de9dc3cb0a186024ad1df0 .
+
+ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00672bec9dd0e755f9c375f912c0f1c3918a6b74,
+        ex:Paper_014cf690afedcb7d8fddaa9d6770f162385ffc99 .
+
+ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b-1 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278,
+        ex:Paper_00ad2477dc6e9223507654688f088ba35a29a653 .
+
+ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b-2 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a,
+        ex:Paper_00d3c2608f64f432f21a7749b9c674c94170d17e,
+        ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923 .
+
+ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b-3 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_00e26133551f152f4c8913c5442238d30a63ef79,
+        ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2 .
+
+ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b-4 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89,
+        ex:Paper_0074abb724b0cec51d8ff51b73f41452fa3b156f,
+        ex:Paper_00e3e4cfdba66226403368edd30df8032c9802f0 .
+
+ex:Paper_003d912198ad1a718a84e430d47f6c513bb4df92-1 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171,
+        ex:Paper_00c53bf5f1a48b64ee809cad8acc933d43234b9c .
+
+ex:Paper_003d912198ad1a718a84e430d47f6c513bb4df92-2 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e,
+        ex:Paper_0088aea75b76d7ecd3fa9680ebe778e271c4efcb,
+        ex:Paper_01139f79fb260e1bd06f423cb21522b3e41b31e9 .
+
+ex:Paper_0042b16cba12db67855b603c261199b70067c69a-1 ex:citation_year 2020,
+        2021,
+        2022 ;
+    ex:cites_to ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58,
+        ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23,
+        ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34 .
+
+ex:Paper_0042b16cba12db67855b603c261199b70067c69a-2 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_000bf014a71283e739b3288783e0572dd4de7301,
+        ex:Paper_005b716759daadb580b472602f6167559aadc9c5,
+        ex:Paper_0152f2ba5f4765a313e4e41f735a37fca52a2a59 .
+
+ex:Paper_0042b16cba12db67855b603c261199b70067c69a-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58,
+        ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7 .
+
+ex:Paper_0042b16cba12db67855b603c261199b70067c69a-4 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_000bf014a71283e739b3288783e0572dd4de7301,
+        ex:Paper_0018e888e83bfd993bc49455a8787577ab28a19c .
+
+ex:Paper_0042b16cba12db67855b603c261199b70067c69a-5 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204 .
+
+ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3-1 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_00363213c1d91a7d051c5ccbd360e11c8210aae4,
+        ex:Paper_0054351123d266e99f6b207082265caa038b6b50,
+        ex:Paper_0101bef3602965eb124803564e37141cff2333ea .
+
+ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3-2 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5,
+        ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6 .
+
+ex:Paper_0047798ed5bbb87084440d31345ae318e1e3a1b4-1 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c,
+        ex:Paper_007b0a33a13c085f7ba0a66d1b6b1f7fbace740e .
+
+ex:Paper_0047798ed5bbb87084440d31345ae318e1e3a1b4-2 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1,
+        ex:Paper_011efa271f4a51f73312e407d84161b7819ab066 .
+
+ex:Paper_0047798ed5bbb87084440d31345ae318e1e3a1b4-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87 .
+
+ex:Paper_0047798ed5bbb87084440d31345ae318e1e3a1b4-4 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204,
+        ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278 .
+
+ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00b5f8d132c6223e130622b4136e1090e943f238 .
+
+ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0083bf90c49c5f48d52ce309c4ddc7f4f9782b15 .
+
+ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6-3 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9,
+        ex:Paper_00ada6a5c6607c63b7e060d040ddee120d5107ee .
+
+ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6-4 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38,
+        ex:Paper_00ad2477dc6e9223507654688f088ba35a29a653 .
+
+ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_008f51c5a995cf3d19bdcf2c7bb01648774daafb .
+
+ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09-2 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_00a3e1c293f3c8dfc205f0094f4d971850a5d99c,
+        ex:Paper_00c39a8b3857f16fd59ebd91ed13d68a1aed4d8b .
+
+ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_007b5590510ea92dddb5c43ea4df9c8bc068e15d .
+
+ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09-4 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00a9af382e2e28bdd25dddbb1cd64c1885a4fc93 .
+
+ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09-5 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00a475e5f179857ad0d2d139d65183109b8c7dc4 .
+
+ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09-6 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89,
+        ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c .
+
+ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09-7 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c .
+
+ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09-8 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278 .
+
+ex:Paper_0054351123d266e99f6b207082265caa038b6b50-1 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_00554b24a42a74ce45d041d3ace268d3fe3eb77a,
+        ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1 .
+
+ex:Paper_0054351123d266e99f6b207082265caa038b6b50-2 ex:citation_year 2020,
+        2023,
+        2024 ;
+    ex:cites_to ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278,
+        ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918,
+        ex:Paper_00b42b3d8e4417399b06d547f4c46030f332c9be .
+
+ex:Paper_0054351123d266e99f6b207082265caa038b6b50-3 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_001c15accd39827ecf9838d496b7e44e9f890ee7,
+        ex:Paper_002ca9eeb8de246f430f8c5ea4b60c5b3165aeac,
+        ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1 .
+
+ex:Paper_0054351123d266e99f6b207082265caa038b6b50-4 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e .
+
+ex:Paper_00554b24a42a74ce45d041d3ace268d3fe3eb77a-1 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9,
+        ex:Paper_000f945179e9ffc0ad20fe695bcc992066d6d072,
+        ex:Paper_006bf046e6c27d882bae79688004c4c4f4781a0f .
+
+ex:Paper_00554b24a42a74ce45d041d3ace268d3fe3eb77a-2 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_002df72c36a270cc824897f6e5f88edf70fb1f61,
+        ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2 .
+
+ex:Paper_00554b24a42a74ce45d041d3ace268d3fe3eb77a-3 ex:citation_year 2019,
+        2020,
+        2021 ;
+    ex:cites_to ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6,
+        ex:Paper_008a0971b86645137102eebd63f8901638bf983c,
+        ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4 .
+
+ex:Paper_00554b24a42a74ce45d041d3ace268d3fe3eb77a-4 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_001bd1d8b04d5c20d9f4f4860146d43de445bc17,
+        ex:Paper_00a475e5f179857ad0d2d139d65183109b8c7dc4,
+        ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34 .
+
+ex:Paper_00554b24a42a74ce45d041d3ace268d3fe3eb77a-5 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8 .
+
+ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9-1 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b,
+        ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a,
+        ex:Paper_00d3c2608f64f432f21a7749b9c674c94170d17e .
+
+ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9-2 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23,
+        ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4,
+        ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011 .
+
+ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9-3 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275 .
+
+ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00ad2477dc6e9223507654688f088ba35a29a653 .
+
+ex:Paper_0056e636953cb016836b2c05f43a3d1d4f19880b-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c .
+
+ex:Paper_0056e636953cb016836b2c05f43a3d1d4f19880b-2 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f,
+        ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a .
+
+ex:Paper_0056e636953cb016836b2c05f43a3d1d4f19880b-3 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_002df72c36a270cc824897f6e5f88edf70fb1f61,
+        ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8 .
+
+ex:Paper_0056e636953cb016836b2c05f43a3d1d4f19880b-4 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_00250fc7fe665bdb5af3e895a18d1c94db3a7c8e,
+        ex:Paper_01383cf064a9963054b5416c04cc421100656892 .
+
+ex:Paper_0056e636953cb016836b2c05f43a3d1d4f19880b-5 ex:citation_year 2021,
+        2024 ;
+    ex:cites_to ex:Paper_00768f59dc45c197f4329a4d6287423dca22cdbf,
+        ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b .
+
+ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1-1 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_000f945179e9ffc0ad20fe695bcc992066d6d072,
+        ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c,
+        ex:Paper_00729e81a3c5d5ca1f7c57751cc6664da5450c76 .
+
+ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1-2 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_006bd41c4a52c64445afdbc67182715a476e09c8,
+        ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923 .
+
+ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1-3 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80 .
+
+ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1-4 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_013fc96537baedea3e397d057be8404aa93d5299 .
+
+ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1-5 ex:citation_year 2019,
+        2021,
+        2022 ;
+    ex:cites_to ex:Paper_00250fc7fe665bdb5af3e895a18d1c94db3a7c8e,
+        ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f,
+        ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1 .
+
+ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1-6 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359 .
+
+ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1-7 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00bb7f29057d30892f84cc01a96301b688fcdef8 .
+
+ex:Paper_0059adaaa42b647f4810d651fee0d7c5e5f60eaa-1 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0090fe788feb3d56ee9bb1aaf83d51de71d8d3e6 .
+
+ex:Paper_0059adaaa42b647f4810d651fee0d7c5e5f60eaa-2 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9 .
+
+ex:Paper_0059adaaa42b647f4810d651fee0d7c5e5f60eaa-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00ada6a5c6607c63b7e060d040ddee120d5107ee .
+
+ex:Paper_0059adaaa42b647f4810d651fee0d7c5e5f60eaa-4 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_002050388cdb39d6413ce48230496e8ccc08df04,
+        ex:Paper_0088aea75b76d7ecd3fa9680ebe778e271c4efcb .
+
+ex:Paper_0059adaaa42b647f4810d651fee0d7c5e5f60eaa-5 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00e3e4cfdba66226403368edd30df8032c9802f0 .
+
+ex:Paper_0059adaaa42b647f4810d651fee0d7c5e5f60eaa-6 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_001fed0e97d344c3aa563c704356099a05111949 .
+
+ex:Paper_005ad8621bb9672af1ac43500a5143d9d3f2db3e-1 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1,
+        ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923 .
+
+ex:Paper_005ad8621bb9672af1ac43500a5143d9d3f2db3e-2 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9,
+        ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a,
+        ex:Paper_005f0f6d796e1856b373e2116bdbffa719d12fbd .
+
+ex:Paper_005ad8621bb9672af1ac43500a5143d9d3f2db3e-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_005ad8621bb9672af1ac43500a5143d9d3f2db3e .
+
+ex:Paper_005ad8621bb9672af1ac43500a5143d9d3f2db3e-4 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_00b42b3d8e4417399b06d547f4c46030f332c9be,
+        ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b .
+
+ex:Paper_005b716759daadb580b472602f6167559aadc9c5-1 ex:citation_year 2021,
+        2023,
+        2024 ;
+    ex:cites_to ex:Paper_00296433175f54b52d49cb21f57ab608afe2d1bf,
+        ex:Paper_00672bec9dd0e755f9c375f912c0f1c3918a6b74,
+        ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25 .
+
+ex:Paper_005b716759daadb580b472602f6167559aadc9c5-2 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_006707fad29166a3426fbb654d842c6d9292a771,
+        ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26 .
+
+ex:Paper_005b716759daadb580b472602f6167559aadc9c5-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_008f8eb8cfbada33bedbcf794e725606b5a3a3e7 .
+
+ex:Paper_005f0f6d796e1856b373e2116bdbffa719d12fbd-1 ex:citation_year 2020,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1,
+        ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739,
+        ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734 .
+
+ex:Paper_005f0f6d796e1856b373e2116bdbffa719d12fbd-2 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_000bf014a71283e739b3288783e0572dd4de7301,
+        ex:Paper_001fed0e97d344c3aa563c704356099a05111949,
+        ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b .
+
+ex:Paper_005f0f6d796e1856b373e2116bdbffa719d12fbd-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1,
+        ex:Paper_0092c1083e4fb679b288686d1dc8c9d83efef9bc .
+
+ex:Paper_005f0f6d796e1856b373e2116bdbffa719d12fbd-4 ex:citation_year 2019,
+        2024 ;
+    ex:cites_to ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3,
+        ex:Paper_0056e636953cb016836b2c05f43a3d1d4f19880b .
+
+ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c-1 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924,
+        ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c,
+        ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688 .
+
+ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c-2 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_00672bec9dd0e755f9c375f912c0f1c3918a6b74,
+        ex:Paper_00a3e1c293f3c8dfc205f0094f4d971850a5d99c .
+
+ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0067258937f69e4cc4371a924134189074be8d93 .
+
+ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c-4 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_005f0f6d796e1856b373e2116bdbffa719d12fbd,
+        ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275 .
+
+ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c-5 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf .
+
+ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c-6 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7,
+        ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c,
+        ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4 .
+
+ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f-1 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e .
+
+ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f-2 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918,
+        ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688,
+        ex:Paper_00e26133551f152f4c8913c5442238d30a63ef79 .
+
+ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885,
+        ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d .
+
+ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00922c3a783155b87425b085306b973664044dd4 .
+
+ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94-1 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf .
+
+ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_002050388cdb39d6413ce48230496e8ccc08df04 .
+
+ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94-3 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_006707fad29166a3426fbb654d842c6d9292a771,
+        ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34 .
+
+ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2 .
+
+ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94-5 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00768f59dc45c197f4329a4d6287423dca22cdbf .
+
+ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94-6 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3,
+        ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4 .
+
+ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94-7 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b,
+        ex:Paper_005ad8621bb9672af1ac43500a5143d9d3f2db3e,
+        ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75 .
+
+ex:Paper_006609032b88eb4feaa63d1465fde5611156ca86-1 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204,
+        ex:Paper_002b5b830c6c7f312dd82cf936b6204bd4018de6 .
+
+ex:Paper_006609032b88eb4feaa63d1465fde5611156ca86-2 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_00b9b9bf5b07d6af71bef29c48a35b948cc12255 .
+
+ex:Paper_006609032b88eb4feaa63d1465fde5611156ca86-3 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89,
+        ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b .
+
+ex:Paper_006707fad29166a3426fbb654d842c6d9292a771-1 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204,
+        ex:Paper_007b0a33a13c085f7ba0a66d1b6b1f7fbace740e .
+
+ex:Paper_006707fad29166a3426fbb654d842c6d9292a771-2 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_002523ab48c0a79567a275c5ba219e95e37d9cca,
+        ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950,
+        ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba .
+
+ex:Paper_006707fad29166a3426fbb654d842c6d9292a771-3 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b .
+
+ex:Paper_0067258937f69e4cc4371a924134189074be8d93-1 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1 .
+
+ex:Paper_0067258937f69e4cc4371a924134189074be8d93-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637 .
+
+ex:Paper_0067258937f69e4cc4371a924134189074be8d93-3 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f,
+        ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b,
+        ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7 .
+
+ex:Paper_0067258937f69e4cc4371a924134189074be8d93-4 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_008f8eb8cfbada33bedbcf794e725606b5a3a3e7,
+        ex:Paper_00e26133551f152f4c8913c5442238d30a63ef79 .
+
+ex:Paper_00672bec9dd0e755f9c375f912c0f1c3918a6b74-1 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888,
+        ex:Paper_00d751c11cf2390626d051bcbda4a70cb9355a38,
+        ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c .
+
+ex:Paper_00672bec9dd0e755f9c375f912c0f1c3918a6b74-2 ex:citation_year 2020,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_0042b16cba12db67855b603c261199b70067c69a,
+        ex:Paper_00735bf6a1ad14a343650e7a4b6661eda04ddd60,
+        ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359 .
+
+ex:Paper_00672bec9dd0e755f9c375f912c0f1c3918a6b74-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a .
+
+ex:Paper_00672bec9dd0e755f9c375f912c0f1c3918a6b74-4 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0059adaaa42b647f4810d651fee0d7c5e5f60eaa .
+
+ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25-1 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9,
+        ex:Paper_00a475e5f179857ad0d2d139d65183109b8c7dc4 .
+
+ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25-2 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_00c5cf4399df8efa1179915c36088a99eb26f281 .
+
+ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25-3 ex:citation_year 2020,
+        2024 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7,
+        ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1,
+        ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba .
+
+ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_000cd7ac3435007cca292fc8f1bac86b7a066467 .
+
+ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25-5 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba .
+
+ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38-1 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5 .
+
+ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1 .
+
+ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e .
+
+ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38-4 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_005ad8621bb9672af1ac43500a5143d9d3f2db3e,
+        ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f,
+        ex:Paper_00967c22396abfb895868323ab720c28b837b4be .
+
+ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38-5 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00dc5c4cb64d6bd66ba091b2bdbd7baa189a3ced .
+
+ex:Paper_006bd41c4a52c64445afdbc67182715a476e09c8-1 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac,
+        ex:Paper_00b3fc061b3600b9508480022556c9a76494dba4 .
+
+ex:Paper_006bd41c4a52c64445afdbc67182715a476e09c8-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0067258937f69e4cc4371a924134189074be8d93,
+        ex:Paper_0101bef3602965eb124803564e37141cff2333ea .
+
+ex:Paper_006bd41c4a52c64445afdbc67182715a476e09c8-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523 .
+
+ex:Paper_006bf046e6c27d882bae79688004c4c4f4781a0f-1 ex:citation_year 2019,
+        2020,
+        2021 ;
+    ex:cites_to ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b,
+        ex:Paper_0092c1083e4fb679b288686d1dc8c9d83efef9bc,
+        ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b .
+
+ex:Paper_006bf046e6c27d882bae79688004c4c4f4781a0f-2 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f,
+        ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f,
+        ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01 .
+
+ex:Paper_007098d098b83163f76d17b75fb47f2eec43fd2d-1 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94,
+        ex:Paper_00c53bf5f1a48b64ee809cad8acc933d43234b9c .
+
+ex:Paper_007098d098b83163f76d17b75fb47f2eec43fd2d-2 ex:citation_year 2019,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_0042b16cba12db67855b603c261199b70067c69a,
+        ex:Paper_007098d098b83163f76d17b75fb47f2eec43fd2d,
+        ex:Paper_008f8eb8cfbada33bedbcf794e725606b5a3a3e7 .
+
+ex:Paper_007098d098b83163f76d17b75fb47f2eec43fd2d-3 ex:citation_year 2019,
+        2020,
+        2021 ;
+    ex:cites_to ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a,
+        ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d,
+        ex:Paper_00ba98cf43f53a8e9e61b8895a7ca302900e6d7e .
+
+ex:Paper_007098d098b83163f76d17b75fb47f2eec43fd2d-4 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_006bf046e6c27d882bae79688004c4c4f4781a0f .
+
+ex:Paper_00729e81a3c5d5ca1f7c57751cc6664da5450c76-1 ex:citation_year 2019,
+        2024 ;
+    ex:cites_to ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885,
+        ex:Paper_00b0779034bc13da8f4eb18ed3d0c3466d759b91,
+        ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a .
+
+ex:Paper_00729e81a3c5d5ca1f7c57751cc6664da5450c76-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6,
+        ex:Paper_007b0a33a13c085f7ba0a66d1b6b1f7fbace740e .
+
+ex:Paper_00729e81a3c5d5ca1f7c57751cc6664da5450c76-3 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739,
+        ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950,
+        ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba .
+
+ex:Paper_00729e81a3c5d5ca1f7c57751cc6664da5450c76-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734 .
+
+ex:Paper_00735bf6a1ad14a343650e7a4b6661eda04ddd60-1 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f,
+        ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b .
+
+ex:Paper_00735bf6a1ad14a343650e7a4b6661eda04ddd60-2 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b,
+        ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275,
+        ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e .
+
+ex:Paper_0074abb724b0cec51d8ff51b73f41452fa3b156f-1 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89,
+        ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011 .
+
+ex:Paper_0074abb724b0cec51d8ff51b73f41452fa3b156f-2 ex:citation_year 2019,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06,
+        ex:Paper_00c5cf4399df8efa1179915c36088a99eb26f281,
+        ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011 .
+
+ex:Paper_0074abb724b0cec51d8ff51b73f41452fa3b156f-3 ex:citation_year 2023,
+        2024 ;
+    ex:cites_to ex:Paper_00554b24a42a74ce45d041d3ace268d3fe3eb77a,
+        ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f,
+        ex:Paper_00ba98cf43f53a8e9e61b8895a7ca302900e6d7e .
+
+ex:Paper_0074abb724b0cec51d8ff51b73f41452fa3b156f-4 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b,
+        ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8 .
+
+ex:Paper_0074abb724b0cec51d8ff51b73f41452fa3b156f-5 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f .
+
+ex:Paper_0075dfdbd25dce1fd545d2ece39476a3a6dee5da-1 ex:citation_year 2021,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23,
+        ex:Paper_0125abc6b5f4b4e1c9b87c4735fc8313c0600c88 .
+
+ex:Paper_0075dfdbd25dce1fd545d2ece39476a3a6dee5da-2 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035,
+        ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945 .
+
+ex:Paper_0075dfdbd25dce1fd545d2ece39476a3a6dee5da-3 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_0098b6f1bf31b12cdd0c24ef81050c3d2a39b0f5,
+        ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b .
+
+ex:Paper_007617660cc0d33741a6b6603da6a1844714cbdf-1 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1,
+        ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4 .
+
+ex:Paper_007617660cc0d33741a6b6603da6a1844714cbdf-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58 .
+
+ex:Paper_007617660cc0d33741a6b6603da6a1844714cbdf-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1 .
+
+ex:Paper_007617660cc0d33741a6b6603da6a1844714cbdf-4 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_001842ba6c880608a573eeeb2ccd38e9a8ba8281,
+        ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6 .
+
+ex:Paper_007617660cc0d33741a6b6603da6a1844714cbdf-5 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_008a0971b86645137102eebd63f8901638bf983c,
+        ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b .
+
+ex:Paper_00768f59dc45c197f4329a4d6287423dca22cdbf-1 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f .
+
+ex:Paper_00768f59dc45c197f4329a4d6287423dca22cdbf-2 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2,
+        ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4 .
+
+ex:Paper_00768f59dc45c197f4329a4d6287423dca22cdbf-3 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_00016e315b39d20b69f041790573e2215f9eb028,
+        ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e .
+
+ex:Paper_007b0a33a13c085f7ba0a66d1b6b1f7fbace740e-1 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25 .
+
+ex:Paper_007b0a33a13c085f7ba0a66d1b6b1f7fbace740e-2 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_001c15accd39827ecf9838d496b7e44e9f890ee7,
+        ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c .
+
+ex:Paper_007b0a33a13c085f7ba0a66d1b6b1f7fbace740e-3 ex:citation_year 2021,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6,
+        ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94,
+        ex:Paper_007b5590510ea92dddb5c43ea4df9c8bc068e15d .
+
+ex:Paper_007b5590510ea92dddb5c43ea4df9c8bc068e15d-1 ex:citation_year 2021,
+        2024 ;
+    ex:cites_to ex:Paper_00250fc7fe665bdb5af3e895a18d1c94db3a7c8e,
+        ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7 .
+
+ex:Paper_007b5590510ea92dddb5c43ea4df9c8bc068e15d-2 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_00ada6a5c6607c63b7e060d040ddee120d5107ee,
+        ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8 .
+
+ex:Paper_007b5590510ea92dddb5c43ea4df9c8bc068e15d-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b .
+
+ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6 .
+
+ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b .
+
+ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87-3 ex:citation_year 2019,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_00b3fc061b3600b9508480022556c9a76494dba4,
+        ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923,
+        ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b .
+
+ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1 .
+
+ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87-5 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25 .
+
+ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87-6 ex:citation_year 2021,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_00a427715f49105b001ba242ad0e36b570c6d5db,
+        ex:Paper_00bc156bac2b39fab1689fe047b23c9f216d7f29,
+        ex:Paper_00bcec142c7d49ba269f65ba1463e2e226fdf545 .
+
+ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c .
+
+ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_007b0a33a13c085f7ba0a66d1b6b1f7fbace740e .
+
+ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275-3 ex:citation_year 2023,
+        2024 ;
+    ex:cites_to ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf,
+        ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739 .
+
+ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275-4 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637,
+        ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278,
+        ex:Paper_009eb31338512d9ca6ffde4062f0443f94b61fd1 .
+
+ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275-5 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a .
+
+ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5-1 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_006bd41c4a52c64445afdbc67182715a476e09c8,
+        ex:Paper_00c92bd26958dbc085eb4bbc72aa3d34f92e32c7 .
+
+ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637 .
+
+ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5-3 ex:citation_year 2020,
+        2021,
+        2022 ;
+    ex:cites_to ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945,
+        ex:Paper_00ba98cf43f53a8e9e61b8895a7ca302900e6d7e,
+        ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a .
+
+ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5-4 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_006707fad29166a3426fbb654d842c6d9292a771,
+        ex:Paper_00a475e5f179857ad0d2d139d65183109b8c7dc4 .
+
+ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5-5 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75 .
+
+ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5-6 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0092c1083e4fb679b288686d1dc8c9d83efef9bc .
+
+ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23-1 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87 .
+
+ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23-2 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00735bf6a1ad14a343650e7a4b6661eda04ddd60,
+        ex:Paper_0098b6f1bf31b12cdd0c24ef81050c3d2a39b0f5 .
+
+ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0047798ed5bbb87084440d31345ae318e1e3a1b4 .
+
+ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23-4 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac,
+        ex:Paper_00b5f8d132c6223e130622b4136e1090e943f238 .
+
+ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23-5 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5 .
+
+ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23-6 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_002b5b830c6c7f312dd82cf936b6204bd4018de6,
+        ex:Paper_00363213c1d91a7d051c5ccbd360e11c8210aae4 .
+
+ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23-7 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_001fed0e97d344c3aa563c704356099a05111949,
+        ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945 .
+
+ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278-1 ex:citation_year 2020,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87,
+        ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f,
+        ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26 .
+
+ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278-2 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00e26133551f152f4c8913c5442238d30a63ef79 .
+
+ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278-3 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c,
+        ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75 .
+
+ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0067258937f69e4cc4371a924134189074be8d93 .
+
+ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e-2 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89,
+        ex:Paper_00ada6a5c6607c63b7e060d040ddee120d5107ee,
+        ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe .
+
+ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e-3 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00c53bf5f1a48b64ee809cad8acc933d43234b9c .
+
+ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e-4 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1,
+        ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f .
+
+ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e-5 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2 .
+
+ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e-6 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b,
+        ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe,
+        ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8 .
+
+ex:Paper_0083bf90c49c5f48d52ce309c4ddc7f4f9782b15-1 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035 .
+
+ex:Paper_0083bf90c49c5f48d52ce309c4ddc7f4f9782b15-2 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_00296433175f54b52d49cb21f57ab608afe2d1bf,
+        ex:Paper_00a427715f49105b001ba242ad0e36b570c6d5db .
+
+ex:Paper_0083bf90c49c5f48d52ce309c4ddc7f4f9782b15-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00040bdd447f041a50ae95fd51926cf435ef1eba,
+        ex:Paper_00250fc7fe665bdb5af3e895a18d1c94db3a7c8e .
+
+ex:Paper_0083bf90c49c5f48d52ce309c4ddc7f4f9782b15-4 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac,
+        ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918 .
+
+ex:Paper_0083bf90c49c5f48d52ce309c4ddc7f4f9782b15-5 ex:citation_year 2020,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58,
+        ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c,
+        ex:Paper_00554b24a42a74ce45d041d3ace268d3fe3eb77a .
+
+ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00735bf6a1ad14a343650e7a4b6661eda04ddd60 .
+
+ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d-2 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_0098b6f1bf31b12cdd0c24ef81050c3d2a39b0f5,
+        ex:Paper_00a475e5f179857ad0d2d139d65183109b8c7dc4 .
+
+ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d-3 ex:citation_year 2019,
+        2020,
+        2023 ;
+    ex:cites_to ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f,
+        ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4,
+        ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923 .
+
+ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d-4 ex:citation_year 2019,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204,
+        ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38,
+        ex:Paper_006bf046e6c27d882bae79688004c4c4f4781a0f .
+
+ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d-5 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b .
+
+ex:Paper_0088aea75b76d7ecd3fa9680ebe778e271c4efcb-1 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739 .
+
+ex:Paper_0088aea75b76d7ecd3fa9680ebe778e271c4efcb-2 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25,
+        ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5,
+        ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e .
+
+ex:Paper_0088aea75b76d7ecd3fa9680ebe778e271c4efcb-3 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c,
+        ex:Paper_01383cf064a9963054b5416c04cc421100656892 .
+
+ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75-1 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_000f945179e9ffc0ad20fe695bcc992066d6d072 .
+
+ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75-2 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c,
+        ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26 .
+
+ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75-3 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_008a0971b86645137102eebd63f8901638bf983c,
+        ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523,
+        ex:Paper_01139f79fb260e1bd06f423cb21522b3e41b31e9 .
+
+ex:Paper_008a0971b86645137102eebd63f8901638bf983c-1 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_005b716759daadb580b472602f6167559aadc9c5,
+        ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2 .
+
+ex:Paper_008a0971b86645137102eebd63f8901638bf983c-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00040bdd447f041a50ae95fd51926cf435ef1eba,
+        ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac,
+        ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923 .
+
+ex:Paper_008a0971b86645137102eebd63f8901638bf983c-3 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035,
+        ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7 .
+
+ex:Paper_008a0971b86645137102eebd63f8901638bf983c-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27 .
+
+ex:Paper_008a0971b86645137102eebd63f8901638bf983c-5 ex:citation_year 2023,
+        2024 ;
+    ex:cites_to ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a,
+        ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80,
+        ex:Paper_00d751c11cf2390626d051bcbda4a70cb9355a38 .
+
+ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06-1 ex:citation_year 2019,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924,
+        ex:Paper_011efa271f4a51f73312e407d84161b7819ab066,
+        ex:Paper_0150286dd10c0e18fd86a08603fd32343ba73d46 .
+
+ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06-2 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_001842ba6c880608a573eeeb2ccd38e9a8ba8281 .
+
+ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06-3 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_00c5cf4399df8efa1179915c36088a99eb26f281,
+        ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888 .
+
+ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06-4 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_0083bf90c49c5f48d52ce309c4ddc7f4f9782b15,
+        ex:Paper_008f8eb8cfbada33bedbcf794e725606b5a3a3e7 .
+
+ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523-1 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_009eb31338512d9ca6ffde4062f0443f94b61fd1,
+        ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01 .
+
+ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523-2 ex:citation_year 2019,
+        2024 ;
+    ex:cites_to ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c,
+        ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba .
+
+ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523-3 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f,
+        ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38 .
+
+ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523-4 ex:citation_year 2020,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_00016e315b39d20b69f041790573e2215f9eb028,
+        ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9,
+        ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171 .
+
+ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523-5 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_006bf046e6c27d882bae79688004c4c4f4781a0f,
+        ex:Paper_00bc156bac2b39fab1689fe047b23c9f216d7f29 .
+
+ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523-6 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09 .
+
+ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b .
+
+ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918-2 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_008f8eb8cfbada33bedbcf794e725606b5a3a3e7,
+        ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924,
+        ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a .
+
+ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_013fc96537baedea3e397d057be8404aa93d5299 .
+
+ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918-4 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9,
+        ex:Paper_00a9af382e2e28bdd25dddbb1cd64c1885a4fc93 .
+
+ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918-5 ex:citation_year 2020,
+        2023,
+        2024 ;
+    ex:cites_to ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac,
+        ex:Paper_00554b24a42a74ce45d041d3ace268d3fe3eb77a,
+        ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23 .
+
+ex:Paper_008f51c5a995cf3d19bdcf2c7bb01648774daafb-1 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e,
+        ex:Paper_0042b16cba12db67855b603c261199b70067c69a .
+
+ex:Paper_008f51c5a995cf3d19bdcf2c7bb01648774daafb-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6 .
+
+ex:Paper_008f51c5a995cf3d19bdcf2c7bb01648774daafb-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7 .
+
+ex:Paper_008f51c5a995cf3d19bdcf2c7bb01648774daafb-4 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e .
+
+ex:Paper_008f8eb8cfbada33bedbcf794e725606b5a3a3e7-1 ex:citation_year 2020,
+        2024 ;
+    ex:cites_to ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b,
+        ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9 .
+
+ex:Paper_008f8eb8cfbada33bedbcf794e725606b5a3a3e7-2 ex:citation_year 2020,
+        2021,
+        2022 ;
+    ex:cites_to ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e,
+        ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1,
+        ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2 .
+
+ex:Paper_008f8eb8cfbada33bedbcf794e725606b5a3a3e7-3 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf,
+        ex:Paper_00c92bd26958dbc085eb4bbc72aa3d34f92e32c7 .
+
+ex:Paper_0090fe788feb3d56ee9bb1aaf83d51de71d8d3e6-1 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9,
+        ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e .
+
+ex:Paper_0090fe788feb3d56ee9bb1aaf83d51de71d8d3e6-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94 .
+
+ex:Paper_0090fe788feb3d56ee9bb1aaf83d51de71d8d3e6-3 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_005f0f6d796e1856b373e2116bdbffa719d12fbd,
+        ex:Paper_00e3e4cfdba66226403368edd30df8032c9802f0 .
+
+ex:Paper_0090fe788feb3d56ee9bb1aaf83d51de71d8d3e6-4 ex:citation_year 2019,
+        2020,
+        2022 ;
+    ex:cites_to ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89,
+        ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9,
+        ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4 .
+
+ex:Paper_0090fe788feb3d56ee9bb1aaf83d51de71d8d3e6-5 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_001533bcbe30802b9a37d8f9f22a083ccef516b4,
+        ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34 .
+
+ex:Paper_0090fe788feb3d56ee9bb1aaf83d51de71d8d3e6-6 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00e2b0f9bcdfa52fbf68a959f9daa8a5ba23bba8 .
+
+ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e-1 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f .
+
+ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923 .
+
+ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e-3 ex:citation_year 2020,
+        2023,
+        2024 ;
+    ex:cites_to ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06,
+        ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2,
+        ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe .
+
+ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e-4 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_002df72c36a270cc824897f6e5f88edf70fb1f61,
+        ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b .
+
+ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e-5 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00016e315b39d20b69f041790573e2215f9eb028 .
+
+ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e-6 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_0074abb724b0cec51d8ff51b73f41452fa3b156f,
+        ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37 .
+
+ex:Paper_00922c3a783155b87425b085306b973664044dd4-1 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9,
+        ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734 .
+
+ex:Paper_00922c3a783155b87425b085306b973664044dd4-2 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_00363213c1d91a7d051c5ccbd360e11c8210aae4,
+        ex:Paper_007098d098b83163f76d17b75fb47f2eec43fd2d,
+        ex:Paper_00b0779034bc13da8f4eb18ed3d0c3466d759b91 .
+
+ex:Paper_00922c3a783155b87425b085306b973664044dd4-3 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_0056e636953cb016836b2c05f43a3d1d4f19880b,
+        ex:Paper_0125abc6b5f4b4e1c9b87c4735fc8313c0600c88 .
+
+ex:Paper_0092c1083e4fb679b288686d1dc8c9d83efef9bc-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b .
+
+ex:Paper_0092c1083e4fb679b288686d1dc8c9d83efef9bc-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_002523ab48c0a79567a275c5ba219e95e37d9cca,
+        ex:Paper_00729e81a3c5d5ca1f7c57751cc6664da5450c76 .
+
+ex:Paper_0092c1083e4fb679b288686d1dc8c9d83efef9bc-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1 .
+
+ex:Paper_0092c1083e4fb679b288686d1dc8c9d83efef9bc-4 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87,
+        ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688 .
+
+ex:Paper_0092c1083e4fb679b288686d1dc8c9d83efef9bc-5 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b .
+
+ex:Paper_0092c1083e4fb679b288686d1dc8c9d83efef9bc-6 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe .
+
+ex:Paper_00967c22396abfb895868323ab720c28b837b4be-1 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_0054351123d266e99f6b207082265caa038b6b50,
+        ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275 .
+
+ex:Paper_00967c22396abfb895868323ab720c28b837b4be-2 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_002523ab48c0a79567a275c5ba219e95e37d9cca,
+        ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c .
+
+ex:Paper_00967c22396abfb895868323ab720c28b837b4be-3 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00b5f8d132c6223e130622b4136e1090e943f238 .
+
+ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b-1 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_0027a5389929596cc4bd1d645104cd7d88588509,
+        ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87,
+        ex:Paper_009eb31338512d9ca6ffde4062f0443f94b61fd1 .
+
+ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b-2 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523 .
+
+ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b-3 ex:citation_year 2020,
+        2021,
+        2024 ;
+    ex:cites_to ex:Paper_001842ba6c880608a573eeeb2ccd38e9a8ba8281,
+        ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171,
+        ex:Paper_00bb7f29057d30892f84cc01a96301b688fcdef8 .
+
+ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b-4 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_000f945179e9ffc0ad20fe695bcc992066d6d072 .
+
+ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f-1 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9,
+        ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9,
+        ex:Paper_007b0a33a13c085f7ba0a66d1b6b1f7fbace740e .
+
+ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f-2 ex:citation_year 2019,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5,
+        ex:Paper_008a0971b86645137102eebd63f8901638bf983c,
+        ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923 .
+
+ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_002050388cdb39d6413ce48230496e8ccc08df04,
+        ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7 .
+
+ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2 .
+
+ex:Paper_0098b6f1bf31b12cdd0c24ef81050c3d2a39b0f5-1 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75,
+        ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06,
+        ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34 .
+
+ex:Paper_0098b6f1bf31b12cdd0c24ef81050c3d2a39b0f5-2 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4 .
+
+ex:Paper_0098b6f1bf31b12cdd0c24ef81050c3d2a39b0f5-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_01139f79fb260e1bd06f423cb21522b3e41b31e9 .
+
+ex:Paper_0098b6f1bf31b12cdd0c24ef81050c3d2a39b0f5-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00c92bd26958dbc085eb4bbc72aa3d34f92e32c7 .
+
+ex:Paper_0098b6f1bf31b12cdd0c24ef81050c3d2a39b0f5-5 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a,
+        ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359,
+        ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37 .
+
+ex:Paper_0098b6f1bf31b12cdd0c24ef81050c3d2a39b0f5-6 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23 .
+
+ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89-1 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_001842ba6c880608a573eeeb2ccd38e9a8ba8281,
+        ex:Paper_0088aea75b76d7ecd3fa9680ebe778e271c4efcb .
+
+ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89-2 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_0047798ed5bbb87084440d31345ae318e1e3a1b4,
+        ex:Paper_0092c1083e4fb679b288686d1dc8c9d83efef9bc,
+        ex:Paper_00967c22396abfb895868323ab720c28b837b4be .
+
+ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89-3 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950 .
+
+ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b-1 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918 .
+
+ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b-2 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00250fc7fe665bdb5af3e895a18d1c94db3a7c8e .
+
+ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_005f0f6d796e1856b373e2116bdbffa719d12fbd .
+
+ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b-4 ex:citation_year 2019,
+        2024 ;
+    ex:cites_to ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58,
+        ex:Paper_00a9af382e2e28bdd25dddbb1cd64c1885a4fc93 .
+
+ex:Paper_009eb31338512d9ca6ffde4062f0443f94b61fd1-1 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe,
+        ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7 .
+
+ex:Paper_009eb31338512d9ca6ffde4062f0443f94b61fd1-2 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_007098d098b83163f76d17b75fb47f2eec43fd2d,
+        ex:Paper_00d751c11cf2390626d051bcbda4a70cb9355a38 .
+
+ex:Paper_009eb31338512d9ca6ffde4062f0443f94b61fd1-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38 .
+
+ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035 .
+
+ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_01383cf064a9963054b5416c04cc421100656892 .
+
+ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27-3 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e,
+        ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1 .
+
+ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27-4 ex:citation_year 2019,
+        2023,
+        2024 ;
+    ex:cites_to ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1,
+        ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75,
+        ex:Paper_0101bef3602965eb124803564e37141cff2333ea .
+
+ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27-5 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf,
+        ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950 .
+
+ex:Paper_00a3e1c293f3c8dfc205f0094f4d971850a5d99c-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b .
+
+ex:Paper_00a3e1c293f3c8dfc205f0094f4d971850a5d99c-2 ex:citation_year 2019,
+        2020,
+        2023 ;
+    ex:cites_to ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204,
+        ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3,
+        ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37 .
+
+ex:Paper_00a3e1c293f3c8dfc205f0094f4d971850a5d99c-3 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_002ca9eeb8de246f430f8c5ea4b60c5b3165aeac,
+        ex:Paper_005f0f6d796e1856b373e2116bdbffa719d12fbd .
+
+ex:Paper_00a3e1c293f3c8dfc205f0094f4d971850a5d99c-4 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637,
+        ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9 .
+
+ex:Paper_00a3e1c293f3c8dfc205f0094f4d971850a5d99c-5 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7 .
+
+ex:Paper_00a427715f49105b001ba242ad0e36b570c6d5db-1 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_001842ba6c880608a573eeeb2ccd38e9a8ba8281,
+        ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e .
+
+ex:Paper_00a427715f49105b001ba242ad0e36b570c6d5db-2 ex:citation_year 2020,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_001fed0e97d344c3aa563c704356099a05111949,
+        ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b,
+        ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523 .
+
+ex:Paper_00a427715f49105b001ba242ad0e36b570c6d5db-3 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_0013693bccf244dad3d321558ac7986bc0230db9,
+        ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c,
+        ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8 .
+
+ex:Paper_00a427715f49105b001ba242ad0e36b570c6d5db-4 ex:citation_year 2022,
+        2023,
+        2024 ;
+    ex:cites_to ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25,
+        ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523,
+        ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8 .
+
+ex:Paper_00a427715f49105b001ba242ad0e36b570c6d5db-5 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5 .
+
+ex:Paper_00a475e5f179857ad0d2d139d65183109b8c7dc4-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523,
+        ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27 .
+
+ex:Paper_00a475e5f179857ad0d2d139d65183109b8c7dc4-2 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf,
+        ex:Paper_01139f79fb260e1bd06f423cb21522b3e41b31e9 .
+
+ex:Paper_00a475e5f179857ad0d2d139d65183109b8c7dc4-3 ex:citation_year 2021,
+        2024 ;
+    ex:cites_to ex:Paper_002b5b830c6c7f312dd82cf936b6204bd4018de6,
+        ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8 .
+
+ex:Paper_00a653b045e7df3e93de9dc3cb0a186024ad1df0-1 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0125abc6b5f4b4e1c9b87c4735fc8313c0600c88 .
+
+ex:Paper_00a653b045e7df3e93de9dc3cb0a186024ad1df0-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b .
+
+ex:Paper_00a653b045e7df3e93de9dc3cb0a186024ad1df0-3 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94,
+        ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80 .
+
+ex:Paper_00a653b045e7df3e93de9dc3cb0a186024ad1df0-4 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_005f0f6d796e1856b373e2116bdbffa719d12fbd,
+        ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011 .
+
+ex:Paper_00a653b045e7df3e93de9dc3cb0a186024ad1df0-5 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00a3e1c293f3c8dfc205f0094f4d971850a5d99c .
+
+ex:Paper_00a653b045e7df3e93de9dc3cb0a186024ad1df0-6 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888 .
+
+ex:Paper_00a9af382e2e28bdd25dddbb1cd64c1885a4fc93-1 ex:citation_year 2020,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_006bf046e6c27d882bae79688004c4c4f4781a0f,
+        ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e,
+        ex:Paper_0125abc6b5f4b4e1c9b87c4735fc8313c0600c88 .
+
+ex:Paper_00a9af382e2e28bdd25dddbb1cd64c1885a4fc93-2 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6,
+        ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2,
+        ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2 .
+
+ex:Paper_00ad2477dc6e9223507654688f088ba35a29a653-1 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7 .
+
+ex:Paper_00ad2477dc6e9223507654688f088ba35a29a653-2 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171,
+        ex:Paper_008f8eb8cfbada33bedbcf794e725606b5a3a3e7 .
+
+ex:Paper_00ad2477dc6e9223507654688f088ba35a29a653-3 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2 .
+
+ex:Paper_00ad2477dc6e9223507654688f088ba35a29a653-4 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_0047798ed5bbb87084440d31345ae318e1e3a1b4,
+        ex:Paper_00c39a8b3857f16fd59ebd91ed13d68a1aed4d8b,
+        ex:Paper_00d3c2608f64f432f21a7749b9c674c94170d17e .
+
+ex:Paper_00ad2477dc6e9223507654688f088ba35a29a653-5 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27 .
+
+ex:Paper_00ad2477dc6e9223507654688f088ba35a29a653-6 ex:citation_year 2019,
+        2022,
+        2024 ;
+    ex:cites_to ex:Paper_00bc156bac2b39fab1689fe047b23c9f216d7f29,
+        ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2,
+        ex:Paper_014cf690afedcb7d8fddaa9d6770f162385ffc99 .
+
+ex:Paper_00ad2477dc6e9223507654688f088ba35a29a653-7 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23 .
+
+ex:Paper_00ada6a5c6607c63b7e060d040ddee120d5107ee-1 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204,
+        ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918 .
+
+ex:Paper_00ada6a5c6607c63b7e060d040ddee120d5107ee-2 ex:citation_year 2019,
+        2020,
+        2021 ;
+    ex:cites_to ex:Paper_005b716759daadb580b472602f6167559aadc9c5,
+        ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e,
+        ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734 .
+
+ex:Paper_00ada6a5c6607c63b7e060d040ddee120d5107ee-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00922c3a783155b87425b085306b973664044dd4 .
+
+ex:Paper_00b0779034bc13da8f4eb18ed3d0c3466d759b91-1 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b,
+        ex:Paper_006609032b88eb4feaa63d1465fde5611156ca86,
+        ex:Paper_00b0779034bc13da8f4eb18ed3d0c3466d759b91 .
+
+ex:Paper_00b0779034bc13da8f4eb18ed3d0c3466d759b91-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89 .
+
+ex:Paper_00b0779034bc13da8f4eb18ed3d0c3466d759b91-3 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e .
+
+ex:Paper_00b3fc061b3600b9508480022556c9a76494dba4-1 ex:citation_year 2019,
+        2020,
+        2022 ;
+    ex:cites_to ex:Paper_0067258937f69e4cc4371a924134189074be8d93,
+        ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a,
+        ex:Paper_00c92bd26958dbc085eb4bbc72aa3d34f92e32c7 .
+
+ex:Paper_00b3fc061b3600b9508480022556c9a76494dba4-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00a427715f49105b001ba242ad0e36b570c6d5db .
+
+ex:Paper_00b3fc061b3600b9508480022556c9a76494dba4-3 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1,
+        ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6 .
+
+ex:Paper_00b42b3d8e4417399b06d547f4c46030f332c9be-1 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e,
+        ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80 .
+
+ex:Paper_00b42b3d8e4417399b06d547f4c46030f332c9be-2 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06,
+        ex:Paper_00a3e1c293f3c8dfc205f0094f4d971850a5d99c .
+
+ex:Paper_00b42b3d8e4417399b06d547f4c46030f332c9be-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_014cf690afedcb7d8fddaa9d6770f162385ffc99 .
+
+ex:Paper_00b5f8d132c6223e130622b4136e1090e943f238-1 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_001842ba6c880608a573eeeb2ccd38e9a8ba8281,
+        ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9 .
+
+ex:Paper_00b5f8d132c6223e130622b4136e1090e943f238-2 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89,
+        ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c,
+        ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f .
+
+ex:Paper_00b5f8d132c6223e130622b4136e1090e943f238-3 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688 .
+
+ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80-1 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7 .
+
+ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80-2 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23,
+        ex:Paper_00b42b3d8e4417399b06d547f4c46030f332c9be,
+        ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739 .
+
+ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80-3 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_0059adaaa42b647f4810d651fee0d7c5e5f60eaa,
+        ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9 .
+
+ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6-1 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918 .
+
+ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00b9b9bf5b07d6af71bef29c48a35b948cc12255 .
+
+ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6-3 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_0039e77f1a6de8f375b9c57417201957471ea121,
+        ex:Paper_00a475e5f179857ad0d2d139d65183109b8c7dc4 .
+
+ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6-4 ex:citation_year 2019,
+        2020,
+        2022 ;
+    ex:cites_to ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75,
+        ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80,
+        ex:Paper_00c5cf4399df8efa1179915c36088a99eb26f281 .
+
+ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6-5 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_009eb31338512d9ca6ffde4062f0443f94b61fd1 .
+
+ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6-6 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a,
+        ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734 .
+
+ex:Paper_00b9b9bf5b07d6af71bef29c48a35b948cc12255-1 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7,
+        ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275,
+        ex:Paper_00b3fc061b3600b9508480022556c9a76494dba4 .
+
+ex:Paper_00b9b9bf5b07d6af71bef29c48a35b948cc12255-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe .
+
+ex:Paper_00b9b9bf5b07d6af71bef29c48a35b948cc12255-3 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_00ba98cf43f53a8e9e61b8895a7ca302900e6d7e,
+        ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011,
+        ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01 .
+
+ex:Paper_00ba98cf43f53a8e9e61b8895a7ca302900e6d7e-1 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b,
+        ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26 .
+
+ex:Paper_00ba98cf43f53a8e9e61b8895a7ca302900e6d7e-2 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918,
+        ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1 .
+
+ex:Paper_00ba98cf43f53a8e9e61b8895a7ca302900e6d7e-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00c39a8b3857f16fd59ebd91ed13d68a1aed4d8b .
+
+ex:Paper_00bb7f29057d30892f84cc01a96301b688fcdef8-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885,
+        ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37 .
+
+ex:Paper_00bb7f29057d30892f84cc01a96301b688fcdef8-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09,
+        ex:Paper_006707fad29166a3426fbb654d842c6d9292a771,
+        ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c .
+
+ex:Paper_00bb7f29057d30892f84cc01a96301b688fcdef8-3 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23,
+        ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b,
+        ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924 .
+
+ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923-1 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b,
+        ex:Paper_00b3fc061b3600b9508480022556c9a76494dba4,
+        ex:Paper_00e26133551f152f4c8913c5442238d30a63ef79 .
+
+ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923-2 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6,
+        ex:Paper_00b5f8d132c6223e130622b4136e1090e943f238 .
+
+ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923-3 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94,
+        ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9 .
+
+ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923-4 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00296433175f54b52d49cb21f57ab608afe2d1bf,
+        ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b .
+
+ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923-5 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0013693bccf244dad3d321558ac7986bc0230db9,
+        ex:Paper_00bc156bac2b39fab1689fe047b23c9f216d7f29 .
+
+ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923-6 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00d3c2608f64f432f21a7749b9c674c94170d17e .
+
+ex:Paper_00bc156bac2b39fab1689fe047b23c9f216d7f29-1 ex:citation_year 2020,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_000bf014a71283e739b3288783e0572dd4de7301,
+        ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b,
+        ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3 .
+
+ex:Paper_00bc156bac2b39fab1689fe047b23c9f216d7f29-2 ex:citation_year 2019,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171,
+        ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6,
+        ex:Paper_00e26133551f152f4c8913c5442238d30a63ef79 .
+
+ex:Paper_00bc156bac2b39fab1689fe047b23c9f216d7f29-3 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945 .
+
+ex:Paper_00bcec142c7d49ba269f65ba1463e2e226fdf545-1 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_001fed0e97d344c3aa563c704356099a05111949,
+        ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94,
+        ex:Paper_008f51c5a995cf3d19bdcf2c7bb01648774daafb .
+
+ex:Paper_00bcec142c7d49ba269f65ba1463e2e226fdf545-2 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09,
+        ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923 .
+
+ex:Paper_00bcec142c7d49ba269f65ba1463e2e226fdf545-3 ex:citation_year 2019,
+        2020,
+        2023 ;
+    ex:cites_to ex:Paper_00296433175f54b52d49cb21f57ab608afe2d1bf,
+        ex:Paper_00363213c1d91a7d051c5ccbd360e11c8210aae4,
+        ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275 .
+
+ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_007b5590510ea92dddb5c43ea4df9c8bc068e15d .
+
+ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924-2 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac,
+        ex:Paper_001c15accd39827ecf9838d496b7e44e9f890ee7 .
+
+ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924-3 ex:citation_year 2019,
+        2020,
+        2021 ;
+    ex:cites_to ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e,
+        ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3,
+        ex:Paper_0074abb724b0cec51d8ff51b73f41452fa3b156f .
+
+ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924-4 ex:citation_year 2019,
+        2020,
+        2022 ;
+    ex:cites_to ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523,
+        ex:Paper_00a475e5f179857ad0d2d139d65183109b8c7dc4,
+        ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e .
+
+ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924-5 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_00b0779034bc13da8f4eb18ed3d0c3466d759b91,
+        ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8 .
+
+ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a-1 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035,
+        ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87 .
+
+ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637 .
+
+ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688 .
+
+ex:Paper_00c28df4baa4eea232026dafe8bf8cd800a9110a-4 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00e70c97afd1af0b70e1fc6480d05a9d55a75413 .
+
+ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c-1 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38,
+        ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89,
+        ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688 .
+
+ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00967c22396abfb895868323ab720c28b837b4be .
+
+ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c-3 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_0056e636953cb016836b2c05f43a3d1d4f19880b,
+        ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75 .
+
+ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c-4 ex:citation_year 2022,
+        2024 ;
+    ex:cites_to ex:Paper_0090fe788feb3d56ee9bb1aaf83d51de71d8d3e6,
+        ex:Paper_00e26133551f152f4c8913c5442238d30a63ef79 .
+
+ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c-5 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00dc5c4cb64d6bd66ba091b2bdbd7baa189a3ced .
+
+ex:Paper_00c39a8b3857f16fd59ebd91ed13d68a1aed4d8b-1 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6,
+        ex:Paper_00768f59dc45c197f4329a4d6287423dca22cdbf,
+        ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75 .
+
+ex:Paper_00c39a8b3857f16fd59ebd91ed13d68a1aed4d8b-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b .
+
+ex:Paper_00c39a8b3857f16fd59ebd91ed13d68a1aed4d8b-3 ex:citation_year 2021,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b,
+        ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734,
+        ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba .
+
+ex:Paper_00c39a8b3857f16fd59ebd91ed13d68a1aed4d8b-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00a9af382e2e28bdd25dddbb1cd64c1885a4fc93 .
+
+ex:Paper_00c53bf5f1a48b64ee809cad8acc933d43234b9c-1 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc .
+
+ex:Paper_00c53bf5f1a48b64ee809cad8acc933d43234b9c-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0054351123d266e99f6b207082265caa038b6b50 .
+
+ex:Paper_00c53bf5f1a48b64ee809cad8acc933d43234b9c-3 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278 .
+
+ex:Paper_00c53bf5f1a48b64ee809cad8acc933d43234b9c-4 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_00672bec9dd0e755f9c375f912c0f1c3918a6b74,
+        ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25 .
+
+ex:Paper_00c53bf5f1a48b64ee809cad8acc933d43234b9c-5 ex:citation_year 2022,
+        2023,
+        2024 ;
+    ex:cites_to ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f,
+        ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80,
+        ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9 .
+
+ex:Paper_00c53bf5f1a48b64ee809cad8acc933d43234b9c-6 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00a653b045e7df3e93de9dc3cb0a186024ad1df0 .
+
+ex:Paper_00c53bf5f1a48b64ee809cad8acc933d43234b9c-7 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58,
+        ex:Paper_00e70c97afd1af0b70e1fc6480d05a9d55a75413 .
+
+ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_002523ab48c0a79567a275c5ba219e95e37d9cca .
+
+ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2-2 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75,
+        ex:Paper_00c39a8b3857f16fd59ebd91ed13d68a1aed4d8b,
+        ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011 .
+
+ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2-3 ex:citation_year 2020,
+        2024 ;
+    ex:cites_to ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945,
+        ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9 .
+
+ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2-4 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b,
+        ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b .
+
+ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2-5 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171,
+        ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b .
+
+ex:Paper_00c5cf4399df8efa1179915c36088a99eb26f281-1 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275,
+        ex:Paper_00b0779034bc13da8f4eb18ed3d0c3466d759b91,
+        ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950 .
+
+ex:Paper_00c5cf4399df8efa1179915c36088a99eb26f281-2 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035,
+        ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75 .
+
+ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688-1 ex:citation_year 2020,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5,
+        ex:Paper_00bcec142c7d49ba269f65ba1463e2e226fdf545,
+        ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8 .
+
+ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00d3c2608f64f432f21a7749b9c674c94170d17e .
+
+ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688-3 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3,
+        ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06,
+        ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688 .
+
+ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688-4 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_008a0971b86645137102eebd63f8901638bf983c .
+
+ex:Paper_00c92bd26958dbc085eb4bbc72aa3d34f92e32c7-1 ex:citation_year 2019,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_0027a5389929596cc4bd1d645104cd7d88588509,
+        ex:Paper_0034365ccb6a98eddd0fab3184c1930621ca7b17,
+        ex:Paper_0074abb724b0cec51d8ff51b73f41452fa3b156f .
+
+ex:Paper_00c92bd26958dbc085eb4bbc72aa3d34f92e32c7-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00b0779034bc13da8f4eb18ed3d0c3466d759b91,
+        ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b .
+
+ex:Paper_00c92bd26958dbc085eb4bbc72aa3d34f92e32c7-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b .
+
+ex:Paper_00c92bd26958dbc085eb4bbc72aa3d34f92e32c7-4 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58 .
+
+ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888-1 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80 .
+
+ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888-2 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f,
+        ex:Paper_0039e77f1a6de8f375b9c57417201957471ea121,
+        ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75 .
+
+ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888-3 ex:citation_year 2022,
+        2023,
+        2024 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7,
+        ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945,
+        ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f .
+
+ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_007617660cc0d33741a6b6603da6a1844714cbdf .
+
+ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888-5 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_0088aea75b76d7ecd3fa9680ebe778e271c4efcb,
+        ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918 .
+
+ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359-1 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09,
+        ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c .
+
+ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359-2 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_00016e315b39d20b69f041790573e2215f9eb028,
+        ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923 .
+
+ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00c5cf4399df8efa1179915c36088a99eb26f281 .
+
+ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359-4 ex:citation_year 2019,
+        2020,
+        2022 ;
+    ex:cites_to ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89,
+        ex:Paper_00dc5c4cb64d6bd66ba091b2bdbd7baa189a3ced,
+        ex:Paper_00e3e4cfdba66226403368edd30df8032c9802f0 .
+
+ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359-5 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac,
+        ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b .
+
+ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739-1 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_00b9b9bf5b07d6af71bef29c48a35b948cc12255,
+        ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924 .
+
+ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739-2 ex:citation_year 2020,
+        2021,
+        2024 ;
+    ex:cites_to ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204,
+        ex:Paper_00a3e1c293f3c8dfc205f0094f4d971850a5d99c,
+        ex:Paper_00e70c97afd1af0b70e1fc6480d05a9d55a75413 .
+
+ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739-3 ex:citation_year 2019,
+        2021,
+        2024 ;
+    ex:cites_to ex:Paper_0054351123d266e99f6b207082265caa038b6b50,
+        ex:Paper_007098d098b83163f76d17b75fb47f2eec43fd2d,
+        ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8 .
+
+ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27 .
+
+ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739-5 ex:citation_year 2020,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_005f0f6d796e1856b373e2116bdbffa719d12fbd,
+        ex:Paper_00b42b3d8e4417399b06d547f4c46030f332c9be,
+        ex:Paper_013fc96537baedea3e397d057be8404aa93d5299 .
+
+ex:Paper_00d3c2608f64f432f21a7749b9c674c94170d17e-1 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_007098d098b83163f76d17b75fb47f2eec43fd2d,
+        ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523 .
+
+ex:Paper_00d3c2608f64f432f21a7749b9c674c94170d17e-2 ex:citation_year 2021,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_0067258937f69e4cc4371a924134189074be8d93,
+        ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923,
+        ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe .
+
+ex:Paper_00d3c2608f64f432f21a7749b9c674c94170d17e-3 ex:citation_year 2021,
+        2024 ;
+    ex:cites_to ex:Paper_00296433175f54b52d49cb21f57ab608afe2d1bf,
+        ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b .
+
+ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1-1 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b .
+
+ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f .
+
+ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1-3 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0083bf90c49c5f48d52ce309c4ddc7f4f9782b15 .
+
+ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1-4 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75,
+        ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924 .
+
+ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1-5 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_00a9af382e2e28bdd25dddbb1cd64c1885a4fc93,
+        ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6,
+        ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888 .
+
+ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1-6 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3 .
+
+ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1-7 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_005ad8621bb9672af1ac43500a5143d9d3f2db3e .
+
+ex:Paper_00d751c11cf2390626d051bcbda4a70cb9355a38-1 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_0092c1083e4fb679b288686d1dc8c9d83efef9bc,
+        ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34 .
+
+ex:Paper_00d751c11cf2390626d051bcbda4a70cb9355a38-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1 .
+
+ex:Paper_00d751c11cf2390626d051bcbda4a70cb9355a38-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0083bf90c49c5f48d52ce309c4ddc7f4f9782b15,
+        ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950 .
+
+ex:Paper_00d751c11cf2390626d051bcbda4a70cb9355a38-4 ex:citation_year 2020,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171,
+        ex:Paper_00b6e7863d9ea0c81b2d5f61d019c32fc3456bc6,
+        ex:Paper_014cf690afedcb7d8fddaa9d6770f162385ffc99 .
+
+ex:Paper_00d751c11cf2390626d051bcbda4a70cb9355a38-5 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_0013693bccf244dad3d321558ac7986bc0230db9,
+        ex:Paper_001fed0e97d344c3aa563c704356099a05111949 .
+
+ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5 .
+
+ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c-2 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6,
+        ex:Paper_00e70c97afd1af0b70e1fc6480d05a9d55a75413 .
+
+ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_002b5b830c6c7f312dd82cf936b6204bd4018de6 .
+
+ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c-4 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_001bd1d8b04d5c20d9f4f4860146d43de445bc17 .
+
+ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c-5 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_002ca9eeb8de246f430f8c5ea4b60c5b3165aeac,
+        ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888 .
+
+ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c-6 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_001fed0e97d344c3aa563c704356099a05111949,
+        ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9 .
+
+ex:Paper_00dc5c4cb64d6bd66ba091b2bdbd7baa189a3ced-1 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359 .
+
+ex:Paper_00dc5c4cb64d6bd66ba091b2bdbd7baa189a3ced-2 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58,
+        ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6,
+        ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2 .
+
+ex:Paper_00dc5c4cb64d6bd66ba091b2bdbd7baa189a3ced-3 ex:citation_year 2020,
+        2021,
+        2022 ;
+    ex:cites_to ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac,
+        ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035,
+        ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924 .
+
+ex:Paper_00dc5c4cb64d6bd66ba091b2bdbd7baa189a3ced-4 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_00a475e5f179857ad0d2d139d65183109b8c7dc4,
+        ex:Paper_011efa271f4a51f73312e407d84161b7819ab066 .
+
+ex:Paper_00dc5c4cb64d6bd66ba091b2bdbd7baa189a3ced-5 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1,
+        ex:Paper_0013693bccf244dad3d321558ac7986bc0230db9,
+        ex:Paper_00e3e4cfdba66226403368edd30df8032c9802f0 .
+
+ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34-1 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1 .
+
+ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34-2 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_00a3e1c293f3c8dfc205f0094f4d971850a5d99c,
+        ex:Paper_00b0779034bc13da8f4eb18ed3d0c3466d759b91 .
+
+ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34-3 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00a9af382e2e28bdd25dddbb1cd64c1885a4fc93 .
+
+ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34-4 ex:citation_year 2019,
+        2020,
+        2021 ;
+    ex:cites_to ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a,
+        ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe,
+        ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e .
+
+ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34-5 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637,
+        ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e .
+
+ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34-6 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885,
+        ex:Paper_00a427715f49105b001ba242ad0e36b570c6d5db .
+
+ex:Paper_00e26133551f152f4c8913c5442238d30a63ef79-1 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8 .
+
+ex:Paper_00e26133551f152f4c8913c5442238d30a63ef79-2 ex:citation_year 2019,
+        2020,
+        2022 ;
+    ex:cites_to ex:Paper_000cd7ac3435007cca292fc8f1bac86b7a066467,
+        ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c,
+        ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4 .
+
+ex:Paper_00e26133551f152f4c8913c5442238d30a63ef79-3 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_00b5f8d132c6223e130622b4136e1090e943f238,
+        ex:Paper_00c53bf5f1a48b64ee809cad8acc933d43234b9c,
+        ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01 .
+
+ex:Paper_00e2b0f9bcdfa52fbf68a959f9daa8a5ba23bba8-1 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34,
+        ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7 .
+
+ex:Paper_00e2b0f9bcdfa52fbf68a959f9daa8a5ba23bba8-2 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923 .
+
+ex:Paper_00e2b0f9bcdfa52fbf68a959f9daa8a5ba23bba8-3 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f,
+        ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80 .
+
+ex:Paper_00e2b0f9bcdfa52fbf68a959f9daa8a5ba23bba8-4 ex:citation_year 2020,
+        2021,
+        2022 ;
+    ex:cites_to ex:Paper_0088aea75b76d7ecd3fa9680ebe778e271c4efcb,
+        ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b,
+        ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9 .
+
+ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b-1 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_0018e888e83bfd993bc49455a8787577ab28a19c,
+        ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b .
+
+ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b-2 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_002523ab48c0a79567a275c5ba219e95e37d9cca,
+        ex:Paper_0054351123d266e99f6b207082265caa038b6b50,
+        ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c .
+
+ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6 .
+
+ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b-4 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_001533bcbe30802b9a37d8f9f22a083ccef516b4 .
+
+ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b-1 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_000cd7ac3435007cca292fc8f1bac86b7a066467 .
+
+ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b-2 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171 .
+
+ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b-3 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035,
+        ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b .
+
+ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87 .
+
+ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b-5 ex:citation_year 2020,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035,
+        ex:Paper_00bc156bac2b39fab1689fe047b23c9f216d7f29,
+        ex:Paper_011efa271f4a51f73312e407d84161b7819ab066 .
+
+ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b-6 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_007098d098b83163f76d17b75fb47f2eec43fd2d .
+
+ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171,
+        ex:Paper_00554b24a42a74ce45d041d3ace268d3fe3eb77a .
+
+ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_001fed0e97d344c3aa563c704356099a05111949 .
+
+ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe-3 ex:citation_year 2020,
+        2023,
+        2024 ;
+    ex:cites_to ex:Paper_0018e888e83bfd993bc49455a8787577ab28a19c,
+        ex:Paper_0047798ed5bbb87084440d31345ae318e1e3a1b4,
+        ex:Paper_007617660cc0d33741a6b6603da6a1844714cbdf .
+
+ex:Paper_00e3e4cfdba66226403368edd30df8032c9802f0-1 ex:citation_year 2019,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523,
+        ex:Paper_00c92bd26958dbc085eb4bbc72aa3d34f92e32c7,
+        ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1 .
+
+ex:Paper_00e3e4cfdba66226403368edd30df8032c9802f0-2 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035,
+        ex:Paper_0039e77f1a6de8f375b9c57417201957471ea121,
+        ex:Paper_0074abb724b0cec51d8ff51b73f41452fa3b156f .
+
+ex:Paper_00e3e4cfdba66226403368edd30df8032c9802f0-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0150286dd10c0e18fd86a08603fd32343ba73d46 .
+
+ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e-1 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_00bb7f29057d30892f84cc01a96301b688fcdef8,
+        ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888 .
+
+ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7 .
+
+ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25,
+        ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278 .
+
+ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e-4 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_003d912198ad1a718a84e430d47f6c513bb4df92 .
+
+ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e-5 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_002df72c36a270cc824897f6e5f88edf70fb1f61,
+        ex:Paper_00768f59dc45c197f4329a4d6287423dca22cdbf,
+        ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923 .
+
+ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e-6 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950 .
+
+ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e-7 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_002050388cdb39d6413ce48230496e8ccc08df04 .
+
+ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e-8 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87 .
+
+ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9-1 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b,
+        ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739 .
+
+ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9-2 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885,
+        ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688 .
+
+ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9-3 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_000cd7ac3435007cca292fc8f1bac86b7a066467,
+        ex:Paper_0039e77f1a6de8f375b9c57417201957471ea121 .
+
+ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c .
+
+ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9-5 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4 .
+
+ex:Paper_00e70c97afd1af0b70e1fc6480d05a9d55a75413-1 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09 .
+
+ex:Paper_00e70c97afd1af0b70e1fc6480d05a9d55a75413-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00250fc7fe665bdb5af3e895a18d1c94db3a7c8e .
+
+ex:Paper_00e70c97afd1af0b70e1fc6480d05a9d55a75413-3 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_007b0a33a13c085f7ba0a66d1b6b1f7fbace740e,
+        ex:Paper_00e2b0f9bcdfa52fbf68a959f9daa8a5ba23bba8,
+        ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37 .
+
+ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7-1 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_005b716759daadb580b472602f6167559aadc9c5,
+        ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8 .
+
+ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7-2 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b .
+
+ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7-3 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171 .
+
+ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7-4 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_00554b24a42a74ce45d041d3ace268d3fe3eb77a,
+        ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25 .
+
+ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7-5 ex:citation_year 2019,
+        2020,
+        2021 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7,
+        ex:Paper_00729e81a3c5d5ca1f7c57751cc6664da5450c76,
+        ex:Paper_00bc156bac2b39fab1689fe047b23c9f216d7f29 .
+
+ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7-6 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278,
+        ex:Paper_009eb31338512d9ca6ffde4062f0443f94b61fd1,
+        ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe .
+
+ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b-1 ex:citation_year 2019,
+        2021,
+        2022 ;
+    ex:cites_to ex:Paper_001c15accd39827ecf9838d496b7e44e9f890ee7,
+        ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739,
+        ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b .
+
+ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b-2 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00bcec142c7d49ba269f65ba1463e2e226fdf545 .
+
+ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b-3 ex:citation_year 2020,
+        2024 ;
+    ex:cites_to ex:Paper_006bf046e6c27d882bae79688004c4c4f4781a0f,
+        ex:Paper_008a0971b86645137102eebd63f8901638bf983c .
+
+ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0098b6f1bf31b12cdd0c24ef81050c3d2a39b0f5,
+        ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011 .
+
+ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b-5 ex:citation_year 2020,
+        2021,
+        2024 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7,
+        ex:Paper_002523ab48c0a79567a275c5ba219e95e37d9cca,
+        ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c .
+
+ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b-6 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe .
+
+ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4-1 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7,
+        ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f .
+
+ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4-2 ex:citation_year 2019,
+        2020,
+        2022 ;
+    ex:cites_to ex:Paper_00768f59dc45c197f4329a4d6287423dca22cdbf,
+        ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89,
+        ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734 .
+
+ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734-1 ex:citation_year 2020,
+        2021,
+        2024 ;
+    ex:cites_to ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf,
+        ex:Paper_008f51c5a995cf3d19bdcf2c7bb01648774daafb,
+        ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b .
+
+ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734-2 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_00363213c1d91a7d051c5ccbd360e11c8210aae4,
+        ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01 .
+
+ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0042b16cba12db67855b603c261199b70067c69a .
+
+ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2-1 ex:citation_year 2022,
+        2024 ;
+    ex:cites_to ex:Paper_005b716759daadb580b472602f6167559aadc9c5,
+        ex:Paper_007b0a33a13c085f7ba0a66d1b6b1f7fbace740e .
+
+ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2-2 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80,
+        ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c .
+
+ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2-3 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_007098d098b83163f76d17b75fb47f2eec43fd2d .
+
+ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2-4 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_0056e636953cb016836b2c05f43a3d1d4f19880b,
+        ex:Paper_00b3fc061b3600b9508480022556c9a76494dba4,
+        ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b .
+
+ex:Paper_0101bef3602965eb124803564e37141cff2333ea-1 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75 .
+
+ex:Paper_0101bef3602965eb124803564e37141cff2333ea-2 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_002050388cdb39d6413ce48230496e8ccc08df04,
+        ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75 .
+
+ex:Paper_0101bef3602965eb124803564e37141cff2333ea-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01 .
+
+ex:Paper_0101bef3602965eb124803564e37141cff2333ea-4 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_000f945179e9ffc0ad20fe695bcc992066d6d072,
+        ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e .
+
+ex:Paper_0101bef3602965eb124803564e37141cff2333ea-5 ex:citation_year 2020,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_0018e888e83bfd993bc49455a8787577ab28a19c,
+        ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c,
+        ex:Paper_00d3c2608f64f432f21a7749b9c674c94170d17e .
+
+ex:Paper_0101bef3602965eb124803564e37141cff2333ea-6 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_005b716759daadb580b472602f6167559aadc9c5 .
+
+ex:Paper_0101bef3602965eb124803564e37141cff2333ea-7 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc .
+
+ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8-1 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_0039e77f1a6de8f375b9c57417201957471ea121 .
+
+ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_006bd41c4a52c64445afdbc67182715a476e09c8,
+        ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b .
+
+ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8-3 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_001bd1d8b04d5c20d9f4f4860146d43de445bc17 .
+
+ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8-4 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_0088aea75b76d7ecd3fa9680ebe778e271c4efcb .
+
+ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950-1 ex:citation_year 2019,
+        2020,
+        2021 ;
+    ex:cites_to ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c,
+        ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b,
+        ex:Paper_011efa271f4a51f73312e407d84161b7819ab066 .
+
+ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950-2 ex:citation_year 2020,
+        2021,
+        2024 ;
+    ex:cites_to ex:Paper_000bf014a71283e739b3288783e0572dd4de7301,
+        ex:Paper_001842ba6c880608a573eeeb2ccd38e9a8ba8281,
+        ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f .
+
+ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950-3 ex:citation_year 2019,
+        2021,
+        2022 ;
+    ex:cites_to ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09,
+        ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9,
+        ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38 .
+
+ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950-4 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80,
+        ex:Paper_0152f2ba5f4765a313e4e41f735a37fca52a2a59 .
+
+ex:Paper_01139f79fb260e1bd06f423cb21522b3e41b31e9-1 ex:citation_year 2022,
+        2023 ;
+    ex:cites_to ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38,
+        ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba .
+
+ex:Paper_01139f79fb260e1bd06f423cb21522b3e41b31e9-2 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0047798ed5bbb87084440d31345ae318e1e3a1b4 .
+
+ex:Paper_01139f79fb260e1bd06f423cb21522b3e41b31e9-3 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00b9b9bf5b07d6af71bef29c48a35b948cc12255 .
+
+ex:Paper_01139f79fb260e1bd06f423cb21522b3e41b31e9-4 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3 .
+
+ex:Paper_01139f79fb260e1bd06f423cb21522b3e41b31e9-5 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924 .
+
+ex:Paper_01139f79fb260e1bd06f423cb21522b3e41b31e9-6 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e,
+        ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011 .
+
+ex:Paper_01139f79fb260e1bd06f423cb21522b3e41b31e9-7 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f .
+
+ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8-1 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_0090fe788feb3d56ee9bb1aaf83d51de71d8d3e6,
+        ex:Paper_00d751c11cf2390626d051bcbda4a70cb9355a38 .
+
+ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00250fc7fe665bdb5af3e895a18d1c94db3a7c8e .
+
+ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8-3 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00c92bd26958dbc085eb4bbc72aa3d34f92e32c7 .
+
+ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3 .
+
+ex:Paper_01195a0ceb2ca420405c96ebcabc7718c1e78ac8-5 ex:citation_year 2021,
+        2024 ;
+    ex:cites_to ex:Paper_0027a5389929596cc4bd1d645104cd7d88588509,
+        ex:Paper_006707fad29166a3426fbb654d842c6d9292a771,
+        ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f .
+
+ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011-1 ex:citation_year 2020,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1,
+        ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1,
+        ex:Paper_001533bcbe30802b9a37d8f9f22a083ccef516b4 .
+
+ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0125abc6b5f4b4e1c9b87c4735fc8313c0600c88 .
+
+ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b .
+
+ex:Paper_011efa271f4a51f73312e407d84161b7819ab066-1 ex:citation_year 2020,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87,
+        ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f,
+        ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688 .
+
+ex:Paper_011efa271f4a51f73312e407d84161b7819ab066-2 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58,
+        ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75 .
+
+ex:Paper_0125abc6b5f4b4e1c9b87c4735fc8313c0600c88-1 ex:citation_year 2020,
+        2024 ;
+    ex:cites_to ex:Paper_0047798ed5bbb87084440d31345ae318e1e3a1b4,
+        ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278,
+        ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924 .
+
+ex:Paper_0125abc6b5f4b4e1c9b87c4735fc8313c0600c88-2 ex:citation_year 2019,
+        2022 ;
+    ex:cites_to ex:Paper_00e3e4cfdba66226403368edd30df8032c9802f0,
+        ex:Paper_011efa271f4a51f73312e407d84161b7819ab066 .
+
+ex:Paper_0125abc6b5f4b4e1c9b87c4735fc8313c0600c88-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80,
+        ex:Paper_011efa271f4a51f73312e407d84161b7819ab066 .
+
+ex:Paper_0125abc6b5f4b4e1c9b87c4735fc8313c0600c88-4 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_0018e888e83bfd993bc49455a8787577ab28a19c,
+        ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba .
+
+ex:Paper_0125abc6b5f4b4e1c9b87c4735fc8313c0600c88-5 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_00b9b9bf5b07d6af71bef29c48a35b948cc12255,
+        ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011 .
+
+ex:Paper_0125abc6b5f4b4e1c9b87c4735fc8313c0600c88-6 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8 .
+
+ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37-1 ex:citation_year 2020,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_000f945179e9ffc0ad20fe695bcc992066d6d072,
+        ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923,
+        ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c .
+
+ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37-2 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b,
+        ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734 .
+
+ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37-3 ex:citation_year 2019,
+        2022,
+        2023 ;
+    ex:cites_to ex:Paper_005f0f6d796e1856b373e2116bdbffa719d12fbd,
+        ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d,
+        ex:Paper_00e2b0f9bcdfa52fbf68a959f9daa8a5ba23bba8 .
+
+ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37-4 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_00016e315b39d20b69f041790573e2215f9eb028,
+        ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7 .
+
+ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37-5 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2 .
+
+ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37-6 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00dc5c4cb64d6bd66ba091b2bdbd7baa189a3ced .
+
+ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2-1 ex:citation_year 2021,
+        2022,
+        2024 ;
+    ex:cites_to ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9,
+        ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924,
+        ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888 .
+
+ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2-2 ex:citation_year 2021,
+        2023 ;
+    ex:cites_to ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f,
+        ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c .
+
+ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7 .
+
+ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00016e315b39d20b69f041790573e2215f9eb028,
+        ex:Paper_007617660cc0d33741a6b6603da6a1844714cbdf .
+
+ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2-5 ex:citation_year 2024 ;
+    ex:cites_to ex:Paper_0074abb724b0cec51d8ff51b73f41452fa3b156f .
+
+ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2-6 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7 .
+
+ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2 .
+
+ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23 .
+
+ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278 .
+
+ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34 .
+
+ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01-5 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00f2dc9cd83b6730ff3c458b73d6c5507dcc36e4 .
+
+ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01-6 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_0007cd4870abff3c79537a4722d2f6365eb5468f,
+        ex:Paper_0013693bccf244dad3d321558ac7986bc0230db9 .
+
+ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01-7 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7 .
+
+ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01-8 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1,
+        ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37 .
+
+ex:Paper_01383cf064a9963054b5416c04cc421100656892-1 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00bb7f29057d30892f84cc01a96301b688fcdef8 .
+
+ex:Paper_01383cf064a9963054b5416c04cc421100656892-2 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89,
+        ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75 .
+
+ex:Paper_01383cf064a9963054b5416c04cc421100656892-3 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_0054351123d266e99f6b207082265caa038b6b50,
+        ex:Paper_0067258937f69e4cc4371a924134189074be8d93,
+        ex:Paper_00bb7f29057d30892f84cc01a96301b688fcdef8 .
+
+ex:Paper_01383cf064a9963054b5416c04cc421100656892-4 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c .
+
+ex:Paper_01383cf064a9963054b5416c04cc421100656892-5 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_002523ab48c0a79567a275c5ba219e95e37d9cca,
+        ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171 .
+
+ex:Paper_013fc96537baedea3e397d057be8404aa93d5299-1 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734 .
+
+ex:Paper_013fc96537baedea3e397d057be8404aa93d5299-2 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b .
+
+ex:Paper_013fc96537baedea3e397d057be8404aa93d5299-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f .
+
+ex:Paper_013fc96537baedea3e397d057be8404aa93d5299-4 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_002df72c36a270cc824897f6e5f88edf70fb1f61,
+        ex:Paper_00768f59dc45c197f4329a4d6287423dca22cdbf,
+        ex:Paper_00d3c2608f64f432f21a7749b9c674c94170d17e .
+
+ex:Paper_013fc96537baedea3e397d057be8404aa93d5299-5 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_00e2b0f9bcdfa52fbf68a959f9daa8a5ba23bba8 .
+
+ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b-1 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a,
+        ex:Paper_0090fe788feb3d56ee9bb1aaf83d51de71d8d3e6,
+        ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9 .
+
+ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b-2 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00a475e5f179857ad0d2d139d65183109b8c7dc4 .
+
+ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b-3 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00016e315b39d20b69f041790573e2215f9eb028 .
+
+ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923-1 ex:citation_year 2023,
+        2024 ;
+    ex:cites_to ex:Paper_000cd7ac3435007cca292fc8f1bac86b7a066467,
+        ex:Paper_0098b6f1bf31b12cdd0c24ef81050c3d2a39b0f5 .
+
+ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923-2 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1,
+        ex:Paper_0083bf90c49c5f48d52ce309c4ddc7f4f9782b15,
+        ex:Paper_01322d3f7039eaed09ce4fa77dc4efb122e400a2 .
+
+ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923-3 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_0067258937f69e4cc4371a924134189074be8d93,
+        ex:Paper_00c5cf4399df8efa1179915c36088a99eb26f281 .
+
+ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923-4 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94,
+        ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26 .
+
+ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923-5 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2 .
+
+ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923-6 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27 .
+
+ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba-1 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe .
+
+ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba-2 ex:citation_year 2019,
+        2021 ;
+    ex:cites_to ex:Paper_0085bc8aa185ebb0fb18f55cc197c8d98232445d,
+        ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27 .
+
+ex:Paper_0149c0f5b7985d17afc516d932dd17c4205fd4ba-3 ex:citation_year 2020,
+        2022 ;
+    ex:cites_to ex:Paper_00b5f8d132c6223e130622b4136e1090e943f238,
+        ex:Paper_00cb8781b1c991659b9ba6e525eaadf13fe8f359,
+        ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b .
+
+ex:Paper_014cf690afedcb7d8fddaa9d6770f162385ffc99-1 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_001fed0e97d344c3aa563c704356099a05111949 .
+
+ex:Paper_014cf690afedcb7d8fddaa9d6770f162385ffc99-2 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25,
+        ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888 .
+
+ex:Paper_014cf690afedcb7d8fddaa9d6770f162385ffc99-3 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035 .
+
+ex:Paper_014cf690afedcb7d8fddaa9d6770f162385ffc99-4 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00a0914dcd260804109cc05aef17830c371a1f27 .
+
+ex:Paper_014cf690afedcb7d8fddaa9d6770f162385ffc99-5 ex:citation_year 2020,
+        2024 ;
+    ex:cites_to ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7,
+        ex:Paper_0039e77f1a6de8f375b9c57417201957471ea121 .
+
+ex:Paper_014cf690afedcb7d8fddaa9d6770f162385ffc99-6 ex:citation_year 2020,
+        2023 ;
+    ex:cites_to ex:Paper_00a9af382e2e28bdd25dddbb1cd64c1885a4fc93,
+        ex:Paper_00e7411e4c52e499e01bde5072eb07940d162ad7 .
+
+ex:Paper_014cf690afedcb7d8fddaa9d6770f162385ffc99-7 ex:citation_year 2020,
+        2021,
+        2022 ;
+    ex:cites_to ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc,
+        ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950,
+        ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b .
+
+ex:Paper_0150286dd10c0e18fd86a08603fd32343ba73d46-1 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523,
+        ex:Paper_00d3c2608f64f432f21a7749b9c674c94170d17e .
+
+ex:Paper_0150286dd10c0e18fd86a08603fd32343ba73d46-2 ex:citation_year 2021 ;
+    ex:cites_to ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9,
+        ex:Paper_0061d50db46a06422fe3b7433918d9a39a79b74f .
+
+ex:Paper_0150286dd10c0e18fd86a08603fd32343ba73d46-3 ex:citation_year 2019 ;
+    ex:cites_to ex:Paper_006bf046e6c27d882bae79688004c4c4f4781a0f .
+
+ex:Paper_0150286dd10c0e18fd86a08603fd32343ba73d46-4 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923 .
+
+ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26-1 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06 .
+
+ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26-2 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_007b0a33a13c085f7ba0a66d1b6b1f7fbace740e .
+
+ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26-3 ex:citation_year 2019,
+        2021,
+        2023 ;
+    ex:cites_to ex:Paper_0082dd304daa17951de672ecfbc17175da4c320e,
+        ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80 .
+
+ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26-4 ex:citation_year 2019,
+        2020 ;
+    ex:cites_to ex:Paper_0090fe788feb3d56ee9bb1aaf83d51de71d8d3e6,
+        ex:Paper_01383cf064a9963054b5416c04cc421100656892 .
+
+ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26-5 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_0019dbffc27ecda6e699a2a6a5d0861a478dd204,
+        ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688 .
+
+ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26-6 ex:citation_year 2022 ;
+    ex:cites_to ex:Paper_00c5cf4399df8efa1179915c36088a99eb26f281 .
+
+ex:Paper_0152f2ba5f4765a313e4e41f735a37fca52a2a59-1 ex:citation_year 2019,
+        2023 ;
+    ex:cites_to ex:Paper_00e3e4cfdba66226403368edd30df8032c9802f0,
+        ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9 .
+
+ex:Paper_0152f2ba5f4765a313e4e41f735a37fca52a2a59-2 ex:citation_year 2021,
+        2022 ;
+    ex:cites_to ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38,
+        ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888 .
+
+ex:Paper_0152f2ba5f4765a313e4e41f735a37fca52a2a59-3 ex:citation_year 2020,
+        2021 ;
+    ex:cites_to ex:Paper_00ba98cf43f53a8e9e61b8895a7ca302900e6d7e,
+        ex:Paper_00c5cf4399df8efa1179915c36088a99eb26f281 .
+
+ex:Paper_0152f2ba5f4765a313e4e41f735a37fca52a2a59-4 ex:citation_year 2023 ;
+    ex:cites_to ex:Paper_00a427715f49105b001ba242ad0e36b570c6d5db,
+        ex:Paper_00b9b9bf5b07d6af71bef29c48a35b948cc12255 .
+
+ex:Paper_0152f2ba5f4765a313e4e41f735a37fca52a2a59-5 ex:citation_year 2020 ;
+    ex:cites_to ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01 .
+

@@ -1,0 +1,2594 @@
+@prefix ex: <http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://schema.org/> .
+
+ex:Author_103296599 a ex:Author ;
+    ns1:email "M._Preti@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "M. Preti" .
+
+ex:Author_103873302 a ex:Author ;
+    ns1:email "Robert_Bove@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Robert Bove" .
+
+ex:Author_11063801 a ex:Author ;
+    ns1:email "Barry_Liu@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Barry Liu" .
+
+ex:Author_113134742 a ex:Author ;
+    ns1:email "Dietrich_Squinkifer@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Dietrich Squinkifer" .
+
+ex:Author_11330123 a ex:Author ;
+    ns1:email "J._Argasiński@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "J. Argasiński" .
+
+ex:Author_116150522 a ex:Author ;
+    ns1:email "Ioanna_Vasileiadou@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "Ioanna Vasileiadou" .
+
+ex:Author_11618874 a ex:Author ;
+    ns1:email "S._Thiagarajan@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "S. Thiagarajan" .
+
+ex:Author_116853525 a ex:Author ;
+    ns1:email "D._Doreswamy@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "D. Doreswamy" .
+
+ex:Author_116879422 a ex:Author ;
+    ns1:email "Yulyani_Arifin@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "Yulyani Arifin" .
+
+ex:Author_11735268 a ex:Author ;
+    ns1:email "M._Dübbers@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "M. Dübbers" .
+
+ex:Author_118461124 a ex:Author ;
+    ns1:email "Zafiri_Makrina@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Zafiri Makrina" .
+
+ex:Author_119803948 a ex:Author ;
+    ns1:email "R._Krishnamurthy@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "R. Krishnamurthy" .
+
+ex:Author_120647490 a ex:Author ;
+    ns1:email "S._Henry@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "S. Henry" .
+
+ex:Author_123064042 a ex:Author ;
+    ns1:email "L.S._Haynes@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "L.S. Haynes" .
+
+ex:Author_13288046 a ex:Author ;
+    ns1:email "Claudia_Gonzalez_Viejo@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "Claudia Gonzalez Viejo" .
+
+ex:Author_1383246948 a ex:Author ;
+    ns1:email "Sora_Hayashi@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Sora Hayashi" .
+
+ex:Author_1388404060 a ex:Author ;
+    ns1:email "Kevin_Leyton-Brown@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Kevin Leyton-Brown" .
+
+ex:Author_1390043728 a ex:Author ;
+    ns1:email "Noah_Wardrip-Fruin@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "Noah Wardrip-Fruin" .
+
+ex:Author_1393291803 a ex:Author ;
+    ns1:email "T._Lowry@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "T. Lowry" .
+
+ex:Author_1394258787 a ex:Author ;
+    ns1:email "Nick_Junius@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "Nick Junius" .
+
+ex:Author_1394765173 a ex:Author ;
+    ns1:email "Eka_Rusadze@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Eka Rusadze" .
+
+ex:Author_1396307944 a ex:Author ;
+    ns1:email "B._King-Casas@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "B. King-Casas" .
+
+ex:Author_1398348791 a ex:Author ;
+    ns1:email "B._Villazón-Terrazas@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "B. Villazón-Terrazas" .
+
+ex:Author_1398510220 a ex:Author ;
+    ns1:email "L._Mo-Suwan@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "L. Mo-Suwan" .
+
+ex:Author_1399291986 a ex:Author ;
+    ns1:email "Kiyoko_F._Aoki-Kinoshita@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "Kiyoko F. Aoki-Kinoshita" .
+
+ex:Author_1400943991 a ex:Author ;
+    ns1:email "E._Douglas-Cowie@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "E. Douglas-Cowie" .
+
+ex:Author_1402943721 a ex:Author ;
+    ns1:email "L._Lewin-Eytan@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "L. Lewin-Eytan" .
+
+ex:Author_1411043056 a ex:Author ;
+    ns1:email "S._Agrawal@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "S. Agrawal" .
+
+ex:Author_1418344043 a ex:Author ;
+    ns1:email "A._N._Yudhisthira@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "A. N. Yudhisthira" .
+
+ex:Author_143628853 a ex:Author ;
+    ns1:email "Elizabeth_LaPensée@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Elizabeth LaPensée" .
+
+ex:Author_143634612 a ex:Author ;
+    ns1:email "G._Yin@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "G. Yin" .
+
+ex:Author_143697651 a ex:Author ;
+    ns1:email "E._Navas@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "E. Navas" .
+
+ex:Author_143701176 a ex:Author ;
+    ns1:email "Knut_Hinkelmann@gmail.com" ;
+    ex:affiliated_with "FHNW University of Applied Sciences and Arts Northwestern Switzerland" ;
+    foaf:name "Knut Hinkelmann" .
+
+ex:Author_143736701 a ex:Author ;
+    ns1:email "Milind_Tambe@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "Milind Tambe" .
+
+ex:Author_143775527 a ex:Author ;
+    ns1:email "Guang-Ho_Cha@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "Guang-Ho Cha" .
+
+ex:Author_143792160 a ex:Author ;
+    ns1:email "R._Thiagarajan@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "R. Thiagarajan" .
+
+ex:Author_143819446 a ex:Author ;
+    ns1:email "K._Squire@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "K. Squire" .
+
+ex:Author_143823506 a ex:Author ;
+    ns1:email "H._Donkers@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "H. Donkers" .
+
+ex:Author_143836892 a ex:Author ;
+    ns1:email "J._Perl@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "J. Perl" .
+
+ex:Author_143842962 a ex:Author ;
+    ns1:email "H._Voigt@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "H. Voigt" .
+
+ex:Author_143872539 a ex:Author ;
+    ns1:email "T._Jiang@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "T. Jiang" .
+
+ex:Author_143882917 a ex:Author ;
+    ns1:email "J._B._Cruz@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "J. B. Cruz" .
+
+ex:Author_143906110 a ex:Author ;
+    ns1:email "M._Holanda@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "M. Holanda" .
+
+ex:Author_143934203 a ex:Author ;
+    ns1:email "D._Kelly@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "D. Kelly" .
+
+ex:Author_143966331 a ex:Author ;
+    ns1:email "Stefan_Conrad@gmail.com" ;
+    ex:affiliated_with "['University of Düsseldorf']" ;
+    foaf:name "Stefan Conrad" .
+
+ex:Author_143989442 a ex:Author ;
+    ns1:email "M._Specht@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "M. Specht" .
+
+ex:Author_144004474 a ex:Author ;
+    ns1:email "I._Hernáez@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "I. Hernáez" .
+
+ex:Author_144018135 a ex:Author ;
+    ns1:email "Xin_Kang@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "Xin Kang" .
+
+ex:Author_144064235 a ex:Author ;
+    ns1:email "Katherine_K._Fu@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Katherine K. Fu" .
+
+ex:Author_144142357 a ex:Author ;
+    ns1:email "Rui_Zhang@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Rui Zhang" .
+
+ex:Author_144146894 a ex:Author ;
+    ns1:email "S._Naqvi@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "S. Naqvi" .
+
+ex:Author_144153718 a ex:Author ;
+    ns1:email "H._T._Kung@gmail.com" ;
+    ex:affiliated_with "['Harvard University']" ;
+    foaf:name "H. T. Kung" .
+
+ex:Author_144154444 a ex:Author ;
+    ns1:email "Marcus_Hutter@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Marcus Hutter" .
+
+ex:Author_144163068 a ex:Author ;
+    ns1:email "T._Mills@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "T. Mills" .
+
+ex:Author_144179343 a ex:Author ;
+    ns1:email "Ron_Edgar@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "Ron Edgar" .
+
+ex:Author_144237889 a ex:Author ;
+    ns1:email "Brent_D._Hill@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "Brent D. Hill" .
+
+ex:Author_144283020 a ex:Author ;
+    ns1:email "Raymond_Lo@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Raymond Lo" .
+
+ex:Author_144298043 a ex:Author ;
+    ns1:email "Jaime_Sánchez@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Jaime Sánchez" .
+
+ex:Author_144376619 a ex:Author ;
+    ns1:email "Edwin_Sequeira@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Edwin Sequeira" .
+
+ex:Author_144381875 a ex:Author ;
+    ns1:email "D._Parker@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "D. Parker" .
+
+ex:Author_144385660 a ex:Author ;
+    ns1:email "V._Rivera@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "V. Rivera" .
+
+ex:Author_144395551 a ex:Author ;
+    ns1:email "M._Ivanović@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "M. Ivanović" .
+
+ex:Author_144463965 a ex:Author ;
+    ns1:email "A._Sheth@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "A. Sheth" .
+
+ex:Author_144503029 a ex:Author ;
+    ns1:email "Kamran_Shafi@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Kamran Shafi" .
+
+ex:Author_144504726 a ex:Author ;
+    ns1:email "Julia_Kleinert@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Julia Kleinert" .
+
+ex:Author_144508067 a ex:Author ;
+    ns1:email "M._Zappalà@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "M. Zappalà" .
+
+ex:Author_144527006 a ex:Author ;
+    ns1:email "M._Mazzara@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "M. Mazzara" .
+
+ex:Author_14454974 a ex:Author ;
+    ns1:email "P._H._Seo@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "P. H. Seo" .
+
+ex:Author_144609251 a ex:Author ;
+    ns1:email "Jennifer_Sabourin@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "Jennifer Sabourin" .
+
+ex:Author_144625576 a ex:Author ;
+    ns1:email "M._Barni@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "M. Barni" .
+
+ex:Author_144638626 a ex:Author ;
+    ns1:email "A._Chechulin@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "A. Chechulin" .
+
+ex:Author_144678875 a ex:Author ;
+    ns1:email "Laurent_L._Njilla@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Laurent L. Njilla" .
+
+ex:Author_144718788 a ex:Author ;
+    ns1:email "L._Deng@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "L. Deng" .
+
+ex:Author_144743909 a ex:Author ;
+    ns1:email "D._G._George@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "D. G. George" .
+
+ex:Author_144772155 a ex:Author ;
+    ns1:email "André_L._M._Santos@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "André L. M. Santos" .
+
+ex:Author_144796684 a ex:Author ;
+    ns1:email "J._Reymond@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "J. Reymond" .
+
+ex:Author_144823759 a ex:Author ;
+    ns1:email "Dan_Suciu@gmail.com" ;
+    ex:affiliated_with "['University of Washington']" ;
+    foaf:name "Dan Suciu" .
+
+ex:Author_144834571 a ex:Author ;
+    ns1:email "A._Voogt@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "A. Voogt" .
+
+ex:Author_144879753 a ex:Author ;
+    ns1:email "Samantha_Leung@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Samantha Leung" .
+
+ex:Author_144971290 a ex:Author ;
+    ns1:email "K._Yamane@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "K. Yamane" .
+
+ex:Author_144989167 a ex:Author ;
+    ns1:email "A._Flory@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "A. Flory" .
+
+ex:Author_145009388 a ex:Author ;
+    ns1:email "A._Papadopoulos@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "A. Papadopoulos" .
+
+ex:Author_145042418 a ex:Author ;
+    ns1:email "S._Greco@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "S. Greco" .
+
+ex:Author_145064289 a ex:Author ;
+    ns1:email "A._Rao@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "A. Rao" .
+
+ex:Author_145080425 a ex:Author ;
+    ns1:email "Gautam_Das@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Gautam Das" .
+
+ex:Author_145141931 a ex:Author ;
+    ns1:email "P._Bouillon@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "P. Bouillon" .
+
+ex:Author_145188857 a ex:Author ;
+    ns1:email "A._Elmagarmid@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "A. Elmagarmid" .
+
+ex:Author_145190435 a ex:Author ;
+    ns1:email "A._Bensoussan@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "A. Bensoussan" .
+
+ex:Author_145215033 a ex:Author ;
+    ns1:email "B._Mendis@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "B. Mendis" .
+
+ex:Author_145215783 a ex:Author ;
+    ns1:email "S._Sorin@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "S. Sorin" .
+
+ex:Author_145231261 a ex:Author ;
+    ns1:email "S._Winkler@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "S. Winkler" .
+
+ex:Author_145231705 a ex:Author ;
+    ns1:email "Charles_A._Kamhoua@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Charles A. Kamhoua" .
+
+ex:Author_1452344900 a ex:Author ;
+    ns1:email "H._Aung@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "H. Aung" .
+
+ex:Author_145269008 a ex:Author ;
+    ns1:email "J._Zagal@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "J. Zagal" .
+
+ex:Author_145298798 a ex:Author ;
+    ns1:email "S._Fuentes@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "S. Fuentes" .
+
+ex:Author_1453328014 a ex:Author ;
+    ns1:email "Emilio_Molina@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "Emilio Molina" .
+
+ex:Author_145341374 a ex:Author ;
+    ns1:email "J._Schmidhuber@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "J. Schmidhuber" .
+
+ex:Author_145364912 a ex:Author ;
+    ns1:email "G._Reinhardt@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "G. Reinhardt" .
+
+ex:Author_145388224 a ex:Author ;
+    ns1:email "L._Wagner@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "L. Wagner" .
+
+ex:Author_145481292 a ex:Author ;
+    ns1:email "Christian_Reuter@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Christian Reuter" .
+
+ex:Author_145495343 a ex:Author ;
+    ns1:email "J._Uiterwijk@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "J. Uiterwijk" .
+
+ex:Author_145508283 a ex:Author ;
+    ns1:email "Daniil_Kononenko@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Daniil Kononenko" .
+
+ex:Author_145536002 a ex:Author ;
+    ns1:email "Rajni_Nigam@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "Rajni Nigam" .
+
+ex:Author_145553355 a ex:Author ;
+    ns1:email "E._Gordon@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "E. Gordon" .
+
+ex:Author_145635430 a ex:Author ;
+    ns1:email "R._Cowie@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "R. Cowie" .
+
+ex:Author_145647476 a ex:Author ;
+    ns1:email "S._Chaudhuri@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "S. Chaudhuri" .
+
+ex:Author_145651668 a ex:Author ;
+    ns1:email "S._Shiva@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "S. Shiva" .
+
+ex:Author_145654328 a ex:Author ;
+    ns1:email "P._Watson@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "P. Watson" .
+
+ex:Author_145688317 a ex:Author ;
+    ns1:email "Anwitaman_Datta@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "Anwitaman Datta" .
+
+ex:Author_145696419 a ex:Author ;
+    ns1:email "L._Sousa@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "L. Sousa" .
+
+ex:Author_145708964 a ex:Author ;
+    ns1:email "G._Hayman@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "G. Hayman" .
+
+ex:Author_145717652 a ex:Author ;
+    ns1:email "H._Schuldt@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "H. Schuldt" .
+
+ex:Author_145748799 a ex:Author ;
+    ns1:email "David_R._M._Thompson@gmail.com" ;
+    ex:affiliated_with "['Google']" ;
+    foaf:name "David R. M. Thompson" .
+
+ex:Author_145761088 a ex:Author ;
+    ns1:email "S._Göbel@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "S. Göbel" .
+
+ex:Author_145766447 a ex:Author ;
+    ns1:email "G._Norman@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "G. Norman" .
+
+ex:Author_145794456 a ex:Author ;
+    ns1:email "Stéphane_Jean@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Stéphane Jean" .
+
+ex:Author_145890221 a ex:Author ;
+    ns1:email "A._Alwan@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "A. Alwan" .
+
+ex:Author_145910180 a ex:Author ;
+    ns1:email "A._Morrison@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "A. Morrison" .
+
+ex:Author_145999401 a ex:Author ;
+    ns1:email "Amgad_Agoub@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Amgad Agoub" .
+
+ex:Author_146682888 a ex:Author ;
+    ns1:email "F._Amer@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "F. Amer" .
+
+ex:Author_150079420 a ex:Author ;
+    ns1:email "Daniel_Motus@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Daniel Motus" .
+
+ex:Author_152701833 a ex:Author ;
+    ns1:email "M._Potey@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "M. Potey" .
+
+ex:Author_152879053 a ex:Author ;
+    ns1:email "Y._Lai@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "Y. Lai" .
+
+ex:Author_153316774 a ex:Author ;
+    ns1:email "J._Andrew@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "J. Andrew" .
+
+ex:Author_153446958 a ex:Author ;
+    ns1:email "W._Kew@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "W. Kew" .
+
+ex:Author_1571154002 a ex:Author ;
+    ns1:email "I._Kalinina@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "I. Kalinina" .
+
+ex:Author_1598458883 a ex:Author ;
+    ns1:email "Sajani_Vithana@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "Sajani Vithana" .
+
+ex:Author_16777650 a ex:Author ;
+    ns1:email "Igor_Kotenko@gmail.com" ;
+    ex:affiliated_with "['St. Petersburg Federal Research Center of the Russian Academy of Sciences']" ;
+    foaf:name "Igor Kotenko" .
+
+ex:Author_1679752 a ex:Author ;
+    ns1:email "Ulf_T._Mattsson@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Ulf T. Mattsson" .
+
+ex:Author_1680306 a ex:Author ;
+    ns1:email "Don_Goelman@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "Don Goelman" .
+
+ex:Author_1680621 a ex:Author ;
+    ns1:email "U._Büker@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "U. Büker" .
+
+ex:Author_1680812 a ex:Author ;
+    ns1:email "H._Mewes@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "H. Mewes" .
+
+ex:Author_1681530 a ex:Author ;
+    ns1:email "Michael_Bradley_Johanson@gmail.com" ;
+    ex:affiliated_with "DeepMind" ;
+    foaf:name "Michael Bradley Johanson" .
+
+ex:Author_1682406 a ex:Author ;
+    ns1:email "A._Mendelzon@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "A. Mendelzon" .
+
+ex:Author_1682878 a ex:Author ;
+    ns1:email "A._Gionis@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "A. Gionis" .
+
+ex:Author_1683556 a ex:Author ;
+    ns1:email "G._Wiederhold@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "G. Wiederhold" .
+
+ex:Author_1683669 a ex:Author ;
+    ns1:email "L._Deri@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "L. Deri" .
+
+ex:Author_1684197 a ex:Author ;
+    ns1:email "Y._Ioannidis@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Y. Ioannidis" .
+
+ex:Author_1684379 a ex:Author ;
+    ns1:email "Ladjel_Bellatreche@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Ladjel Bellatreche" .
+
+ex:Author_1684457 a ex:Author ;
+    ns1:email "M._Dunham@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "M. Dunham" .
+
+ex:Author_1685173 a ex:Author ;
+    ns1:email "Thomas_Brihaye@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Thomas Brihaye" .
+
+ex:Author_1685720696 a ex:Author ;
+    ns1:email "Mohammed_M._El_Genidy@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Mohammed M. El Genidy" .
+
+ex:Author_1686193 a ex:Author ;
+    ns1:email "Georgios_N._Yannakakis@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "Georgios N. Yannakakis" .
+
+ex:Author_1686360 a ex:Author ;
+    ns1:email "Wang-Chien_Lee@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Wang-Chien Lee" .
+
+ex:Author_1692152 a ex:Author ;
+    ns1:email "Lee@gmail.com" ;
+    ex:affiliated_with "['Hong Kong University of Science and Technology']" ;
+    foaf:name "Lee" .
+
+ex:Author_1694028 a ex:Author ;
+    ns1:email "Riky_Subrata@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Riky Subrata" .
+
+ex:Author_1695958 a ex:Author ;
+    ns1:email "F._Corradini@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "F. Corradini" .
+
+ex:Author_1700482 a ex:Author ;
+    ns1:email "E._Masciari@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "E. Masciari" .
+
+ex:Author_1701316 a ex:Author ;
+    ns1:email "M._Kwiatkowska@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "M. Kwiatkowska" .
+
+ex:Author_1702008 a ex:Author ;
+    ns1:email "C._Borror@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "C. Borror" .
+
+ex:Author_1703130 a ex:Author ;
+    ns1:email "T._Reps@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "T. Reps" .
+
+ex:Author_1703204 a ex:Author ;
+    ns1:email "Juan_Sequeda@gmail.com" ;
+    ex:affiliated_with "['data.world']" ;
+    foaf:name "Juan Sequeda" .
+
+ex:Author_1705486 a ex:Author ;
+    ns1:email "B._Landfeldt@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "B. Landfeldt" .
+
+ex:Author_1705969 a ex:Author ;
+    ns1:email "A._Orda@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "A. Orda" .
+
+ex:Author_1708081 a ex:Author ;
+    ns1:email "Y._A._Ameur@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "Y. A. Ameur" .
+
+ex:Author_1709901 a ex:Author ;
+    ns1:email "Ee-Peng_Lim@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "Ee-Peng Lim" .
+
+ex:Author_1710856 a ex:Author ;
+    ns1:email "D._Dasgupta@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "D. Dasgupta" .
+
+ex:Author_1713331 a ex:Author ;
+    ns1:email "Antonios_Liapis@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "Antonios Liapis" .
+
+ex:Author_1713567 a ex:Author ;
+    ns1:email "Peter_Bellström@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "Peter Bellström" .
+
+ex:Author_1713968 a ex:Author ;
+    ns1:email "Jiankun_Hu@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "Jiankun Hu" .
+
+ex:Author_1715407 a ex:Author ;
+    ns1:email "A._Abrardo@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "A. Abrardo" .
+
+ex:Author_1716140 a ex:Author ;
+    ns1:email "M._Yun@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "M. Yun" .
+
+ex:Author_1716323 a ex:Author ;
+    ns1:email "D._Memmert@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "D. Memmert" .
+
+ex:Author_1716650 a ex:Author ;
+    ns1:email "I._Saratxaga@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "I. Saratxaga" .
+
+ex:Author_1717955 a ex:Author ;
+    ns1:email "James_C._Lester@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "James C. Lester" .
+
+ex:Author_1717963 a ex:Author ;
+    ns1:email "S._Rass@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "S. Rass" .
+
+ex:Author_1718571 a ex:Author ;
+    ns1:email "F._Henskens@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "F. Henskens" .
+
+ex:Author_1718824 a ex:Author ;
+    ns1:email "Pradeep_Varakantham@gmail.com" ;
+    ex:affiliated_with "['Singapore Management University']" ;
+    foaf:name "Pradeep Varakantham" .
+
+ex:Author_1723424 a ex:Author ;
+    ns1:email "K._Kwiat@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "K. Kwiat" .
+
+ex:Author_1725157 a ex:Author ;
+    ns1:email "T._Schaul@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "T. Schaul" .
+
+ex:Author_1725298 a ex:Author ;
+    ns1:email "R._Steinmetz@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "R. Steinmetz" .
+
+ex:Author_1726425 a ex:Author ;
+    ns1:email "B._Catania@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "B. Catania" .
+
+ex:Author_1726792 a ex:Author ;
+    ns1:email "G._J._Nalepa@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "G. J. Nalepa" .
+
+ex:Author_1728262 a ex:Author ;
+    ns1:email "A._Negi@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "A. Negi" .
+
+ex:Author_1729159 a ex:Author ;
+    ns1:email "D._Rawat@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "D. Rawat" .
+
+ex:Author_1730314 a ex:Author ;
+    ns1:email "S._Flesca@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "S. Flesca" .
+
+ex:Author_1730590 a ex:Author ;
+    ns1:email "A._Barto@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "A. Barto" .
+
+ex:Author_1731012 a ex:Author ;
+    ns1:email "P._Abry@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "P. Abry" .
+
+ex:Author_1732285 a ex:Author ;
+    ns1:email "Jason_Begy@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "Jason Begy" .
+
+ex:Author_1733122 a ex:Author ;
+    ns1:email "C._Chekuri@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "C. Chekuri" .
+
+ex:Author_1733783 a ex:Author ;
+    ns1:email "C._Chung@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "C. Chung" .
+
+ex:Author_1734200 a ex:Author ;
+    ns1:email "H._Schek@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "H. Schek" .
+
+ex:Author_1736546 a ex:Author ;
+    ns1:email "Doina_Caragea@gmail.com" ;
+    ex:affiliated_with "['Kansas State University']" ;
+    foaf:name "Doina Caragea" .
+
+ex:Author_1737891 a ex:Author ;
+    ns1:email "J._Baras@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "J. Baras" .
+
+ex:Author_1738145 a ex:Author ;
+    ns1:email "J._Huyck@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "J. Huyck" .
+
+ex:Author_1740145 a ex:Author ;
+    ns1:email "V._Lempitsky@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "V. Lempitsky" .
+
+ex:Author_1741158 a ex:Author ;
+    ns1:email "P._Atzeni@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "P. Atzeni" .
+
+ex:Author_1741196 a ex:Author ;
+    ns1:email "S._Kiranyaz@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "S. Kiranyaz" .
+
+ex:Author_1742415696 a ex:Author ;
+    ns1:email "E._Whitehead@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "E. Whitehead" .
+
+ex:Author_1742790 a ex:Author ;
+    ns1:email "I._Luengo@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "I. Luengo" .
+
+ex:Author_1742930 a ex:Author ;
+    ns1:email "E._André@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "E. André" .
+
+ex:Author_1743133 a ex:Author ;
+    ns1:email "D._Xuan@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "D. Xuan" .
+
+ex:Author_1743774 a ex:Author ;
+    ns1:email "E._Bertino@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "E. Bertino" .
+
+ex:Author_1743835 a ex:Author ;
+    ns1:email "J._F._A._Montes@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "J. F. A. Montes" .
+
+ex:Author_1744394 a ex:Author ;
+    ns1:email "S._Ulukus@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "S. Ulukus" .
+
+ex:Author_1745330 a ex:Author ;
+    ns1:email "Wookhee_Min@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "Wookhee Min" .
+
+ex:Author_1747491 a ex:Author ;
+    ns1:email "P._Bouyer@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "P. Bouyer" .
+
+ex:Author_1748676 a ex:Author ;
+    ns1:email "G._Pierra@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "G. Pierra" .
+
+ex:Author_1749716 a ex:Author ;
+    ns1:email "Fabrice_Chevalier@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Fabrice Chevalier" .
+
+ex:Author_1751233 a ex:Author ;
+    ns1:email "C._Laborda@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "C. Laborda" .
+
+ex:Author_1751440 a ex:Author ;
+    ns1:email "J._Naor@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "J. Naor" .
+
+ex:Author_1752475 a ex:Author ;
+    ns1:email "Erik_Blasch@gmail.com" ;
+    ex:affiliated_with "['AFRL']" ;
+    foaf:name "Erik Blasch" .
+
+ex:Author_1757996 a ex:Author ;
+    ns1:email "R._Klemke@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "R. Klemke" .
+
+ex:Author_1758755 a ex:Author ;
+    ns1:email "K._Merrick@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "K. Merrick" .
+
+ex:Author_1759803 a ex:Author ;
+    ns1:email "S._Zadrożny@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "S. Zadrożny" .
+
+ex:Author_1760085 a ex:Author ;
+    ns1:email "J._Kacprzyk@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "J. Kacprzyk" .
+
+ex:Author_1760762 a ex:Author ;
+    ns1:email "B._Fung@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "B. Fung" .
+
+ex:Author_1761581 a ex:Author ;
+    ns1:email "Manny_Rayner@gmail.com" ;
+    ex:affiliated_with "['University of Geneva']" ;
+    foaf:name "Manny Rayner" .
+
+ex:Author_1765948 a ex:Author ;
+    ns1:email "P._Trancoso@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "P. Trancoso" .
+
+ex:Author_1766832 a ex:Author ;
+    ns1:email "U._Engelke@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "U. Engelke" .
+
+ex:Author_1767172 a ex:Author ;
+    ns1:email "A._Ilic@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "A. Ilic" .
+
+ex:Author_1767692 a ex:Author ;
+    ns1:email "K._Opwis@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "K. Opwis" .
+
+ex:Author_1768181 a ex:Author ;
+    ns1:email "William_van_der_Sterren@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "William van der Sterren" .
+
+ex:Author_1768762792 a ex:Author ;
+    ns1:email "Mahmoud_Moustafa_Eyada@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Mahmoud Moustafa Eyada" .
+
+ex:Author_1770486 a ex:Author ;
+    ns1:email "M._Motani@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "M. Motani" .
+
+ex:Author_1772445 a ex:Author ;
+    ns1:email "F._Brinkman@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "F. Brinkman" .
+
+ex:Author_1773778 a ex:Author ;
+    ns1:email "H._Tembine@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "H. Tembine" .
+
+ex:Author_1774336 a ex:Author ;
+    ns1:email "Bhavjinder_Khaira@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "Bhavjinder Khaira" .
+
+ex:Author_1776968 a ex:Author ;
+    ns1:email "T._Tatusova@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "T. Tatusova" .
+
+ex:Author_1778364 a ex:Author ;
+    ns1:email "G._Winsor@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "G. Winsor" .
+
+ex:Author_1785624 a ex:Author ;
+    ns1:email "Vittorio_Bilò@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Vittorio Bilò" .
+
+ex:Author_1785690 a ex:Author ;
+    ns1:email "G._Mecca@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "G. Mecca" .
+
+ex:Author_1797654 a ex:Author ;
+    ns1:email "V._Chudácek@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "V. Chudácek" .
+
+ex:Author_1798269 a ex:Author ;
+    ns1:email "J._Spilka@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "J. Spilka" .
+
+ex:Author_1798691 a ex:Author ;
+    ns1:email "Rosa_Meo@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "Rosa Meo" .
+
+ex:Author_1800120 a ex:Author ;
+    ns1:email "S._Dietrich@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "S. Dietrich" .
+
+ex:Author_1800404 a ex:Author ;
+    ns1:email "M._Huptych@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "M. Huptych" .
+
+ex:Author_1802918 a ex:Author ;
+    ns1:email "D._Saccá@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "D. Saccá" .
+
+ex:Author_1802998 a ex:Author ;
+    ns1:email "Inseong_Lee@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Inseong Lee" .
+
+ex:Author_1803518 a ex:Author ;
+    ns1:email "M._Brigido@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "M. Brigido" .
+
+ex:Author_1803904 a ex:Author ;
+    ns1:email "Frederico_Pratas@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "Frederico Pratas" .
+
+ex:Author_1807113 a ex:Author ;
+    ns1:email "P._Karp@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "P. Karp" .
+
+ex:Author_1808500 a ex:Author ;
+    ns1:email "R._Folgieri@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "R. Folgieri" .
+
+ex:Author_1809270 a ex:Author ;
+    ns1:email "T._Miura@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "T. Miura" .
+
+ex:Author_1809333 a ex:Author ;
+    ns1:email "S._Zhou@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "S. Zhou" .
+
+ex:Author_1830412825 a ex:Author ;
+    ns1:email "Samer_Albahra@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Samer Albahra" .
+
+ex:Author_1832291 a ex:Author ;
+    ns1:email "W._Takano@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "W. Takano" .
+
+ex:Author_1836113 a ex:Author ;
+    ns1:email "Viktor_Wendel@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "Viktor Wendel" .
+
+ex:Author_1849436 a ex:Author ;
+    ns1:email "M._Dwinell@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "M. Dwinell" .
+
+ex:Author_1868196 a ex:Author ;
+    ns1:email "Tom_Everitt@gmail.com" ;
+    ex:affiliated_with "['DeepMind']" ;
+    foaf:name "Tom Everitt" .
+
+ex:Author_1873312 a ex:Author ;
+    ns1:email "A._Chimirri@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "A. Chimirri" .
+
+ex:Author_1875442 a ex:Author ;
+    ns1:email "Valeria_Lorenzetti@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "Valeria Lorenzetti" .
+
+ex:Author_1888102 a ex:Author ;
+    ns1:email "Boreum_Choi@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Boreum Choi" .
+
+ex:Author_1906922 a ex:Author ;
+    ns1:email "Z._Debyser@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "Z. Debyser" .
+
+ex:Author_1916288 a ex:Author ;
+    ns1:email "V._Petri@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "V. Petri" .
+
+ex:Author_1931503 a ex:Author ;
+    ns1:email "Geber_Ramalho@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "Geber Ramalho" .
+
+ex:Author_1932524 a ex:Author ;
+    ns1:email "Xinming_Ou@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Xinming Ou" .
+
+ex:Author_1938133 a ex:Author ;
+    ns1:email "Michael_Hannaford@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Michael Hannaford" .
+
+ex:Author_1960450 a ex:Author ;
+    ns1:email "Elisa_D._Mekler@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "Elisa D. Mekler" .
+
+ex:Author_1978719 a ex:Author ;
+    ns1:email "V._Vesna@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "V. Vesna" .
+
+ex:Author_1982649 a ex:Author ;
+    ns1:email "María_del_Mar_Roldán_García@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "María del Mar Roldán García" .
+
+ex:Author_1988489309 a ex:Author ;
+    ns1:email "J._Mitchell@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "J. Mitchell" .
+
+ex:Author_2023945041 a ex:Author ;
+    ns1:email "Matthew_Brown@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "Matthew Brown" .
+
+ex:Author_2025112 a ex:Author ;
+    ns1:email "Z._Bosnić@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Z. Bosnić" .
+
+ex:Author_2040141 a ex:Author ;
+    ns1:email "C._Bereiter@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "C. Bereiter" .
+
+ex:Author_2044477 a ex:Author ;
+    ns1:email "Tugba_Onal_Suzek@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "Tugba Onal Suzek" .
+
+ex:Author_2044989 a ex:Author ;
+    ns1:email "Jefry_Tedjokusumo@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "Jefry Tedjokusumo" .
+
+ex:Author_2057331457 a ex:Author ;
+    ns1:email "M._E._Walter@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "M. E. Walter" .
+
+ex:Author_2058161182 a ex:Author ;
+    ns1:email "J._Fong@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "J. Fong" .
+
+ex:Author_2059043 a ex:Author ;
+    ns1:email "S._Yam@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "S. Yam" .
+
+ex:Author_2059187518 a ex:Author ;
+    ns1:email "David_L._Wheeler@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "David L. Wheeler" .
+
+ex:Author_2068611376 a ex:Author ;
+    ns1:email "N._Tran@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "N. Tran" .
+
+ex:Author_2069452458 a ex:Author ;
+    ns1:email "T._Tan@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "T. Tan" .
+
+ex:Author_2069946935 a ex:Author ;
+    ns1:email "S._M._Goh@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "S. M. Goh" .
+
+ex:Author_2074443600 a ex:Author ;
+    ns1:email "C._Schramm@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "C. Schramm" .
+
+ex:Author_2075376111 a ex:Author ;
+    ns1:email "Yu_Bao@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "Yu Bao" .
+
+ex:Author_2078607 a ex:Author ;
+    ns1:email "Roberto_Zampolini@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "Roberto Zampolini" .
+
+ex:Author_2083662403 a ex:Author ;
+    ns1:email "Felix_Kunde@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "Felix Kunde" .
+
+ex:Author_2089829 a ex:Author ;
+    ns1:email "Edward_F._Melcer@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Edward F. Melcer" .
+
+ex:Author_2091905565 a ex:Author ;
+    ns1:email "Martin_Richard_Späth@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "Martin Richard Späth" .
+
+ex:Author_2093463872 a ex:Author ;
+    ns1:email "Steve_Mortimer@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "Steve Mortimer" .
+
+ex:Author_2095003529 a ex:Author ;
+    ns1:email "Rune_Jönsson@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Rune Jönsson" .
+
+ex:Author_2095239821 a ex:Author ;
+    ns1:email "Piotr_Sterczewski@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "Piotr Sterczewski" .
+
+ex:Author_2098939 a ex:Author ;
+    ns1:email "A._Glöckner@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "A. Glöckner" .
+
+ex:Author_2105361 a ex:Author ;
+    ns1:email "E._Clercq@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "E. Clercq" .
+
+ex:Author_21058844 a ex:Author ;
+    ns1:email "R._Unnithan@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "R. Unnithan" .
+
+ex:Author_2108105012 a ex:Author ;
+    ns1:email "Sangjin_Lee@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Sangjin Lee" .
+
+ex:Author_2109247625 a ex:Author ;
+    ns1:email "Sajjad_Ahmed@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Sajjad Ahmed" .
+
+ex:Author_2109336475 a ex:Author ;
+    ns1:email "Zhimin_Zhang@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Zhimin Zhang" .
+
+ex:Author_2109434985 a ex:Author ;
+    ns1:email "Dong-chan_Lee@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Dong-chan Lee" .
+
+ex:Author_2109448525 a ex:Author ;
+    ns1:email "Shur-Jen_Wang@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "Shur-Jen Wang" .
+
+ex:Author_2109847248 a ex:Author ;
+    ns1:email "Jennifer_R._Smith@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "Jennifer R. Smith" .
+
+ex:Author_2110851001 a ex:Author ;
+    ns1:email "Jim_Brown@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Jim Brown" .
+
+ex:Author_2112625845 a ex:Author ;
+    ns1:email "Paul_Cheng@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Paul Cheng" .
+
+ex:Author_2112820873 a ex:Author ;
+    ns1:email "HaiBo_Cui@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "HaiBo Cui" .
+
+ex:Author_2112851762 a ex:Author ;
+    ns1:email "Jin_Shi@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "Jin Shi" .
+
+ex:Author_2113076 a ex:Author ;
+    ns1:email "A._M._Barbancho@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "A. M. Barbancho" .
+
+ex:Author_2113608835 a ex:Author ;
+    ns1:email "Lin_Meng@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "Lin Meng" .
+
+ex:Author_2116328984 a ex:Author ;
+    ns1:email "Jinwoo_Kim@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Jinwoo Kim" .
+
+ex:Author_2116388691 a ex:Author ;
+    ns1:email "Genshe_Chen@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "Genshe Chen" .
+
+ex:Author_2117904339 a ex:Author ;
+    ns1:email "Yoonjoong_Kim@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "Yoonjoong Kim" .
+
+ex:Author_2119657963 a ex:Author ;
+    ns1:email "Bowen_Yang@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Bowen Yang" .
+
+ex:Author_2120099756 a ex:Author ;
+    ns1:email "Xin_Liu@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Xin Liu" .
+
+ex:Author_2126316 a ex:Author ;
+    ns1:email "L._Schriml@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "L. Schriml" .
+
+ex:Author_2143549636 a ex:Author ;
+    ns1:email "Scott_Bainbridge@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Scott Bainbridge" .
+
+ex:Author_2148536328 a ex:Author ;
+    ns1:email "Scott_Crabtree@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Scott Crabtree" .
+
+ex:Author_2156211656 a ex:Author ;
+    ns1:email "Mutsuki_Tsuyama@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Mutsuki Tsuyama" .
+
+ex:Author_2157241745 a ex:Author ;
+    ns1:email "Yanyi_Chen@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "Yanyi Chen" .
+
+ex:Author_2159551 a ex:Author ;
+    ns1:email "A._Tsugita@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "A. Tsugita" .
+
+ex:Author_2165805082 a ex:Author ;
+    ns1:email "Tauseef_Ahmed@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "Tauseef Ahmed" .
+
+ex:Author_2168490 a ex:Author ;
+    ns1:email "William_Cachia@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "William Cachia" .
+
+ex:Author_2173160556 a ex:Author ;
+    ns1:email "Yoshihiko_Nakamura@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Yoshihiko Nakamura" .
+
+ex:Author_21744050 a ex:Author ;
+    ns1:email "H._Jacob@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "H. Jacob" .
+
+ex:Author_2176433 a ex:Author ;
+    ns1:email "M._Doret@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "M. Doret" .
+
+ex:Author_21790176 a ex:Author ;
+    ns1:email "W._Majewski@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "W. Majewski" .
+
+ex:Author_2185666 a ex:Author ;
+    ns1:email "Dinah_Rosenberg@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "Dinah Rosenberg" .
+
+ex:Author_22134418 a ex:Author ;
+    ns1:email "Ming_T._Liu@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "Ming T. Liu" .
+
+ex:Author_2225845486 a ex:Author ;
+    ns1:email "Gaurang_Sonkavde@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "Gaurang Sonkavde" .
+
+ex:Author_2230763 a ex:Author ;
+    ns1:email "M._Kada@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "M. Kada" .
+
+ex:Author_2235792 a ex:Author ;
+    ns1:email "E._Ozkarahan@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "E. Ozkarahan" .
+
+ex:Author_2242129 a ex:Author ;
+    ns1:email "Youngdoo_Son@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "Youngdoo Son" .
+
+ex:Author_2249588356 a ex:Author ;
+    ns1:email "Guosun_Zeng@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Guosun Zeng" .
+
+ex:Author_2249607014 a ex:Author ;
+    ns1:email "Michael_Chau@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Michael Chau" .
+
+ex:Author_22574075 a ex:Author ;
+    ns1:email "Elliot_Catt@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Elliot Catt" .
+
+ex:Author_2262881 a ex:Author ;
+    ns1:email "E._Doynikova@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "E. Doynikova" .
+
+ex:Author_22708544 a ex:Author ;
+    ns1:email "Tobias_Wängberg@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "Tobias Wängberg" .
+
+ex:Author_22708729 a ex:Author ;
+    ns1:email "Mikael_Böörs@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Mikael Böörs" .
+
+ex:Author_2271397816 a ex:Author ;
+    ns1:email "Yicong_Wu@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Yicong Wu" .
+
+ex:Author_2275592032 a ex:Author ;
+    ns1:email "Krishnendu_Chatterjee@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "Krishnendu Chatterjee" .
+
+ex:Author_2283085 a ex:Author ;
+    ns1:email "A._Meliou@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "A. Meliou" .
+
+ex:Author_2285071262 a ex:Author ;
+    ns1:email "Yin_Lu@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "Yin Lu" .
+
+ex:Author_2285291156 a ex:Author ;
+    ns1:email "Jun_Rao@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Jun Rao" .
+
+ex:Author_2285880465 a ex:Author ;
+    ns1:email "Li_Xie@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "Li Xie" .
+
+ex:Author_2292166946 a ex:Author ;
+    ns1:email "Kishore_Kumar@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "Kishore Kumar" .
+
+ex:Author_2293098 a ex:Author ;
+    ns1:email "Lorenz_C._Blum@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "Lorenz C. Blum" .
+
+ex:Author_2295803 a ex:Author ;
+    ns1:email "M._Kalz@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "M. Kalz" .
+
+ex:Author_2304487 a ex:Author ;
+    ns1:email "Y._Amghar@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "Y. Amghar" .
+
+ex:Author_2316077 a ex:Author ;
+    ns1:email "I._Shioya@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "I. Shioya" .
+
+ex:Author_2320954 a ex:Author ;
+    ns1:email "Audrey_Girouard@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "Audrey Girouard" .
+
+ex:Author_2324546 a ex:Author ;
+    ns1:email "Levi_H._S._Lelis@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "Levi H. S. Lelis" .
+
+ex:Author_2324949 a ex:Author ;
+    ns1:email "M._Barreca@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "M. Barreca" .
+
+ex:Author_2328680 a ex:Author ;
+    ns1:email "M._Masugi@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "M. Masugi" .
+
+ex:Author_2355912 a ex:Author ;
+    ns1:email "C._V._Wangenheim@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "C. V. Wangenheim" .
+
+ex:Author_2357983 a ex:Author ;
+    ns1:email "Xiaodong_Cui@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "Xiaodong Cui" .
+
+ex:Author_2368474 a ex:Author ;
+    ns1:email "S._Federhen@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "S. Federhen" .
+
+ex:Author_2412024 a ex:Author ;
+    ns1:email "S._Silakari@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "S. Silakari" .
+
+ex:Author_2426181 a ex:Author ;
+    ns1:email "Mo_Wei@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Mo Wei" .
+
+ex:Author_2440316 a ex:Author ;
+    ns1:email "N._Vieille@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "N. Vieille" .
+
+ex:Author_2443375 a ex:Author ;
+    ns1:email "M._Khalid@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "M. Khalid" .
+
+ex:Author_2474096 a ex:Author ;
+    ns1:email "S._Laulederkind@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "S. Laulederkind" .
+
+ex:Author_2488892 a ex:Author ;
+    ns1:email "B._Tondi@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "B. Tondi" .
+
+ex:Author_2493367 a ex:Author ;
+    ns1:email "G._Psaila@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "G. Psaila" .
+
+ex:Author_2495534 a ex:Author ;
+    ns1:email "Julia_Chuzhoy@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "Julia Chuzhoy" .
+
+ex:Author_2507796 a ex:Author ;
+    ns1:email "S._Thorne@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "S. Thorne" .
+
+ex:Author_2517740 a ex:Author ;
+    ns1:email "Dongseong_Choi@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Dongseong Choi" .
+
+ex:Author_2534790 a ex:Author ;
+    ns1:email "Stefaan_Ternier@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Stefaan Ternier" .
+
+ex:Author_2550618 a ex:Author ;
+    ns1:email "S._Hjelseth@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "S. Hjelseth" .
+
+ex:Author_2552303 a ex:Author ;
+    ns1:email "M._Hardhienata@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "M. Hardhienata" .
+
+ex:Author_2558631 a ex:Author ;
+    ns1:email "P._Monforte@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "P. Monforte" .
+
+ex:Author_2584469 a ex:Author ;
+    ns1:email "Cristina_Gurnari@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Cristina Gurnari" .
+
+ex:Author_25894913 a ex:Author ;
+    ns1:email "Barbara_Gizycka@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "Barbara Gizycka" .
+
+ex:Author_2607684 a ex:Author ;
+    ns1:email "Dingyun_Zhu@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Dingyun Zhu" .
+
+ex:Author_2619128 a ex:Author ;
+    ns1:email "A._Furtado@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "A. Furtado" .
+
+ex:Author_2625702 a ex:Author ;
+    ns1:email "Birgit_Schmitz@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Birgit Schmitz" .
+
+ex:Author_2643325 a ex:Author ;
+    ns1:email "A._Sirigu@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "A. Sirigu" .
+
+ex:Author_2655343 a ex:Author ;
+    ns1:email "C._Bruns@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "C. Bruns" .
+
+ex:Author_26591876 a ex:Author ;
+    ns1:email "S._Velankar@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "S. Velankar" .
+
+ex:Author_2690172 a ex:Author ;
+    ns1:email "Diana_Sungatullina@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Diana Sungatullina" .
+
+ex:Author_27011207 a ex:Author ;
+    ns1:email "Tom_Gedeon@gmail.com" ;
+    ex:affiliated_with "['ANU, Murdoch University, UNSW, Brunel University, Flinders University, UWA, Curtin University']" ;
+    foaf:name "Tom Gedeon" .
+
+ex:Author_2701127 a ex:Author ;
+    ns1:email "S._Schewe@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "S. Schewe" .
+
+ex:Author_2701404 a ex:Author ;
+    ns1:email "A._Kucera@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "A. Kucera" .
+
+ex:Author_2708759 a ex:Author ;
+    ns1:email "Pearl_H._Chiu@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "Pearl H. Chiu" .
+
+ex:Author_2719667 a ex:Author ;
+    ns1:email "K._Saho@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "K. Saho" .
+
+ex:Author_2764631 a ex:Author ;
+    ns1:email "Victoria_A._Fratto@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "Victoria A. Fratto" .
+
+ex:Author_2787508 a ex:Author ;
+    ns1:email "C._Waterton@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "C. Waterton" .
+
+ex:Author_2787942 a ex:Author ;
+    ns1:email "Freddy_Priyatna@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Freddy Priyatna" .
+
+ex:Author_2794091 a ex:Author ;
+    ns1:email "Thomas_Dratsch@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Thomas Dratsch" .
+
+ex:Author_2797013 a ex:Author ;
+    ns1:email "Jesper_Juul@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Jesper Juul" .
+
+ex:Author_2805650 a ex:Author ;
+    ns1:email "S._Lau@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "S. Lau" .
+
+ex:Author_2806064 a ex:Author ;
+    ns1:email "P._Staroniewicz@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "P. Staroniewicz" .
+
+ex:Author_2821001 a ex:Author ;
+    ns1:email "Wonjoon_Kim@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Wonjoon Kim" .
+
+ex:Author_2825246 a ex:Author ;
+    ns1:email "Yaroslav_Ganin@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "Yaroslav Ganin" .
+
+ex:Author_28354393 a ex:Author ;
+    ns1:email "A._Gozhyj@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "A. Gozhyj" .
+
+ex:Author_2836331 a ex:Author ;
+    ns1:email "Ilya_M._Afanasyev@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Ilya M. Afanasyev" .
+
+ex:Author_2865522 a ex:Author ;
+    ns1:email "M._Scardamalia@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "M. Scardamalia" .
+
+ex:Author_2871176 a ex:Author ;
+    ns1:email "Takashi_Ui@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Takashi Ui" .
+
+ex:Author_2877935 a ex:Author ;
+    ns1:email "J._Ryan@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "J. Ryan" .
+
+ex:Author_2901129 a ex:Author ;
+    ns1:email "L._Tardón@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "L. Tardón" .
+
+ex:Author_2919717 a ex:Author ;
+    ns1:email "A._Belussi@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "A. Belussi" .
+
+ex:Author_2937925 a ex:Author ;
+    ns1:email "H._Iida@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "H. Iida" .
+
+ex:Author_2947656 a ex:Author ;
+    ns1:email "P._L._Lehman@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "P. L. Lehman" .
+
+ex:Author_2957924 a ex:Author ;
+    ns1:email "Lars_Ruddigkeit@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Lars Ruddigkeit" .
+
+ex:Author_2977596 a ex:Author ;
+    ns1:email "B._V._Maele@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "B. V. Maele" .
+
+ex:Author_2996101 a ex:Author ;
+    ns1:email "Byungki_Jin@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Byungki Jin" .
+
+ex:Author_3007154 a ex:Author ;
+    ns1:email "Lucy_R._Shores@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "Lucy R. Shores" .
+
+ex:Author_3015476 a ex:Author ;
+    ns1:email "G._Svingby@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "G. Svingby" .
+
+ex:Author_3058439 a ex:Author ;
+    ns1:email "M._Witvrouw@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "M. Witvrouw" .
+
+ex:Author_3076734 a ex:Author ;
+    ns1:email "A._Borgatto@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "A. Borgatto" .
+
+ex:Author_30772377 a ex:Author ;
+    ns1:email "E._Tongson@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "E. Tongson" .
+
+ex:Author_3082187 a ex:Author ;
+    ns1:email "Rafael_Savi@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Rafael Savi" .
+
+ex:Author_3087532 a ex:Author ;
+    ns1:email "G._Anbarjafari@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "G. Anbarjafari" .
+
+ex:Author_30909071 a ex:Author ;
+    ns1:email "Álvaro_Salinas@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "Álvaro Salinas" .
+
+ex:Author_30956207 a ex:Author ;
+    ns1:email "M._Darby@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "M. Darby" .
+
+ex:Author_3113695 a ex:Author ;
+    ns1:email "V._Kurbalija@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "V. Kurbalija" .
+
+ex:Author_3115896 a ex:Author ;
+    ns1:email "T._Brázdil@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "T. Brázdil" .
+
+ex:Author_3122645 a ex:Author ;
+    ns1:email "Boualem_Djehiche@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Boualem Djehiche" .
+
+ex:Author_31323598 a ex:Author ;
+    ns1:email "Dany_Laksono@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "Dany Laksono" .
+
+ex:Author_3139251 a ex:Author ;
+    ns1:email "I._Barbancho@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "I. Barbancho" .
+
+ex:Author_31472189 a ex:Author ;
+    ns1:email "Polyane_Wercelens@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "Polyane Wercelens" .
+
+ex:Author_31682040 a ex:Author ;
+    ns1:email "H._Rashidi@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "H. Rashidi" .
+
+ex:Author_3185110 a ex:Author ;
+    ns1:email "Robert_Pruvenok@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Robert Pruvenok" .
+
+ex:Author_3192444 a ex:Author ;
+    ns1:email "Kassem_Kallas@gmail.com" ;
+    ex:affiliated_with "['INRIA']" ;
+    foaf:name "Kassem Kallas" .
+
+ex:Author_3193518 a ex:Author ;
+    ns1:email "Andreas_Behrend@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "Andreas Behrend" .
+
+ex:Author_31938009 a ex:Author ;
+    ns1:email "Sudeepa_Roy@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Sudeepa Roy" .
+
+ex:Author_32041960 a ex:Author ;
+    ns1:email "Lori_S._Cook@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Lori S. Cook" .
+
+ex:Author_3205754 a ex:Author ;
+    ns1:email "W._Helmberg@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "W. Helmberg" .
+
+ex:Author_3210937 a ex:Author ;
+    ns1:email "S._Lessard@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "S. Lessard" .
+
+ex:Author_32446495 a ex:Author ;
+    ns1:email "M._D._Whiteside@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "M. D. Whiteside" .
+
+ex:Author_3258951 a ex:Author ;
+    ns1:email "K._Kutt@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "K. Kutt" .
+
+ex:Author_32691087 a ex:Author ;
+    ns1:email "R._Rezin@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "R. Rezin" .
+
+ex:Author_3270882 a ex:Author ;
+    ns1:email "T._M._Kusuma@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "T. M. Kusuma" .
+
+ex:Author_33049010 a ex:Author ;
+    ns1:email "Markus_Tresch@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "Markus Tresch" .
+
+ex:Author_3305291 a ex:Author ;
+    ns1:email "Sandhya_Saisubramanian@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Sandhya Saisubramanian" .
+
+ex:Author_33199546 a ex:Author ;
+    ns1:email "Cate_Cox@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "Cate Cox" .
+
+ex:Author_3320620 a ex:Author ;
+    ns1:email "B._Alom@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "B. Alom" .
+
+ex:Author_33726843 a ex:Author ;
+    ns1:email "F._Pfeiffer@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "F. Pfeiffer" .
+
+ex:Author_3386346 a ex:Author ;
+    ns1:email "Ilchae_Jung@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "Ilchae Jung" .
+
+ex:Author_3390886 a ex:Author ;
+    ns1:email "J._Pontius@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "J. Pontius" .
+
+ex:Author_34055351 a ex:Author ;
+    ns1:email "W._C._Barker@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "W. C. Barker" .
+
+ex:Author_3438088 a ex:Author ;
+    ns1:email "H._Dehainsala@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "H. Dehainsala" .
+
+ex:Author_34440628 a ex:Author ;
+    ns1:email "L._Zucker@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "L. Zucker" .
+
+ex:Author_34772704 a ex:Author ;
+    ns1:email "K._Nordby@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "K. Nordby" .
+
+ex:Author_34806045 a ex:Author ;
+    ns1:email "Thomas_L._Madden@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "Thomas L. Madden" .
+
+ex:Author_34820048 a ex:Author ;
+    ns1:email "K._Pham@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "K. Pham" .
+
+ex:Author_34905047 a ex:Author ;
+    ns1:email "Rikke_Magnussen@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "Rikke Magnussen" .
+
+ex:Author_34971293 a ex:Author ;
+    ns1:email "Jonathan_P._Rowe@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "Jonathan P. Rowe" .
+
+ex:Author_35223271 a ex:Author ;
+    ns1:email "G._Thomas@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "G. Thomas" .
+
+ex:Author_35327641 a ex:Author ;
+    ns1:email "S._Harkins@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "S. Harkins" .
+
+ex:Author_35510243 a ex:Author ;
+    ns1:email "Martin_W._P._Reid@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "Martin W. P. Reid" .
+
+ex:Author_35538070 a ex:Author ;
+    ns1:email "Walaa_Saber@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Walaa Saber" .
+
+ex:Author_36604738 a ex:Author ;
+    ns1:email "L._Luca@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "L. Luca" .
+
+ex:Author_38295334 a ex:Author ;
+    ns1:email "Q._Song@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Q. Song" .
+
+ex:Author_38534019 a ex:Author ;
+    ns1:email "Neelu_Nihalani@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "Neelu Nihalani" .
+
+ex:Author_38548340 a ex:Author ;
+    ns1:email "S._Fiedler@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "S. Fiedler" .
+
+ex:Author_3899780 a ex:Author ;
+    ns1:email "S._Haneder@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "S. Haneder" .
+
+ex:Author_39385532 a ex:Author ;
+    ns1:email "Mauricio_Sáenz@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Mauricio Sáenz" .
+
+ex:Author_39452145 a ex:Author ;
+    ns1:email "Johanna_Gerlach@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "Johanna Gerlach" .
+
+ex:Author_39592606 a ex:Author ;
+    ns1:email "Waldeyr_M._C._Silva@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "Waldeyr M. C. Silva" .
+
+ex:Author_39977859 a ex:Author ;
+    ns1:email "S._Chon@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "S. Chon" .
+
+ex:Author_40030651 a ex:Author ;
+    ns1:email "Bohyung_Han@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Bohyung Han" .
+
+ex:Author_40116646 a ex:Author ;
+    ns1:email "Clare_Brett@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Clare Brett" .
+
+ex:Author_40136108 a ex:Author ;
+    ns1:email "Petr_Novotný@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Petr Novotný" .
+
+ex:Author_40400362 a ex:Author ;
+    ns1:email "Sankardas_Roy@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "Sankardas Roy" .
+
+ex:Author_40466466 a ex:Author ;
+    ns1:email "K._Herrmann@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "K. Herrmann" .
+
+ex:Author_4383002 a ex:Author ;
+    ns1:email "M._Tutaj@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "M. Tutaj" .
+
+ex:Author_4502458 a ex:Author ;
+    ns1:email "W._Satheannoppakao@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "W. Satheannoppakao" .
+
+ex:Author_46221898 a ex:Author ;
+    ns1:email "M._Kreminski@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "M. Kreminski" .
+
+ex:Author_46250152 a ex:Author ;
+    ns1:email "M._Nerkar@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "M. Nerkar" .
+
+ex:Author_46481106 a ex:Author ;
+    ns1:email "G._Schuler@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "G. Schuler" .
+
+ex:Author_46610789 a ex:Author ;
+    ns1:email "S._Deokate@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "S. Deokate" .
+
+ex:Author_46611479 a ex:Author ;
+    ns1:email "S._Waldman@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "S. Waldman" .
+
+ex:Author_4713365 a ex:Author ;
+    ns1:email "F._Haghighat@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "F. Haghighat" .
+
+ex:Author_47489005 a ex:Author ;
+    ns1:email "M._Váradi@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "M. Váradi" .
+
+ex:Author_47531065 a ex:Author ;
+    ns1:email "Madjid_Meziane@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Madjid Meziane" .
+
+ex:Author_47555680 a ex:Author ;
+    ns1:email "A._Innocenti@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "A. Innocenti" .
+
+ex:Author_47682882 a ex:Author ;
+    ns1:email "N._Lea@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "N. Lea" .
+
+ex:Author_47692442 a ex:Author ;
+    ns1:email "M._Shimoyama@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "M. Shimoyama" .
+
+ex:Author_47874492 a ex:Author ;
+    ns1:email "P._Burtis@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "P. Burtis" .
+
+ex:Author_48077877 a ex:Author ;
+    ns1:email "R._Leonarduzzi@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "R. Leonarduzzi" .
+
+ex:Author_48190770 a ex:Author ;
+    ns1:email "S._Momen@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "S. Momen" .
+
+ex:Author_48288926 a ex:Author ;
+    ns1:email "S._Crook@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "S. Crook" .
+
+ex:Author_48546175 a ex:Author ;
+    ns1:email "H._Zepernick@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "H. Zepernick" .
+
+ex:Author_48630276 a ex:Author ;
+    ns1:email "Amy_K._Hoover@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Amy K. Hoover" .
+
+ex:Author_48691553 a ex:Author ;
+    ns1:email "Su_Zhang@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "Su Zhang" .
+
+ex:Author_48792798 a ex:Author ;
+    ns1:email "C._Mulligan@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "C. Mulligan" .
+
+ex:Author_49170958 a ex:Author ;
+    ns1:email "Y._Kim@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "Y. Kim" .
+
+ex:Author_49401455 a ex:Author ;
+    ns1:email "L._Konopka@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "L. Konopka" .
+
+ex:Author_49679382 a ex:Author ;
+    ns1:email "Chuang_Ma@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "Chuang Ma" .
+
+ex:Author_49894422 a ex:Author ;
+    ns1:email "P._Plum@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "P. Plum" .
+
+ex:Author_49914182 a ex:Author ;
+    ns1:email "R._Kleinert@gmail.com" ;
+    ex:affiliated_with "University of Cambridge" ;
+    foaf:name "R. Kleinert" .
+
+ex:Author_50053016 a ex:Author ;
+    ns1:email "Sarah_I._Endress@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Sarah I. Endress" .
+
+ex:Author_50186592 a ex:Author ;
+    ns1:email "S._Durga@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "S. Durga" .
+
+ex:Author_5019281 a ex:Author ;
+    ns1:email "T._Raupach@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "T. Raupach" .
+
+ex:Author_50193797 a ex:Author ;
+    ns1:email "Stanislava_Rangelova@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Stanislava Rangelova" .
+
+ex:Author_50378805 a ex:Author ;
+    ns1:email "Subraya_Krishna_Bhat@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Subraya Krishna Bhat" .
+
+ex:Author_50488319 a ex:Author ;
+    ns1:email "Paden_Shorey@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "Paden Shorey" .
+
+ex:Author_51040845 a ex:Author ;
+    ns1:email "R._Datta@gmail.com" ;
+    ex:affiliated_with "University of California, San Diego" ;
+    foaf:name "R. Datta" .
+
+ex:Author_51042372 a ex:Author ;
+    ns1:email "Ferdinand_Timmermann@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Ferdinand Timmermann" .
+
+ex:Author_51437071 a ex:Author ;
+    ns1:email "P._Bidyuk@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "P. Bidyuk" .
+
+ex:Author_51480852 a ex:Author ;
+    ns1:email "Iztok_Oder@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Iztok Oder" .
+
+ex:Author_51887595 a ex:Author ;
+    ns1:email "D._Dharrao@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "D. Dharrao" .
+
+ex:Author_52367308 a ex:Author ;
+    ns1:email "Ravi_Purushotma@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Ravi Purushotma" .
+
+ex:Author_52615500 a ex:Author ;
+    ns1:email "J._Wheatley@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "J. Wheatley" .
+
+ex:Author_5371772 a ex:Author ;
+    ns1:email "L._May@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "L. May" .
+
+ex:Author_5860697 a ex:Author ;
+    ns1:email "A._Nicklisch@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "A. Nicklisch" .
+
+ex:Author_6418979 a ex:Author ;
+    ns1:email "W._Aekplakorn@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "W. Aekplakorn" .
+
+ex:Author_6630757 a ex:Author ;
+    ns1:email "Jiraluck_Nontarak@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "Jiraluck Nontarak" .
+
+ex:Author_66315156 a ex:Author ;
+    ns1:email "Blanco_Encalada@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Blanco Encalada" .
+
+ex:Author_6989114 a ex:Author ;
+    ns1:email "Jingjing_Zhai@gmail.com" ;
+    ex:affiliated_with "Princeton University" ;
+    foaf:name "Jingjing Zhai" .
+
+ex:Author_69974988 a ex:Author ;
+    ns1:email "Megha_Digrase@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "Megha Digrase" .
+
+ex:Author_70048683 a ex:Author ;
+    ns1:email "S._D._Permai@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "S. D. Permai" .
+
+ex:Author_70205847 a ex:Author ;
+    ns1:email "Mahesh_Motwani@gmail.com" ;
+    ex:affiliated_with "University of California, Los Angeles" ;
+    foaf:name "Mahesh Motwani" .
+
+ex:Author_70359360 a ex:Author ;
+    ns1:email "S._Pill@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "S. Pill" .
+
+ex:Author_7144057 a ex:Author ;
+    ns1:email "J._D._Pons@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "J. D. Pons" .
+
+ex:Author_72091723 a ex:Author ;
+    ns1:email "R._E._Haamer@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "R. E. Haamer" .
+
+ex:Author_7296001 a ex:Author ;
+    ns1:email "I._Lüsi@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "I. Lüsi" .
+
+ex:Author_7337091 a ex:Author ;
+    ns1:email "Wolfgang_Lehner@gmail.com" ;
+    ex:affiliated_with "['Technische Universität Dresden']" ;
+    foaf:name "Wolfgang Lehner" .
+
+ex:Author_73529582 a ex:Author ;
+    ns1:email "D._Church@gmail.com" ;
+    ex:affiliated_with "University of Washington" ;
+    foaf:name "D. Church" .
+
+ex:Author_7855312 a ex:Author ;
+    ns1:email "Sergio_Escalera@gmail.com" ;
+    ex:affiliated_with "Universitat de Barcelona" ;
+    foaf:name "Sergio Escalera" .
+
+ex:Author_81127051 a ex:Author ;
+    ns1:email "F._Berlth@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "F. Berlth" .
+
+ex:Author_81753199 a ex:Author ;
+    ns1:email "Gaurav_Deshmukh@gmail.com" ;
+    ex:affiliated_with "University of Michigan" ;
+    foaf:name "Gaurav Deshmukh" .
+
+ex:Author_8176724 a ex:Author ;
+    ns1:email "T._Rossum@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "T. Rossum" .
+
+ex:Author_83360169 a ex:Author ;
+    ns1:email "Yeonguk_Yu@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "Yeonguk Yu" .
+
+ex:Author_8511875 a ex:Author ;
+    ns1:email "Jonghwan_Mun@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "Jonghwan Mun" .
+
+ex:Author_8552088 a ex:Author ;
+    ns1:email "Brankica_Bratić@gmail.com" ;
+    ex:affiliated_with "University of Chicago" ;
+    foaf:name "Brankica Bratić" .
+
+ex:Author_8625509 a ex:Author ;
+    ns1:email "N._Schuelper@gmail.com" ;
+    ex:affiliated_with "University of Oxford" ;
+    foaf:name "N. Schuelper" .
+
+ex:Author_8719844 a ex:Author ;
+    ns1:email "Lucas_N._Ferreira@gmail.com" ;
+    ex:affiliated_with "California Institute of Technology" ;
+    foaf:name "Lucas N. Ferreira" .
+
+ex:Author_90643212 a ex:Author ;
+    ns1:email "J._Briggs@gmail.com" ;
+    ex:affiliated_with "University of Pennsylvania" ;
+    foaf:name "J. Briggs" .
+
+ex:Author_9077801 a ex:Author ;
+    ns1:email "V._Vysotska@gmail.com" ;
+    ex:affiliated_with "Yale University" ;
+    foaf:name "V. Vysotska" .
+
+ex:Author_9192419 a ex:Author ;
+    ns1:email "A._Bongale@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "A. Bongale" .
+
+ex:Author_9210928 a ex:Author ;
+    ns1:email "B._Mertsching@gmail.com" ;
+    ex:affiliated_with "University of California, Berkeley" ;
+    foaf:name "B. Mertsching" .
+
+ex:Author_9392149 a ex:Author ;
+    ns1:email "Albert_Y._Zomaya@gmail.com" ;
+    ex:affiliated_with "['Sydney University']" ;
+    foaf:name "Albert Y. Zomaya" .
+
+ex:Author_95356210 a ex:Author ;
+    ns1:email "K._Panchabikesan@gmail.com" ;
+    ex:affiliated_with "Massachusetts Institute of Technology" ;
+    foaf:name "K. Panchabikesan" .
+
+ex:Author_96609713 a ex:Author ;
+    ns1:email "Carolyn_Calhoun@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "Carolyn Calhoun" .
+
+ex:Author_97213203 a ex:Author ;
+    ns1:email "Marilyn_L._Grechus@gmail.com" ;
+    ex:affiliated_with "Harvard University" ;
+    foaf:name "Marilyn L. Grechus" .
+
+ex:Author_9763761 a ex:Author ;
+    ns1:email "H._Song@gmail.com" ;
+    ex:affiliated_with "Stanford University" ;
+    foaf:name "H. Song" .
+
+ex:Author_9808011 a ex:Author ;
+    ns1:email "Bradford_W._Mott@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "Bradford W. Mott" .
+
+ex:Author_98232539 a ex:Author ;
+    ns1:email "J._Benthem@gmail.com" ;
+    ex:affiliated_with "Columbia University" ;
+    foaf:name "J. Benthem" .
+

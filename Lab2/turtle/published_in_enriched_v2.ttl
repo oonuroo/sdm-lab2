@@ -1,0 +1,982 @@
+@prefix ex: <http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Paper_0000d36f99f61d6768e7c21c46ce4350b41a6a89 ex:publish_year 2020,
+        2021,
+        2023,
+        2024 ;
+    ex:published_in ex:Venue_54c97699-f20b-45a7-ad60-b53a4ea76d91,
+        ex:Venue_7ce789d2-bcb6-4595-9dc4-e823a924a6c2,
+        ex:Venue_aa941855-7d45-4531-87fe-4db2a2df6c6e,
+        ex:Venue_b593fab9-ed88-49d0-bf0e-1312a16b4f08,
+        ex:Venue_bbf04dd4-455a-4243-89f2-a756661b6db3,
+        ex:Venue_e3dffd26-f791-45ae-977d-1218c107b566 .
+
+ex:Paper_00016e315b39d20b69f041790573e2215f9eb028 ex:publish_year 2021,
+        2022 ;
+    ex:published_in ex:Venue_3eff72bf-7a1c-4dc5-9eca-a00d239162be,
+        ex:Venue_eee0b98a-09c9-48fa-b703-305417766fd0,
+        ex:Venue_ffa805d5-e973-47b4-bc62-fbcf4c41d53d .
+
+ex:Paper_0004bfb2afc73e755c6c4987225907472da966d1 ex:publish_year 2021,
+        2022 ;
+    ex:published_in ex:Venue_54c97699-f20b-45a7-ad60-b53a4ea76d91,
+        ex:Venue_7ce789d2-bcb6-4595-9dc4-e823a924a6c2,
+        ex:Venue_bbf04dd4-455a-4243-89f2-a756661b6db3 .
+
+ex:Paper_0006b5336a56fa671de83fddc17d7165e1a0d637 ex:publish_year 2023 ;
+    ex:published_in ex:Venue_758767ef-3ff6-46cb-8121-77901d42097b .
+
+ex:Paper_0009c4975fcb502a4af0e53d46ec6255c13216a1 ex:publish_year 2020 ;
+    ex:published_in ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_000bc721cefe3f2ba2425e8b95b042dc1e9778f9 ex:publish_year 2020 ;
+    ex:published_in ex:Venue_12162322-fe17-4fc9-ad8b-765a5472d33d .
+
+ex:Paper_000bf014a71283e739b3288783e0572dd4de7301 ex:publish_year 2019,
+        2020,
+        2021,
+        2022 ;
+    ex:published_in ex:Venue_54c97699-f20b-45a7-ad60-b53a4ea76d91,
+        ex:Venue_7ce789d2-bcb6-4595-9dc4-e823a924a6c2,
+        ex:Venue_aa941855-7d45-4531-87fe-4db2a2df6c6e,
+        ex:Venue_b593fab9-ed88-49d0-bf0e-1312a16b4f08,
+        ex:Venue_bbf04dd4-455a-4243-89f2-a756661b6db3 .
+
+ex:Paper_000f945179e9ffc0ad20fe695bcc992066d6d072 ex:publish_year 2020 ;
+    ex:published_in ex:Venue_12162322-fe17-4fc9-ad8b-765a5472d33d .
+
+ex:Paper_0013693bccf244dad3d321558ac7986bc0230db9 ex:publish_year 2020 ;
+    ex:published_in ex:Venue_12162322-fe17-4fc9-ad8b-765a5472d33d,
+        ex:Venue_f0518e3f-2ce2-4ca7-9ea2-2cb5aa29cfc3 .
+
+ex:Paper_0014e3f6909edbbf8e4d417baf2b991ffbc2909e ex:publish_year 2023,
+        2024 ;
+    ex:published_in ex:Venue_12162322-fe17-4fc9-ad8b-765a5472d33d,
+        ex:Venue_f0518e3f-2ce2-4ca7-9ea2-2cb5aa29cfc3 .
+
+ex:Paper_001533bcbe30802b9a37d8f9f22a083ccef516b4 ex:publish_year 2019,
+        2020,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_4fffb1bc-6691-4faf-9893-11932df011d7,
+        ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd,
+        ex:Venue_9ad182fa-89fc-4dd0-a374-1808af9b8334,
+        ex:Venue_d09b380a-e850-4faf-a207-be6e75386589 .
+
+ex:Paper_0018e888e83bfd993bc49455a8787577ab28a19c ex:publish_year 2020 ;
+    ex:published_in ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_00192a8dd9dd623047210e2bd23c87734cf65fe1 ex:publish_year 2020,
+        2023,
+        2024 ;
+    ex:published_in ex:Venue_12162322-fe17-4fc9-ad8b-765a5472d33d,
+        ex:Venue_a3322176-de98-4c5d-ae9e-bd517c20feec,
+        ex:Venue_cc6148fa-492e-4af3-9fc0-7d78df4c24b6,
+        ex:Venue_f0518e3f-2ce2-4ca7-9ea2-2cb5aa29cfc3 .
+
+ex:Paper_00196a9ef3e29d16a026e6fa69886e273c685cac ex:publish_year 2020 ;
+    ex:published_in ex:Venue_d7a24f8f-5ec1-4872-9d99-891b6e611a1b .
+
+ex:Paper_0019b23a39d2268d967292b158b9e723d7c5eb58 ex:publish_year 2020,
+        2021,
+        2022 ;
+    ex:published_in ex:Venue_0291ce72-3b8c-425b-b8db-18605f05ff40,
+        ex:Venue_758767ef-3ff6-46cb-8121-77901d42097b,
+        ex:Venue_db07ce9a-a4e2-4ab1-896e-728e535ead10 .
+
+ex:Paper_001ca235cae845677c82167c21cbfa9eabddbfbc ex:publish_year 2019,
+        2020,
+        2021,
+        2023,
+        2024 ;
+    ex:published_in ex:Venue_08430f5c-17b6-48c1-a50b-db71757dd617,
+        ex:Venue_3ead56df-644f-49f2-895f-3bf182b06f74,
+        ex:Venue_75f41b0e-9c59-4e5d-a731-4318cab3016e,
+        ex:Venue_813768b6-2422-476c-b7d9-7f88793df5ce,
+        ex:Venue_8ecc6f70-9574-45ca-990e-8a377e62d9af,
+        ex:Venue_c4e08f4a-6d25-4c56-be61-cc14f2a1c885 .
+
+ex:Paper_002050388cdb39d6413ce48230496e8ccc08df04 ex:publish_year 2020,
+        2023 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_0022282d20f3c507fba576062c6c58c02dd4c8f7 ex:publish_year 2021,
+        2022 ;
+    ex:published_in ex:Venue_12162322-fe17-4fc9-ad8b-765a5472d33d,
+        ex:Venue_a3322176-de98-4c5d-ae9e-bd517c20feec,
+        ex:Venue_cc6148fa-492e-4af3-9fc0-7d78df4c24b6,
+        ex:Venue_f0518e3f-2ce2-4ca7-9ea2-2cb5aa29cfc3 .
+
+ex:Paper_00227f73b6547b43d9f6c22e0136ab1fadb7036c ex:publish_year 2019,
+        2020,
+        2023 ;
+    ex:published_in ex:Venue_2cc2fe4d-9264-4cb6-8700-600fa47043f4,
+        ex:Venue_3a342388-5892-44cf-a828-0a43c634227d,
+        ex:Venue_4b661303-3a59-4dff-82cc-9ac025918d16 .
+
+ex:Paper_00240aaeb57dba9886d1a695176c97a17ad97885 ex:publish_year 2021,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_54c97699-f20b-45a7-ad60-b53a4ea76d91,
+        ex:Venue_7ce789d2-bcb6-4595-9dc4-e823a924a6c2,
+        ex:Venue_aa941855-7d45-4531-87fe-4db2a2df6c6e,
+        ex:Venue_b593fab9-ed88-49d0-bf0e-1312a16b4f08,
+        ex:Venue_bbf04dd4-455a-4243-89f2-a756661b6db3,
+        ex:Venue_e3dffd26-f791-45ae-977d-1218c107b566 .
+
+ex:Paper_002523ab48c0a79567a275c5ba219e95e37d9cca ex:publish_year 2021,
+        2022,
+        2024 ;
+    ex:published_in ex:Venue_203eb69f-41ad-4db8-a068-f87f01169e62,
+        ex:Venue_4a0910b1-921e-41c0-880b-4698c647c7fd,
+        ex:Venue_957b1e7c-0c9a-443e-9827-484708f02a39,
+        ex:Venue_afbd4f78-7b97-4b55-93ac-0a4d01d98492 .
+
+ex:Paper_0027a5389929596cc4bd1d645104cd7d88588509 ex:publish_year 2021 ;
+    ex:published_in ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_002b5b830c6c7f312dd82cf936b6204bd4018de6 ex:publish_year 2023 ;
+    ex:published_in ex:Venue_16ca4ff3-205a-4f99-8dbd-50937bf91424,
+        ex:Venue_927fdb16-1382-44c6-9a6f-02d5cf35d8ac,
+        ex:Venue_d2d6332c-4a2a-4433-a07c-becbb9cb526f .
+
+ex:Paper_002c19bc5e0040b8bb4dd0d7fcbd1760abbb8035 ex:publish_year 2019,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_002df72c36a270cc824897f6e5f88edf70fb1f61 ex:publish_year 2019,
+        2020,
+        2023 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_00314c680192fdf5e711e0d23c1f6d44cc89e65b ex:publish_year 2019,
+        2020,
+        2023 ;
+    ex:published_in ex:Venue_12162322-fe17-4fc9-ad8b-765a5472d33d,
+        ex:Venue_a3322176-de98-4c5d-ae9e-bd517c20feec,
+        ex:Venue_cc6148fa-492e-4af3-9fc0-7d78df4c24b6,
+        ex:Venue_f0518e3f-2ce2-4ca7-9ea2-2cb5aa29cfc3 .
+
+ex:Paper_0034365ccb6a98eddd0fab3184c1930621ca7b17 ex:publish_year 2020,
+        2021 ;
+    ex:published_in ex:Venue_8efd30fa-f14b-4e97-80f1-00ec3fd93805,
+        ex:Venue_adcccd84-5384-4387-9b03-ac13d7a65245 .
+
+ex:Paper_0034c34af6a12c058c8ef12136758c8ee4d2f945 ex:publish_year 2023,
+        2024 ;
+    ex:published_in ex:Venue_5a722a1e-520e-4cd0-b63d-492aef96d10c,
+        ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5 .
+
+ex:Paper_00363213c1d91a7d051c5ccbd360e11c8210aae4 ex:publish_year 2020,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_2cc2fe4d-9264-4cb6-8700-600fa47043f4,
+        ex:Venue_3a342388-5892-44cf-a828-0a43c634227d,
+        ex:Venue_4b661303-3a59-4dff-82cc-9ac025918d16 .
+
+ex:Paper_0038c3c38fd975d3373d63e76b7db5d2c7bf94bf ex:publish_year 2019,
+        2021 ;
+    ex:published_in ex:Venue_3a380e72-e857-45ed-ae9b-bac77b47b3e0,
+        ex:Venue_4807a595-9170-4a2f-8098-f8927001263d,
+        ex:Venue_8efd30fa-f14b-4e97-80f1-00ec3fd93805,
+        ex:Venue_adcccd84-5384-4387-9b03-ac13d7a65245 .
+
+ex:Paper_0039e77f1a6de8f375b9c57417201957471ea121 ex:publish_year 2020,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_3a380e72-e857-45ed-ae9b-bac77b47b3e0,
+        ex:Venue_4807a595-9170-4a2f-8098-f8927001263d,
+        ex:Venue_8efd30fa-f14b-4e97-80f1-00ec3fd93805,
+        ex:Venue_adcccd84-5384-4387-9b03-ac13d7a65245 .
+
+ex:Paper_003a4314596654c9524e7e40cb75bf1991c6837a ex:publish_year 2020,
+        2021,
+        2022 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_003b39f11d9a742f3ed581fccfdaa189b6f30171 ex:publish_year 2019,
+        2021,
+        2022 ;
+    ex:published_in ex:Venue_0291ce72-3b8c-425b-b8db-18605f05ff40,
+        ex:Venue_758767ef-3ff6-46cb-8121-77901d42097b,
+        ex:Venue_db07ce9a-a4e2-4ab1-896e-728e535ead10 .
+
+ex:Paper_003d1994ad51db685cdb7f98063edb3a53816bb7 ex:publish_year 2021,
+        2023 ;
+    ex:published_in ex:Venue_514fd58d-eca6-46f3-958a-b689a09c069e,
+        ex:Venue_d7a24f8f-5ec1-4872-9d99-891b6e611a1b .
+
+ex:Paper_003d8ba6b56262942c5ed88052fbd1282495966b ex:publish_year 2019,
+        2021 ;
+    ex:published_in ex:Venue_514fd58d-eca6-46f3-958a-b689a09c069e,
+        ex:Venue_86f545ac-3178-4c21-b813-dd81bd62ae65,
+        ex:Venue_d7a24f8f-5ec1-4872-9d99-891b6e611a1b .
+
+ex:Paper_003d912198ad1a718a84e430d47f6c513bb4df92 ex:publish_year 2019,
+        2021,
+        2023,
+        2024 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_0042b16cba12db67855b603c261199b70067c69a ex:publish_year 2021,
+        2023 ;
+    ex:published_in ex:Venue_08430f5c-17b6-48c1-a50b-db71757dd617,
+        ex:Venue_c4e08f4a-6d25-4c56-be61-cc14f2a1c885 .
+
+ex:Paper_00433ea2a6d853403019b8b165030bacde9f20d3 ex:publish_year 2020,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_6dd7f322-87ef-4941-a82e-95930f2f3584,
+        ex:Venue_6ea7522c-df36-4cd0-9f66-aa94a739df19,
+        ex:Venue_e1b5231a-90cd-4e4a-a778-2cd72a024637 .
+
+ex:Paper_0047798ed5bbb87084440d31345ae318e1e3a1b4 ex:publish_year 2020 ;
+    ex:published_in ex:Venue_54c97699-f20b-45a7-ad60-b53a4ea76d91,
+        ex:Venue_7ce789d2-bcb6-4595-9dc4-e823a924a6c2 .
+
+ex:Paper_0048334fea7c1d80dd9f2fde8da71775a13afce6 ex:publish_year 2020,
+        2021,
+        2022 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_005073ef6077877fedb41002cb9273f1b08b7b09 ex:publish_year 2020,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_2cc2fe4d-9264-4cb6-8700-600fa47043f4,
+        ex:Venue_3a342388-5892-44cf-a828-0a43c634227d,
+        ex:Venue_4b661303-3a59-4dff-82cc-9ac025918d16 .
+
+ex:Paper_00554b24a42a74ce45d041d3ace268d3fe3eb77a ex:publish_year 2019,
+        2020,
+        2022 ;
+    ex:published_in ex:Venue_3eff72bf-7a1c-4dc5-9eca-a00d239162be,
+        ex:Venue_eee0b98a-09c9-48fa-b703-305417766fd0,
+        ex:Venue_ffa805d5-e973-47b4-bc62-fbcf4c41d53d .
+
+ex:Paper_0055ac14fb41047107186e9174b2369e89f126b9 ex:publish_year 2022,
+        2023 ;
+    ex:published_in ex:Venue_08430f5c-17b6-48c1-a50b-db71757dd617,
+        ex:Venue_c4e08f4a-6d25-4c56-be61-cc14f2a1c885 .
+
+ex:Paper_0056e636953cb016836b2c05f43a3d1d4f19880b ex:publish_year 2019,
+        2020,
+        2022,
+        2024 ;
+    ex:published_in ex:Venue_514fd58d-eca6-46f3-958a-b689a09c069e,
+        ex:Venue_86f545ac-3178-4c21-b813-dd81bd62ae65,
+        ex:Venue_c98819d4-14e0-4a3a-a091-11cf8e63679e,
+        ex:Venue_d7a24f8f-5ec1-4872-9d99-891b6e611a1b .
+
+ex:Paper_005783454d128bc45ab86000efc78d5676ece1b1 ex:publish_year 2020,
+        2023 ;
+    ex:published_in ex:Venue_2cc2fe4d-9264-4cb6-8700-600fa47043f4,
+        ex:Venue_3a342388-5892-44cf-a828-0a43c634227d,
+        ex:Venue_4b661303-3a59-4dff-82cc-9ac025918d16 .
+
+ex:Paper_0059adaaa42b647f4810d651fee0d7c5e5f60eaa ex:publish_year 2020,
+        2022 ;
+    ex:published_in ex:Venue_4fffb1bc-6691-4faf-9893-11932df011d7,
+        ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd,
+        ex:Venue_9ad182fa-89fc-4dd0-a374-1808af9b8334,
+        ex:Venue_d09b380a-e850-4faf-a207-be6e75386589 .
+
+ex:Paper_005b716759daadb580b472602f6167559aadc9c5 ex:publish_year 2019,
+        2020,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_4fffb1bc-6691-4faf-9893-11932df011d7,
+        ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd,
+        ex:Venue_9ad182fa-89fc-4dd0-a374-1808af9b8334,
+        ex:Venue_d09b380a-e850-4faf-a207-be6e75386589 .
+
+ex:Paper_005f0f6d796e1856b373e2116bdbffa719d12fbd ex:publish_year 2022 ;
+    ex:published_in ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_00616d3f2033c39831e6274b000dba93e7173e8c ex:publish_year 2019,
+        2022 ;
+    ex:published_in ex:Venue_54c97699-f20b-45a7-ad60-b53a4ea76d91,
+        ex:Venue_7ce789d2-bcb6-4595-9dc4-e823a924a6c2,
+        ex:Venue_bbf04dd4-455a-4243-89f2-a756661b6db3 .
+
+ex:Paper_00656f8d0bef8ec30a14212dbea3f394a7112e94 ex:publish_year 2021,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_3a380e72-e857-45ed-ae9b-bac77b47b3e0,
+        ex:Venue_4807a595-9170-4a2f-8098-f8927001263d,
+        ex:Venue_8efd30fa-f14b-4e97-80f1-00ec3fd93805,
+        ex:Venue_adcccd84-5384-4387-9b03-ac13d7a65245 .
+
+ex:Paper_006609032b88eb4feaa63d1465fde5611156ca86 ex:publish_year 2020 ;
+    ex:published_in ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_006707fad29166a3426fbb654d842c6d9292a771 ex:publish_year 2020,
+        2021,
+        2022 ;
+    ex:published_in ex:Venue_08430f5c-17b6-48c1-a50b-db71757dd617,
+        ex:Venue_75f41b0e-9c59-4e5d-a731-4318cab3016e,
+        ex:Venue_813768b6-2422-476c-b7d9-7f88793df5ce,
+        ex:Venue_c4e08f4a-6d25-4c56-be61-cc14f2a1c885 .
+
+ex:Paper_0067258937f69e4cc4371a924134189074be8d93 ex:publish_year 2019,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_12162322-fe17-4fc9-ad8b-765a5472d33d,
+        ex:Venue_a3322176-de98-4c5d-ae9e-bd517c20feec,
+        ex:Venue_cc6148fa-492e-4af3-9fc0-7d78df4c24b6,
+        ex:Venue_f0518e3f-2ce2-4ca7-9ea2-2cb5aa29cfc3 .
+
+ex:Paper_00672bec9dd0e755f9c375f912c0f1c3918a6b74 ex:publish_year 2022 ;
+    ex:published_in ex:Venue_8efd30fa-f14b-4e97-80f1-00ec3fd93805 .
+
+ex:Paper_0069995f0be8f64d081b5c0bdd56d17f49ea5f25 ex:publish_year 2019,
+        2020,
+        2023 ;
+    ex:published_in ex:Venue_514fd58d-eca6-46f3-958a-b689a09c069e,
+        ex:Venue_86f545ac-3178-4c21-b813-dd81bd62ae65,
+        ex:Venue_c98819d4-14e0-4a3a-a091-11cf8e63679e,
+        ex:Venue_d7a24f8f-5ec1-4872-9d99-891b6e611a1b .
+
+ex:Paper_006b89abc356c1c3bf2dfa35f47c0601c39dce38 ex:publish_year 2019,
+        2020,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_54c97699-f20b-45a7-ad60-b53a4ea76d91,
+        ex:Venue_7ce789d2-bcb6-4595-9dc4-e823a924a6c2,
+        ex:Venue_aa941855-7d45-4531-87fe-4db2a2df6c6e,
+        ex:Venue_b593fab9-ed88-49d0-bf0e-1312a16b4f08,
+        ex:Venue_bbf04dd4-455a-4243-89f2-a756661b6db3,
+        ex:Venue_e3dffd26-f791-45ae-977d-1218c107b566 .
+
+ex:Paper_006bd41c4a52c64445afdbc67182715a476e09c8 ex:publish_year 2019,
+        2020,
+        2021,
+        2023,
+        2024 ;
+    ex:published_in ex:Venue_08430f5c-17b6-48c1-a50b-db71757dd617,
+        ex:Venue_3ead56df-644f-49f2-895f-3bf182b06f74,
+        ex:Venue_75f41b0e-9c59-4e5d-a731-4318cab3016e,
+        ex:Venue_813768b6-2422-476c-b7d9-7f88793df5ce,
+        ex:Venue_8ecc6f70-9574-45ca-990e-8a377e62d9af,
+        ex:Venue_c4e08f4a-6d25-4c56-be61-cc14f2a1c885 .
+
+ex:Paper_006bf046e6c27d882bae79688004c4c4f4781a0f ex:publish_year 2019,
+        2022 ;
+    ex:published_in ex:Venue_8efd30fa-f14b-4e97-80f1-00ec3fd93805,
+        ex:Venue_adcccd84-5384-4387-9b03-ac13d7a65245 .
+
+ex:Paper_007098d098b83163f76d17b75fb47f2eec43fd2d ex:publish_year 2020 ;
+    ex:published_in ex:Venue_203eb69f-41ad-4db8-a068-f87f01169e62 .
+
+ex:Paper_00729e81a3c5d5ca1f7c57751cc6664da5450c76 ex:publish_year 2023 ;
+    ex:published_in ex:Venue_203eb69f-41ad-4db8-a068-f87f01169e62 .
+
+ex:Paper_00735bf6a1ad14a343650e7a4b6661eda04ddd60 ex:publish_year 2021,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_53e80c90-bd54-423f-ac7f-0fe38d4082da,
+        ex:Venue_6dd7f322-87ef-4941-a82e-95930f2f3584,
+        ex:Venue_6ea7522c-df36-4cd0-9f66-aa94a739df19,
+        ex:Venue_a056e684-c7a0-4fbe-be39-e40307b53ae5,
+        ex:Venue_e1b5231a-90cd-4e4a-a778-2cd72a024637,
+        ex:Venue_e1ddc456-662c-4d22-876e-d43ddbd55194 .
+
+ex:Paper_0074abb724b0cec51d8ff51b73f41452fa3b156f ex:publish_year 2019,
+        2020,
+        2021,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_08430f5c-17b6-48c1-a50b-db71757dd617,
+        ex:Venue_3ead56df-644f-49f2-895f-3bf182b06f74,
+        ex:Venue_75f41b0e-9c59-4e5d-a731-4318cab3016e,
+        ex:Venue_813768b6-2422-476c-b7d9-7f88793df5ce,
+        ex:Venue_8ecc6f70-9574-45ca-990e-8a377e62d9af,
+        ex:Venue_c4e08f4a-6d25-4c56-be61-cc14f2a1c885 .
+
+ex:Paper_0075dfdbd25dce1fd545d2ece39476a3a6dee5da ex:publish_year 2021,
+        2023 ;
+    ex:published_in ex:Venue_54c97699-f20b-45a7-ad60-b53a4ea76d91,
+        ex:Venue_7ce789d2-bcb6-4595-9dc4-e823a924a6c2,
+        ex:Venue_aa941855-7d45-4531-87fe-4db2a2df6c6e,
+        ex:Venue_b593fab9-ed88-49d0-bf0e-1312a16b4f08,
+        ex:Venue_bbf04dd4-455a-4243-89f2-a756661b6db3 .
+
+ex:Paper_007617660cc0d33741a6b6603da6a1844714cbdf ex:publish_year 2019,
+        2021 ;
+    ex:published_in ex:Venue_8efd30fa-f14b-4e97-80f1-00ec3fd93805,
+        ex:Venue_adcccd84-5384-4387-9b03-ac13d7a65245 .
+
+ex:Paper_00768f59dc45c197f4329a4d6287423dca22cdbf ex:publish_year 2023 ;
+    ex:published_in ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5 .
+
+ex:Paper_007d907ebb6183bb1891828afc6a7c3eeef00c87 ex:publish_year 2021,
+        2022 ;
+    ex:published_in ex:Venue_08430f5c-17b6-48c1-a50b-db71757dd617,
+        ex:Venue_c4e08f4a-6d25-4c56-be61-cc14f2a1c885 .
+
+ex:Paper_007f1a6d948cfc4cd838131ab18fac51b01f5275 ex:publish_year 2019,
+        2023 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_00801b7f0a13c5959773466b1ba9e5b18ea7c7d5 ex:publish_year 2020,
+        2021,
+        2024 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd,
+        ex:Venue_d09b380a-e850-4faf-a207-be6e75386589 .
+
+ex:Paper_00811cc3b808295db2c7a184c2a8da1d66d17e23 ex:publish_year 2020,
+        2021,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_514fd58d-eca6-46f3-958a-b689a09c069e,
+        ex:Venue_86f545ac-3178-4c21-b813-dd81bd62ae65,
+        ex:Venue_c98819d4-14e0-4a3a-a091-11cf8e63679e,
+        ex:Venue_d7a24f8f-5ec1-4872-9d99-891b6e611a1b .
+
+ex:Paper_00814de5c4a22fec6d7e6d161f006d9c59482278 ex:publish_year 2019,
+        2020,
+        2021,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_463f44e9-4123-44f3-a091-ea5393e68cfe,
+        ex:Venue_5a722a1e-520e-4cd0-b63d-492aef96d10c,
+        ex:Venue_8a6c730b-c39a-4ff3-bb63-6bf76cf91c46,
+        ex:Venue_9dd8fe1d-62d6-49eb-8bc1-9a948f2064d9,
+        ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5,
+        ex:Venue_f7f9357f-712f-4893-9238-2c74f4d39e65,
+        ex:Venue_ff540017-ebef-4180-8926-622c3ebfbc9a .
+
+ex:Paper_0083bf90c49c5f48d52ce309c4ddc7f4f9782b15 ex:publish_year 2020,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_0088aea75b76d7ecd3fa9680ebe778e271c4efcb ex:publish_year 2020,
+        2021,
+        2022 ;
+    ex:published_in ex:Venue_2cc2fe4d-9264-4cb6-8700-600fa47043f4,
+        ex:Venue_3a342388-5892-44cf-a828-0a43c634227d,
+        ex:Venue_4b661303-3a59-4dff-82cc-9ac025918d16 .
+
+ex:Paper_008a06b6d99f30957947c2b0acf8f043db23fd75 ex:publish_year 2021,
+        2022,
+        2023,
+        2024 ;
+    ex:published_in ex:Venue_514fd58d-eca6-46f3-958a-b689a09c069e,
+        ex:Venue_86f545ac-3178-4c21-b813-dd81bd62ae65,
+        ex:Venue_c98819d4-14e0-4a3a-a091-11cf8e63679e,
+        ex:Venue_d7a24f8f-5ec1-4872-9d99-891b6e611a1b .
+
+ex:Paper_008a0971b86645137102eebd63f8901638bf983c ex:publish_year 2019,
+        2020,
+        2021,
+        2022,
+        2024 ;
+    ex:published_in ex:Venue_08430f5c-17b6-48c1-a50b-db71757dd617,
+        ex:Venue_3ead56df-644f-49f2-895f-3bf182b06f74,
+        ex:Venue_75f41b0e-9c59-4e5d-a731-4318cab3016e,
+        ex:Venue_813768b6-2422-476c-b7d9-7f88793df5ce,
+        ex:Venue_8ecc6f70-9574-45ca-990e-8a377e62d9af,
+        ex:Venue_c4e08f4a-6d25-4c56-be61-cc14f2a1c885 .
+
+ex:Paper_008eb1704c39eeee3efc8db2db53f24d74743e06 ex:publish_year 2020,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_12162322-fe17-4fc9-ad8b-765a5472d33d,
+        ex:Venue_a3322176-de98-4c5d-ae9e-bd517c20feec,
+        ex:Venue_cc6148fa-492e-4af3-9fc0-7d78df4c24b6,
+        ex:Venue_f0518e3f-2ce2-4ca7-9ea2-2cb5aa29cfc3 .
+
+ex:Paper_008f1cca4c576b11d42c9a4cba236c834e451523 ex:publish_year 2022 ;
+    ex:published_in ex:Venue_3a342388-5892-44cf-a828-0a43c634227d,
+        ex:Venue_4b661303-3a59-4dff-82cc-9ac025918d16 .
+
+ex:Paper_008f2f675f9bf99f29ef7d3e8cdf4734cd9bb918 ex:publish_year 2021,
+        2022 ;
+    ex:published_in ex:Venue_2cc2fe4d-9264-4cb6-8700-600fa47043f4,
+        ex:Venue_3a342388-5892-44cf-a828-0a43c634227d,
+        ex:Venue_4b661303-3a59-4dff-82cc-9ac025918d16 .
+
+ex:Paper_008f51c5a995cf3d19bdcf2c7bb01648774daafb ex:publish_year 2019 ;
+    ex:published_in ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5 .
+
+ex:Paper_008f8eb8cfbada33bedbcf794e725606b5a3a3e7 ex:publish_year 2020,
+        2021,
+        2022,
+        2024 ;
+    ex:published_in ex:Venue_463f44e9-4123-44f3-a091-ea5393e68cfe,
+        ex:Venue_5a722a1e-520e-4cd0-b63d-492aef96d10c,
+        ex:Venue_8a6c730b-c39a-4ff3-bb63-6bf76cf91c46,
+        ex:Venue_9dd8fe1d-62d6-49eb-8bc1-9a948f2064d9,
+        ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5,
+        ex:Venue_f7f9357f-712f-4893-9238-2c74f4d39e65,
+        ex:Venue_ff540017-ebef-4180-8926-622c3ebfbc9a .
+
+ex:Paper_0090fe788feb3d56ee9bb1aaf83d51de71d8d3e6 ex:publish_year 2019,
+        2020,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd,
+        ex:Venue_9ad182fa-89fc-4dd0-a374-1808af9b8334,
+        ex:Venue_d09b380a-e850-4faf-a207-be6e75386589 .
+
+ex:Paper_0091346f761e451761f48eadd304bd3fb8a4126e ex:publish_year 2020,
+        2023 ;
+    ex:published_in ex:Venue_3eff72bf-7a1c-4dc5-9eca-a00d239162be,
+        ex:Venue_eee0b98a-09c9-48fa-b703-305417766fd0,
+        ex:Venue_ffa805d5-e973-47b4-bc62-fbcf4c41d53d .
+
+ex:Paper_00922c3a783155b87425b085306b973664044dd4 ex:publish_year 2020,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_08430f5c-17b6-48c1-a50b-db71757dd617,
+        ex:Venue_75f41b0e-9c59-4e5d-a731-4318cab3016e,
+        ex:Venue_813768b6-2422-476c-b7d9-7f88793df5ce,
+        ex:Venue_c4e08f4a-6d25-4c56-be61-cc14f2a1c885 .
+
+ex:Paper_0092c1083e4fb679b288686d1dc8c9d83efef9bc ex:publish_year 2022,
+        2023 ;
+    ex:published_in ex:Venue_12162322-fe17-4fc9-ad8b-765a5472d33d,
+        ex:Venue_f0518e3f-2ce2-4ca7-9ea2-2cb5aa29cfc3 .
+
+ex:Paper_009687779428dcb8c32f3c930697a7c3f8de3d3b ex:publish_year 2020,
+        2021,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_463f44e9-4123-44f3-a091-ea5393e68cfe,
+        ex:Venue_5a722a1e-520e-4cd0-b63d-492aef96d10c,
+        ex:Venue_8a6c730b-c39a-4ff3-bb63-6bf76cf91c46,
+        ex:Venue_9dd8fe1d-62d6-49eb-8bc1-9a948f2064d9,
+        ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5,
+        ex:Venue_f7f9357f-712f-4893-9238-2c74f4d39e65 .
+
+ex:Paper_00975a7f3bc8bfb0a694117c07ccb7324333014f ex:publish_year 2020,
+        2022,
+        2023,
+        2024 ;
+    ex:published_in ex:Venue_54c97699-f20b-45a7-ad60-b53a4ea76d91,
+        ex:Venue_7ce789d2-bcb6-4595-9dc4-e823a924a6c2,
+        ex:Venue_aa941855-7d45-4531-87fe-4db2a2df6c6e,
+        ex:Venue_b593fab9-ed88-49d0-bf0e-1312a16b4f08,
+        ex:Venue_bbf04dd4-455a-4243-89f2-a756661b6db3 .
+
+ex:Paper_009b13bb48af9d33dbeb961f044133c7c21cec89 ex:publish_year 2020,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_009bce9910153fbd8729954c24c64cf7ee0f7c1b ex:publish_year 2022 ;
+    ex:published_in ex:Venue_12162322-fe17-4fc9-ad8b-765a5472d33d .
+
+ex:Paper_009eb31338512d9ca6ffde4062f0443f94b61fd1 ex:publish_year 2019,
+        2020,
+        2021,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_4fffb1bc-6691-4faf-9893-11932df011d7,
+        ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd,
+        ex:Venue_9ad182fa-89fc-4dd0-a374-1808af9b8334,
+        ex:Venue_d09b380a-e850-4faf-a207-be6e75386589 .
+
+ex:Paper_00a3e1c293f3c8dfc205f0094f4d971850a5d99c ex:publish_year 2019,
+        2021,
+        2022 ;
+    ex:published_in ex:Venue_08430f5c-17b6-48c1-a50b-db71757dd617,
+        ex:Venue_75f41b0e-9c59-4e5d-a731-4318cab3016e,
+        ex:Venue_813768b6-2422-476c-b7d9-7f88793df5ce,
+        ex:Venue_c4e08f4a-6d25-4c56-be61-cc14f2a1c885 .
+
+ex:Paper_00a653b045e7df3e93de9dc3cb0a186024ad1df0 ex:publish_year 2020,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_514fd58d-eca6-46f3-958a-b689a09c069e,
+        ex:Venue_86f545ac-3178-4c21-b813-dd81bd62ae65,
+        ex:Venue_c98819d4-14e0-4a3a-a091-11cf8e63679e,
+        ex:Venue_d7a24f8f-5ec1-4872-9d99-891b6e611a1b .
+
+ex:Paper_00a9af382e2e28bdd25dddbb1cd64c1885a4fc93 ex:publish_year 2020 ;
+    ex:published_in ex:Venue_6dd7f322-87ef-4941-a82e-95930f2f3584,
+        ex:Venue_e1b5231a-90cd-4e4a-a778-2cd72a024637 .
+
+ex:Paper_00b0779034bc13da8f4eb18ed3d0c3466d759b91 ex:publish_year 2022,
+        2023 ;
+    ex:published_in ex:Venue_3eff72bf-7a1c-4dc5-9eca-a00d239162be,
+        ex:Venue_eee0b98a-09c9-48fa-b703-305417766fd0,
+        ex:Venue_ffa805d5-e973-47b4-bc62-fbcf4c41d53d .
+
+ex:Paper_00b3fc061b3600b9508480022556c9a76494dba4 ex:publish_year 2019,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_463f44e9-4123-44f3-a091-ea5393e68cfe,
+        ex:Venue_5a722a1e-520e-4cd0-b63d-492aef96d10c,
+        ex:Venue_8a6c730b-c39a-4ff3-bb63-6bf76cf91c46,
+        ex:Venue_9dd8fe1d-62d6-49eb-8bc1-9a948f2064d9,
+        ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5 .
+
+ex:Paper_00b42b3d8e4417399b06d547f4c46030f332c9be ex:publish_year 2019,
+        2020,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_54c97699-f20b-45a7-ad60-b53a4ea76d91,
+        ex:Venue_7ce789d2-bcb6-4595-9dc4-e823a924a6c2,
+        ex:Venue_aa941855-7d45-4531-87fe-4db2a2df6c6e,
+        ex:Venue_b593fab9-ed88-49d0-bf0e-1312a16b4f08,
+        ex:Venue_bbf04dd4-455a-4243-89f2-a756661b6db3,
+        ex:Venue_e3dffd26-f791-45ae-977d-1218c107b566 .
+
+ex:Paper_00b5f8d132c6223e130622b4136e1090e943f238 ex:publish_year 2019,
+        2020,
+        2021 ;
+    ex:published_in ex:Venue_463f44e9-4123-44f3-a091-ea5393e68cfe,
+        ex:Venue_5a722a1e-520e-4cd0-b63d-492aef96d10c,
+        ex:Venue_8a6c730b-c39a-4ff3-bb63-6bf76cf91c46,
+        ex:Venue_9dd8fe1d-62d6-49eb-8bc1-9a948f2064d9,
+        ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5 .
+
+ex:Paper_00b6456d504cf5d782803091b9a2d460daa7da80 ex:publish_year 2020,
+        2022 ;
+    ex:published_in ex:Venue_0291ce72-3b8c-425b-b8db-18605f05ff40,
+        ex:Venue_758767ef-3ff6-46cb-8121-77901d42097b,
+        ex:Venue_db07ce9a-a4e2-4ab1-896e-728e535ead10 .
+
+ex:Paper_00ba98cf43f53a8e9e61b8895a7ca302900e6d7e ex:publish_year 2020,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_00bb7f29057d30892f84cc01a96301b688fcdef8 ex:publish_year 2023 ;
+    ex:published_in ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_00bc00b24b901559bb1cad66c4bf354808b1d923 ex:publish_year 2020,
+        2023 ;
+    ex:published_in ex:Venue_08430f5c-17b6-48c1-a50b-db71757dd617,
+        ex:Venue_75f41b0e-9c59-4e5d-a731-4318cab3016e,
+        ex:Venue_c4e08f4a-6d25-4c56-be61-cc14f2a1c885 .
+
+ex:Paper_00bc156bac2b39fab1689fe047b23c9f216d7f29 ex:publish_year 2019,
+        2020,
+        2024 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd,
+        ex:Venue_d09b380a-e850-4faf-a207-be6e75386589 .
+
+ex:Paper_00c05c5f00a88ca00e8704c2ce2010ac0667a924 ex:publish_year 2020,
+        2021,
+        2022 ;
+    ex:published_in ex:Venue_203eb69f-41ad-4db8-a068-f87f01169e62,
+        ex:Venue_4a0910b1-921e-41c0-880b-4698c647c7fd,
+        ex:Venue_957b1e7c-0c9a-443e-9827-484708f02a39,
+        ex:Venue_afbd4f78-7b97-4b55-93ac-0a4d01d98492 .
+
+ex:Paper_00c2b76966cc18c09e865cf827fb4c7a3d294a6c ex:publish_year 2020 ;
+    ex:published_in ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_00c39a8b3857f16fd59ebd91ed13d68a1aed4d8b ex:publish_year 2021,
+        2022,
+        2024 ;
+    ex:published_in ex:Venue_2cc2fe4d-9264-4cb6-8700-600fa47043f4,
+        ex:Venue_3a342388-5892-44cf-a828-0a43c634227d,
+        ex:Venue_4b661303-3a59-4dff-82cc-9ac025918d16 .
+
+ex:Paper_00c53bf5f1a48b64ee809cad8acc933d43234b9c ex:publish_year 2022 ;
+    ex:published_in ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_00c563820989ba36393a889743a97bcedf47dcd2 ex:publish_year 2022,
+        2023,
+        2024 ;
+    ex:published_in ex:Venue_463f44e9-4123-44f3-a091-ea5393e68cfe,
+        ex:Venue_5a722a1e-520e-4cd0-b63d-492aef96d10c,
+        ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5 .
+
+ex:Paper_00c5cf4399df8efa1179915c36088a99eb26f281 ex:publish_year 2020,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_6dd7f322-87ef-4941-a82e-95930f2f3584,
+        ex:Venue_6ea7522c-df36-4cd0-9f66-aa94a739df19,
+        ex:Venue_e1b5231a-90cd-4e4a-a778-2cd72a024637,
+        ex:Venue_e1ddc456-662c-4d22-876e-d43ddbd55194 .
+
+ex:Paper_00c723c32a69c2a326d55c618694d5d1038da688 ex:publish_year 2020,
+        2022,
+        2024 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_00c92bd26958dbc085eb4bbc72aa3d34f92e32c7 ex:publish_year 2019,
+        2020,
+        2023 ;
+    ex:published_in ex:Venue_3a380e72-e857-45ed-ae9b-bac77b47b3e0,
+        ex:Venue_4807a595-9170-4a2f-8098-f8927001263d,
+        ex:Venue_8efd30fa-f14b-4e97-80f1-00ec3fd93805,
+        ex:Venue_adcccd84-5384-4387-9b03-ac13d7a65245 .
+
+ex:Paper_00c9c8a970574dd80617c4d63493567d45f87888 ex:publish_year 2022,
+        2023 ;
+    ex:published_in ex:Venue_2cc2fe4d-9264-4cb6-8700-600fa47043f4,
+        ex:Venue_3a342388-5892-44cf-a828-0a43c634227d,
+        ex:Venue_4b661303-3a59-4dff-82cc-9ac025918d16 .
+
+ex:Paper_00cdd54e6cc5cb616df26a32d8e709b67de52739 ex:publish_year 2020,
+        2023 ;
+    ex:published_in ex:Venue_5a722a1e-520e-4cd0-b63d-492aef96d10c,
+        ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5 .
+
+ex:Paper_00d3c2608f64f432f21a7749b9c674c94170d17e ex:publish_year 2019,
+        2021,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_3a380e72-e857-45ed-ae9b-bac77b47b3e0,
+        ex:Venue_4807a595-9170-4a2f-8098-f8927001263d,
+        ex:Venue_8efd30fa-f14b-4e97-80f1-00ec3fd93805,
+        ex:Venue_adcccd84-5384-4387-9b03-ac13d7a65245 .
+
+ex:Paper_00d669ea812b93429bb59d00e3cbedee42d4efb1 ex:publish_year 2020,
+        2023,
+        2024 ;
+    ex:published_in ex:Venue_6dd7f322-87ef-4941-a82e-95930f2f3584,
+        ex:Venue_6ea7522c-df36-4cd0-9f66-aa94a739df19,
+        ex:Venue_e1b5231a-90cd-4e4a-a778-2cd72a024637 .
+
+ex:Paper_00d76f20f303c6829e23a4a9bfb9af4af3871c0c ex:publish_year 2021,
+        2022 ;
+    ex:published_in ex:Venue_6dd7f322-87ef-4941-a82e-95930f2f3584,
+        ex:Venue_6ea7522c-df36-4cd0-9f66-aa94a739df19,
+        ex:Venue_a056e684-c7a0-4fbe-be39-e40307b53ae5,
+        ex:Venue_e1b5231a-90cd-4e4a-a778-2cd72a024637,
+        ex:Venue_e1ddc456-662c-4d22-876e-d43ddbd55194 .
+
+ex:Paper_00ddb10417f77b54ea9ba38c35dcc3310a08aa34 ex:publish_year 2020,
+        2021,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_54c97699-f20b-45a7-ad60-b53a4ea76d91,
+        ex:Venue_7ce789d2-bcb6-4595-9dc4-e823a924a6c2,
+        ex:Venue_aa941855-7d45-4531-87fe-4db2a2df6c6e,
+        ex:Venue_b593fab9-ed88-49d0-bf0e-1312a16b4f08,
+        ex:Venue_bbf04dd4-455a-4243-89f2-a756661b6db3,
+        ex:Venue_e3dffd26-f791-45ae-977d-1218c107b566 .
+
+ex:Paper_00e26133551f152f4c8913c5442238d30a63ef79 ex:publish_year 2023 ;
+    ex:published_in ex:Venue_8efd30fa-f14b-4e97-80f1-00ec3fd93805 .
+
+ex:Paper_00e2b0f9bcdfa52fbf68a959f9daa8a5ba23bba8 ex:publish_year 2020,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_463f44e9-4123-44f3-a091-ea5393e68cfe,
+        ex:Venue_5a722a1e-520e-4cd0-b63d-492aef96d10c,
+        ex:Venue_8a6c730b-c39a-4ff3-bb63-6bf76cf91c46,
+        ex:Venue_9dd8fe1d-62d6-49eb-8bc1-9a948f2064d9,
+        ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5 .
+
+ex:Paper_00e346f93fe1eda00ce990a13a8ea8ba66bfc37b ex:publish_year 2023 ;
+    ex:published_in ex:Venue_12162322-fe17-4fc9-ad8b-765a5472d33d .
+
+ex:Paper_00e34b7351b6f7104218a7a09ee22aedcc927d4b ex:publish_year 2019 ;
+    ex:published_in ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5 .
+
+ex:Paper_00e3c0110f4d65897ec9e805a4429f4aa03cc6fe ex:publish_year 2019,
+        2020,
+        2021,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_4fffb1bc-6691-4faf-9893-11932df011d7,
+        ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd,
+        ex:Venue_9ad182fa-89fc-4dd0-a374-1808af9b8334,
+        ex:Venue_d09b380a-e850-4faf-a207-be6e75386589 .
+
+ex:Paper_00e3e4cfdba66226403368edd30df8032c9802f0 ex:publish_year 2019,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_0291ce72-3b8c-425b-b8db-18605f05ff40,
+        ex:Venue_758767ef-3ff6-46cb-8121-77901d42097b,
+        ex:Venue_db07ce9a-a4e2-4ab1-896e-728e535ead10 .
+
+ex:Paper_00e422bdc76b82514d66675dcac8da0493352a8e ex:publish_year 2019,
+        2020,
+        2021,
+        2022 ;
+    ex:published_in ex:Venue_8f5e3390-01e3-4897-84d7-5b8f60bb6e4d,
+        ex:Venue_919a6285-95c8-4836-9e7a-2bdab11dab1b,
+        ex:Venue_97a6d048-5f06-4dff-9968-1daebf55e895,
+        ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_00e65d86d2b4600508d3f76a940da7a36cee04a9 ex:publish_year 2020,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_3eff72bf-7a1c-4dc5-9eca-a00d239162be,
+        ex:Venue_eee0b98a-09c9-48fa-b703-305417766fd0,
+        ex:Venue_ffa805d5-e973-47b4-bc62-fbcf4c41d53d .
+
+ex:Paper_00e70c97afd1af0b70e1fc6480d05a9d55a75413 ex:publish_year 2019,
+        2020,
+        2023 ;
+    ex:published_in ex:Venue_12162322-fe17-4fc9-ad8b-765a5472d33d,
+        ex:Venue_a3322176-de98-4c5d-ae9e-bd517c20feec,
+        ex:Venue_cc6148fa-492e-4af3-9fc0-7d78df4c24b6,
+        ex:Venue_f0518e3f-2ce2-4ca7-9ea2-2cb5aa29cfc3 .
+
+ex:Paper_00f189133a8c64e5d197ef37092257463f8a2e8b ex:publish_year 2020,
+        2022 ;
+    ex:published_in ex:Venue_0291ce72-3b8c-425b-b8db-18605f05ff40,
+        ex:Venue_758767ef-3ff6-46cb-8121-77901d42097b,
+        ex:Venue_db07ce9a-a4e2-4ab1-896e-728e535ead10 .
+
+ex:Paper_00fcd279bc6e702cfa72bf98c381242b25fd1734 ex:publish_year 2020,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_54c97699-f20b-45a7-ad60-b53a4ea76d91,
+        ex:Venue_7ce789d2-bcb6-4595-9dc4-e823a924a6c2,
+        ex:Venue_aa941855-7d45-4531-87fe-4db2a2df6c6e,
+        ex:Venue_b593fab9-ed88-49d0-bf0e-1312a16b4f08,
+        ex:Venue_bbf04dd4-455a-4243-89f2-a756661b6db3 .
+
+ex:Paper_00fe7c7b31a1a83fbb38f605631f1d6e76f388a2 ex:publish_year 2019,
+        2021,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_514fd58d-eca6-46f3-958a-b689a09c069e,
+        ex:Venue_86f545ac-3178-4c21-b813-dd81bd62ae65,
+        ex:Venue_c98819d4-14e0-4a3a-a091-11cf8e63679e,
+        ex:Venue_d7a24f8f-5ec1-4872-9d99-891b6e611a1b .
+
+ex:Paper_0101bef3602965eb124803564e37141cff2333ea ex:publish_year 2020 ;
+    ex:published_in ex:Venue_8efd30fa-f14b-4e97-80f1-00ec3fd93805 .
+
+ex:Paper_011341dc87edea1fdc9aafe7020e8896fb9672b8 ex:publish_year 2019,
+        2023 ;
+    ex:published_in ex:Venue_2cc2fe4d-9264-4cb6-8700-600fa47043f4,
+        ex:Venue_3a342388-5892-44cf-a828-0a43c634227d,
+        ex:Venue_4b661303-3a59-4dff-82cc-9ac025918d16 .
+
+ex:Paper_01135d952acc731742fd20b9b2d4915c4c169950 ex:publish_year 2020,
+        2021 ;
+    ex:published_in ex:Venue_8efd30fa-f14b-4e97-80f1-00ec3fd93805,
+        ex:Venue_adcccd84-5384-4387-9b03-ac13d7a65245 .
+
+ex:Paper_01139f79fb260e1bd06f423cb21522b3e41b31e9 ex:publish_year 2021,
+        2023 ;
+    ex:published_in ex:Venue_2cc2fe4d-9264-4cb6-8700-600fa47043f4,
+        ex:Venue_3a342388-5892-44cf-a828-0a43c634227d,
+        ex:Venue_4b661303-3a59-4dff-82cc-9ac025918d16 .
+
+ex:Paper_011961296d458fbf1d605e58f49497e7a8f6f011 ex:publish_year 2022 ;
+    ex:published_in ex:Venue_3eff72bf-7a1c-4dc5-9eca-a00d239162be .
+
+ex:Paper_0125abc6b5f4b4e1c9b87c4735fc8313c0600c88 ex:publish_year 2023 ;
+    ex:published_in ex:Venue_98fef3dc-eb74-4bb0-a54c-e718ac0366cd .
+
+ex:Paper_0131f82eadbf40966b110360f97b99289e56dd37 ex:publish_year 2020,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_3a380e72-e857-45ed-ae9b-bac77b47b3e0,
+        ex:Venue_4807a595-9170-4a2f-8098-f8927001263d,
+        ex:Venue_8efd30fa-f14b-4e97-80f1-00ec3fd93805,
+        ex:Venue_adcccd84-5384-4387-9b03-ac13d7a65245 .
+
+ex:Paper_0134db5adf50c471906cbffa0d2f6a4fcbc0ae01 ex:publish_year 2019,
+        2020,
+        2021 ;
+    ex:published_in ex:Venue_16ca4ff3-205a-4f99-8dbd-50937bf91424,
+        ex:Venue_927fdb16-1382-44c6-9a6f-02d5cf35d8ac,
+        ex:Venue_d2d6332c-4a2a-4433-a07c-becbb9cb526f .
+
+ex:Paper_01383cf064a9963054b5416c04cc421100656892 ex:publish_year 2019,
+        2021,
+        2022,
+        2023 ;
+    ex:published_in ex:Venue_203eb69f-41ad-4db8-a068-f87f01169e62,
+        ex:Venue_4a0910b1-921e-41c0-880b-4698c647c7fd,
+        ex:Venue_957b1e7c-0c9a-443e-9827-484708f02a39,
+        ex:Venue_afbd4f78-7b97-4b55-93ac-0a4d01d98492 .
+
+ex:Paper_013fc96537baedea3e397d057be8404aa93d5299 ex:publish_year 2020,
+        2021,
+        2022 ;
+    ex:published_in ex:Venue_463f44e9-4123-44f3-a091-ea5393e68cfe,
+        ex:Venue_5a722a1e-520e-4cd0-b63d-492aef96d10c,
+        ex:Venue_9dd8fe1d-62d6-49eb-8bc1-9a948f2064d9,
+        ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5 .
+
+ex:Paper_0140b503a44298915542b284f66ecd8e5adc737b ex:publish_year 2021,
+        2022 ;
+    ex:published_in ex:Venue_54c97699-f20b-45a7-ad60-b53a4ea76d91,
+        ex:Venue_7ce789d2-bcb6-4595-9dc4-e823a924a6c2 .
+
+ex:Paper_01458da3d3902e6ccd4b8af92cd22553596da923 ex:publish_year 2019,
+        2021,
+        2023 ;
+    ex:published_in ex:Venue_6dd7f322-87ef-4941-a82e-95930f2f3584,
+        ex:Venue_6ea7522c-df36-4cd0-9f66-aa94a739df19,
+        ex:Venue_e1b5231a-90cd-4e4a-a778-2cd72a024637,
+        ex:Venue_e1ddc456-662c-4d22-876e-d43ddbd55194 .
+
+ex:Paper_014cf690afedcb7d8fddaa9d6770f162385ffc99 ex:publish_year 2021,
+        2024 ;
+    ex:published_in ex:Venue_463f44e9-4123-44f3-a091-ea5393e68cfe,
+        ex:Venue_5a722a1e-520e-4cd0-b63d-492aef96d10c,
+        ex:Venue_d34396fb-ffbc-4826-9139-10e861622ef5 .
+
+ex:Paper_0150286dd10c0e18fd86a08603fd32343ba73d46 ex:publish_year 2021,
+        2023,
+        2024 ;
+    ex:published_in ex:Venue_0291ce72-3b8c-425b-b8db-18605f05ff40,
+        ex:Venue_758767ef-3ff6-46cb-8121-77901d42097b,
+        ex:Venue_db07ce9a-a4e2-4ab1-896e-728e535ead10 .
+
+ex:Paper_0151ab779171add3177b5eacc5b42fed8d924e26 ex:publish_year 2021 ;
+    ex:published_in ex:Venue_758767ef-3ff6-46cb-8121-77901d42097b .
+
+ex:Paper_0152f2ba5f4765a313e4e41f735a37fca52a2a59 ex:publish_year 2023 ;
+    ex:published_in ex:Venue_e1b5231a-90cd-4e4a-a778-2cd72a024637 .
+

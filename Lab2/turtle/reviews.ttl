@@ -1,0 +1,903 @@
+@prefix ex: <http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Review_000d4802-8894-4fb0-9a4e-3d5b305a1fe0 a ex:Review ;
+    ex:abstract "Strong sometimes soldier large offer letter. State be us well. Town expert issue opportunity choose." ;
+    ex:date "2020-06-29"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_00be8000-ff8c-41d7-b8ad-eb645761a796 a ex:Review ;
+    ex:abstract "Police a themselves make guy. Western paper chance management training move teacher. From choose beat hospital. Reveal challenge husband modern beautiful common. Quickly response question identify month career." ;
+    ex:date "2023-09-27"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_03374f29-d79d-4f89-bba4-ddb607ca7ca7 a ex:Review ;
+    ex:abstract "Call research suddenly real. Cover enough work interest." ;
+    ex:date "2020-04-20"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_03782c9c-4805-4c05-b3e7-92c083d18348 a ex:Review ;
+    ex:abstract "Environment official call low. News final teach strategy six avoid. Play stay mind heart go." ;
+    ex:date "2021-08-25"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_046b7c74-2c87-4e43-b787-881e77d36010 a ex:Review ;
+    ex:abstract "Right camera safe use career resource these. Say life month trial matter." ;
+    ex:date "2019-06-20"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_0513d2e6-0bda-483b-af0e-671c7c683143 a ex:Review ;
+    ex:abstract "Tend attention traditional hard. Consumer past event line operation meet." ;
+    ex:date "2023-04-01"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_055becec-94a4-424e-b4d4-d62300dc5172 a ex:Review ;
+    ex:abstract "Buy might require approach just quite town. Style road debate no message whatever cultural account." ;
+    ex:date "2021-04-18"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_07267b48-8437-4ffb-bdb5-62373a574912 a ex:Review ;
+    ex:abstract "Interest particularly language term. Agent whom security discover. Early already he lay student anything indeed ok. Fill away stop onto watch protect scientist medical. Four soon maybe wish center personal." ;
+    ex:date "2020-09-15"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_0822d58a-b7aa-4406-8ae4-2a5696c39949 a ex:Review ;
+    ex:abstract "Reflect theory amount left. Wrong rock hand source. Street employee person full item speak decision. Skin cold east wall unit law remember. Shake through near cut." ;
+    ex:date "2019-11-26"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_08452660-931c-41da-a9e4-bf3cacade64a a ex:Review ;
+    ex:abstract "Player nor may house go do hope. Recently grow recognize guy contain include response. Skill town dog need statement statement. Financial others benefit small teacher." ;
+    ex:date "2021-10-31"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_0a39d094-762a-4d6d-99bd-701c72f87f24 a ex:Review ;
+    ex:abstract "Contain media environmental lay method call." ;
+    ex:date "2020-11-08"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_0bf90df2-d750-4341-8779-4cf0c9987399 a ex:Review ;
+    ex:abstract "Time meet type around. Fine guess five drive. Hospital could player past night central." ;
+    ex:date "2021-07-29"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_0d56674b-82f6-413b-b4e5-a7b1516c9a54 a ex:Review ;
+    ex:abstract "Rest fact several general computer. Almost forward summer board summer. Indeed little suffer history term month." ;
+    ex:date "2019-07-14"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_0efbbf30-3f67-47d3-a818-607f40c8e234 a ex:Review ;
+    ex:abstract "Wall agree however million stuff of. Control rise else education catch court word." ;
+    ex:date "2022-12-21"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_0f597a30-1d8f-4a67-b697-f3c9ddc59295 a ex:Review ;
+    ex:abstract "Manage establish dream fire spring live. Even later know example general. Statement cost from. Watch debate behavior modern strong wide citizen set." ;
+    ex:date "2021-11-11"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_0fcde89b-8e28-4231-8ec6-217aee5f0f7a a ex:Review ;
+    ex:abstract "Clearly American consider week foot daughter. Decision parent morning wish here color enjoy. Evening treatment forget big participant color child company. Guess billion personal perhaps stuff help." ;
+    ex:date "2022-04-25"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_112c965a-37db-4141-8a39-01a5487a260c a ex:Review ;
+    ex:abstract "Style particularly Democrat long reduce recently. Author contain sign coach particular throw civil up. Eye kind apply small." ;
+    ex:date "2020-08-21"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_123436b0-32e3-4b16-b1f8-9880aa8f4cf2 a ex:Review ;
+    ex:abstract "Bill these action season economy manager. Run left hold. Set church reduce onto me plan treat. Court thought sort value close." ;
+    ex:date "2023-10-21"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_12d88c17-8df8-493f-abe9-46283bb5978e a ex:Review ;
+    ex:abstract "Kid development son view fall. Similar tell employee of end inside hand. Minute trade either fast road lay." ;
+    ex:date "2020-04-11"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_13719a29-cf0e-4498-92ee-dc4570404a81 a ex:Review ;
+    ex:abstract "Technology across however back project. Purpose fight country capital it. Generation peace save everyone visit among happy. Bar north technology home administration." ;
+    ex:date "2023-06-10"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_139629d0-3ebf-431d-b2d8-9e022e7af601 a ex:Review ;
+    ex:abstract "Well size middle main send business tree. Over newspaper outside line chance song world." ;
+    ex:date "2021-07-15"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_13f1edf0-8c3c-4af1-b752-53cba905db67 a ex:Review ;
+    ex:abstract "Southern full someone answer young consumer. Shake role threat require brother public. Scene political gun travel big image tree. Necessary material indeed writer. Now develop require save scene." ;
+    ex:date "2023-05-09"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_168ecc10-fb4b-4fb5-9938-44c847b1fd10 a ex:Review ;
+    ex:abstract "Song station loss themselves lawyer. Actually former may listen boy black no. Step police take American." ;
+    ex:date "2020-12-29"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_16ec0c9d-f99c-4c4c-b16a-6d8627f759a4 a ex:Review ;
+    ex:abstract "Point month crime fact. There food its another ago. Third develop always nearly baby box structure." ;
+    ex:date "2021-12-15"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_18d23cb1-8f9a-4d20-9300-21dd0d1064a4 a ex:Review ;
+    ex:abstract "Season national above daughter sister threat book apply. Line everyone pay tough agreement." ;
+    ex:date "2021-06-19"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_1956463e-3f19-429b-a269-3cf49afd8196 a ex:Review ;
+    ex:abstract "Play company American important actually risk station employee. Where company former. Create direction human since degree." ;
+    ex:date "2019-07-13"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_1c029756-6d95-4d55-83a1-5c499bd794f5 a ex:Review ;
+    ex:abstract "Find run party get campaign response. Tend quality song rise she eat director. Save challenge probably whether hope much." ;
+    ex:date "2022-12-04"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_1deb206f-3de0-45e9-b3f9-6b2f02553730 a ex:Review ;
+    ex:abstract "Today into although house down reach. Strategy issue season summer serve only yet. Ask indeed it public cost tax nearly." ;
+    ex:date "2022-10-18"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_1e3386a7-1b7c-4524-a567-dbe079a662b2 a ex:Review ;
+    ex:abstract "Memory physical subject according. Discuss any writer new positive since meet. Seat soldier hospital generation mean truth. According store save party." ;
+    ex:date "2023-08-10"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_1fc2e971-9a60-4efe-8953-9d4a92a66e5d a ex:Review ;
+    ex:abstract "Arrive memory truth town. Charge suggest challenge only tree. Him couple either his girl power likely. Image moment land painting tough nor." ;
+    ex:date "2023-10-19"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_21cc8051-58db-42f5-9b16-f84d8b7194b0 a ex:Review ;
+    ex:abstract "Hospital hot serious among until once. Force range already international method. Cut air rate. Move sign treat travel protect bank vote wonder." ;
+    ex:date "2023-09-05"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_222e8fba-32d8-47a1-9e78-8ae50c2ffd2b a ex:Review ;
+    ex:abstract "Thousand future mean various wall mouth. That vote investment safe. Leave toward glass expert say talk. Season statement listen poor find pressure. Create class a tough discuss professional. Focus enough thought choose particularly individual at power." ;
+    ex:date "2020-02-07"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_22770658-ba66-4853-b259-4e9a5051a17a a ex:Review ;
+    ex:abstract "Others job seven. South throughout couple." ;
+    ex:date "2020-02-12"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_22d7a282-1171-4a62-bbfa-74d90a9ea343 a ex:Review ;
+    ex:abstract "Section leg subject management discover. Key better glass up bed. Campaign design husband season have activity. End me bring social partner. Stand weight state. Study others part life hit him." ;
+    ex:date "2020-12-07"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_23a9566a-a5a8-4693-81c0-d5a0fce14a61 a ex:Review ;
+    ex:abstract "Part since friend game four about. Store third onto voice. Serious network heart director Mrs serious shoulder. Stay responsibility impact machine start reveal career prevent." ;
+    ex:date "2021-03-09"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_2426ee4f-133c-4a5c-9824-92c0652f70ea a ex:Review ;
+    ex:abstract "What improve billion color. Lot kitchen perhaps wind course common. Way step machine term social identify. See him partner ahead. Feel decision attorney box yeah let. Church physical part Mr air matter." ;
+    ex:date "2021-04-30"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_24409703-59d0-4a5c-b88a-21fd32a07d5e a ex:Review ;
+    ex:abstract "Protect entire structure decide these court practice. Use a create huge. Even true mention growth military. Some year modern off section property." ;
+    ex:date "2024-03-15"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_251f2431-d815-491a-aa06-8ed8739a30da a ex:Review ;
+    ex:abstract "Bar fight thought serious recent miss. Understand best rich hear worker hand this. Pressure soon its TV economy majority beyond. Society street occur. Think most generation." ;
+    ex:date "2022-05-15"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_26ba66b7-36b0-46ab-96ad-8bd97462806a a ex:Review ;
+    ex:abstract "Consumer want time radio especially yes general. Republican organization standard less add. Vote opportunity support although official material budget. Class likely organization view agree the. Ahead son table performance authority near. Over man partner year party information trade two. Raise authority buy sense beautiful." ;
+    ex:date "2022-05-10"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_274a0682-4efb-4881-a483-8c8300dad099 a ex:Review ;
+    ex:abstract "Decide shoulder crime. Box social evidence say seem maybe option. Development order civil minute operation write every. Body usually reflect son paper continue. Church middle blood hot major." ;
+    ex:date "2023-08-30"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_28bd8e67-e4fd-4ef3-99c4-fcddc174c617 a ex:Review ;
+    ex:abstract "Not relationship opportunity forward air what. Difference believe catch authority. Better administration around option research land. Onto forward others force later film parent break. Former second word must spring respond heart. Require bit keep official benefit. Especially time score pattern." ;
+    ex:date "2022-05-13"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_2905f99f-e157-4c9f-9a05-3694e6547d6f a ex:Review ;
+    ex:abstract "As usually whole baby above. Thought nearly require world past. Area could claim anyone." ;
+    ex:date "2021-03-01"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_29762d83-bee5-46f8-9922-0005401bb484 a ex:Review ;
+    ex:abstract "Foreign place a especially suffer Mrs own girl. Picture democratic financial peace." ;
+    ex:date "2022-10-18"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_2b5d18eb-38c6-47a4-96fe-07fdef3b1a92 a ex:Review ;
+    ex:abstract "Administration dog second next. Clear after author spend play none soon. Any measure enter result professional sure single. Store movie I east behavior pay. Wall to others forward throw." ;
+    ex:date "2019-11-16"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_2e9bcc84-42d1-439f-a356-4719f55c39e1 a ex:Review ;
+    ex:abstract "Or doctor story analysis time sound cold above. Follow scientist nor parent long still. Factor college power coach western mention." ;
+    ex:date "2021-08-09"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_2fa4709d-4460-4017-bda1-13faaebf834e a ex:Review ;
+    ex:abstract "Decision which democratic down born. Card car choice yard center skill. Remain serious firm." ;
+    ex:date "2020-02-24"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_3589c8b5-eac9-41dd-9002-959df4d0488f a ex:Review ;
+    ex:abstract "Responsibility today live significant occur begin. What school although reach admit be maybe boy. Serve others lawyer these never region evidence." ;
+    ex:date "2022-03-05"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_373ca7ad-0f5c-4882-818c-da5eaad492c8 a ex:Review ;
+    ex:abstract "Offer suggest pull as message. Reach hundred social Republican. Bag guy thus wrong under modern. Week writer teacher. Across cultural region election quickly." ;
+    ex:date "2019-10-26"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_37a7d041-19fc-4914-8bb5-b106fd03c4e0 a ex:Review ;
+    ex:abstract "Fact our next although improve case choice. Attention war network audience put apply. Try note scene research surface hour my." ;
+    ex:date "2023-06-25"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_37bc0339-9fdd-4b58-ab3f-62f1580892e9 a ex:Review ;
+    ex:abstract "Citizen our although. Maintain stay fast recent nor mouth. Notice husband might month. Hundred building possible explain institution weight purpose. Glass increase region include them. On want star three name baby your. Walk should indeed car ok party art. Might just long give because for majority." ;
+    ex:date "2022-02-19"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_3a0e28b9-54a3-4712-8c66-fcc69a4c94c6 a ex:Review ;
+    ex:abstract "Training change back meet general teach too treatment. Five family option our community power enjoy. Court question fast walk. That detail administration role sit. Go hold hear. Large fine outside exist. You natural across." ;
+    ex:date "2022-12-23"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_3a5a680a-c948-4f2d-8856-601f0daf8cf2 a ex:Review ;
+    ex:abstract "Campaign book camera explain law detail than training. Threat expert give music. Stuff story throughout soldier central street sort. Find today set south option politics customer. Operation trial sister analysis less." ;
+    ex:date "2022-12-17"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_3bf900c7-8d96-4674-ab9a-89db17dbdc62 a ex:Review ;
+    ex:abstract "Front sport third then though. Citizen her who executive establish law. Fast fly around Mr specific say understand major." ;
+    ex:date "2023-12-05"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_3c459c38-dcfc-4396-9389-8f45e8a8e011 a ex:Review ;
+    ex:abstract "Official above modern look must attack. Test one itself practice key throughout treat. Rate just pass choose full agent. Foreign memory type bad. Short throughout strong wish choice season move. Increase need parent reduce commercial." ;
+    ex:date "2023-01-15"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_3d15b132-361d-4160-97a3-7e712165dfb6 a ex:Review ;
+    ex:abstract "Stage national firm bag. Issue wonder language cost. You century summer stand. Raise authority often shoulder." ;
+    ex:date "2022-05-02"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_429fed66-7d85-440f-b021-0dc716701e4d a ex:Review ;
+    ex:abstract "Address red night reduce present. Author wrong better phone particularly civil happen. Some also guess whatever worry." ;
+    ex:date "2019-08-04"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_46e11d5f-69d5-4cea-9b5b-3bfb1f2a52ae a ex:Review ;
+    ex:abstract "Pull similar finally staff modern song cause series. Author officer people hard. Remain security between work share." ;
+    ex:date "2022-07-17"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_471e7da7-5c7d-4de3-ace4-b355ef23bc46 a ex:Review ;
+    ex:abstract "Magazine hour politics various war sport reach. Its forget firm skin now stage benefit. Structure begin artist way how." ;
+    ex:date "2022-11-17"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_4873b70b-0244-4884-9953-1754eb1766c0 a ex:Review ;
+    ex:abstract "Admit anyone probably like yes." ;
+    ex:date "2019-06-21"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_4bb9a58d-e8da-4d33-babd-6f30175409ae a ex:Review ;
+    ex:abstract "Central experience responsibility dinner start care. Road out it author. Mean store cut trip it thus often treat. Range test dinner and different professor. Reflect across bar government." ;
+    ex:date "2021-09-21"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_4d98b8b4-6b45-40e9-b01e-7d3723135e36 a ex:Review ;
+    ex:abstract "Loss suffer attack newspaper travel couple. Poor consumer himself minute. Tell key condition cultural." ;
+    ex:date "2023-10-23"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_515a6c84-2034-4491-83c8-cdfab14b212d a ex:Review ;
+    ex:abstract "Daughter character make within citizen since physical. Nor important young executive let. Simply drop professor money. Since thing participant or character finish pull." ;
+    ex:date "2022-09-10"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_516ad3f6-3704-4f59-a50e-a1f7b9991c48 a ex:Review ;
+    ex:abstract "But common staff often brother half consumer hundred. Pass plant sound growth." ;
+    ex:date "2022-12-06"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_56afa66a-d953-43de-a71b-cbe8f47542bc a ex:Review ;
+    ex:abstract "Dream threat boy material goal. Yet fact thus rich I. Republican face your institution mention. Factor information must close. Conference maybe return affect. Scientist media game scene present note. Tonight race training event avoid forget region. Walk all compare near." ;
+    ex:date "2019-12-13"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_57410e69-452e-43e6-abea-346d858938dc a ex:Review ;
+    ex:abstract "Red more practice. Glass popular partner certain. Last station tell design power fund." ;
+    ex:date "2021-01-25"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_577527df-39c1-4d5f-8de5-4d5f2babc5dd a ex:Review ;
+    ex:abstract "Second management movie word citizen class. That give indicate participant. Country system item police choose office statement. On dream hot heart. Return already age experience return individual interview. Say necessary more international assume." ;
+    ex:date "2021-10-31"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_57ea522b-a485-47d9-b3a8-f60c45b4253d a ex:Review ;
+    ex:abstract "Wind before contain book. Mean body large someone. Rest plan finish through." ;
+    ex:date "2021-01-10"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_58187203-0bcd-4c02-a9b4-770e22174c19 a ex:Review ;
+    ex:abstract "Effort beyond mother amount second claim. Son politics fast no especially nearly. Drug manager expect send law. Movie daughter difficult save ok under policy practice." ;
+    ex:date "2021-08-18"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_588da525-ddd1-40ca-94ea-52853a14d666 a ex:Review ;
+    ex:abstract "Score region again stock. Work risk everyone provide region during include finish. Candidate let another. Father improve leave talk something involve almost." ;
+    ex:date "2023-03-26"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_59fa500c-d85b-4f1c-ae68-5bfa0f1c1edd a ex:Review ;
+    ex:abstract "Cause should room. Resource tell gun word. Get support herself. Describe say together take fight action. Prevent collection customer drug present size action. Despite our drive election. Do turn likely safe strategy. Card cell with out appear like." ;
+    ex:date "2023-06-18"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_5b8b99ea-538a-45ab-a69b-1468977c95d8 a ex:Review ;
+    ex:abstract "Turn point blood true huge population. Consider often back form upon fall purpose. Find candidate space. Can them across tree." ;
+    ex:date "2022-11-18"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_5c5de72a-cf17-47ec-9ce2-ec710d54a636 a ex:Review ;
+    ex:abstract "Watch admit scene recognize foreign fly benefit. Stay care article. Agent concern shoulder recognize. Future eight group since. Pattern pretty difficult every. These air begin arm career approach decade community. College table serious us control simple article." ;
+    ex:date "2020-10-03"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_5dd80aec-c298-4217-8d4b-c5b9eeb2ed07 a ex:Review ;
+    ex:abstract "Value decision police institution right open. Movie local state study stuff exactly. Hotel who race stay remember. Mission buy quality for movie. Else organization animal wide win difficult. Somebody suffer artist economy change food despite." ;
+    ex:date "2022-11-10"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_5f5586a0-0251-4d2e-ade0-75abc8160af7 a ex:Review ;
+    ex:abstract "Vote commercial before. Ahead third nice clear seek much lawyer. City sound partner likely serious room his. Here never weight take close beyond green. Theory doctor then five economy several. Return down industry role continue." ;
+    ex:date "2020-06-22"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_61a7eb6d-5a16-4e09-a8e4-23816cf5c79a a ex:Review ;
+    ex:abstract "Often administration write meet think prepare my language. Deal cover majority like large level. Produce rest car follow. Table physical public teacher miss. Course item they talk kitchen." ;
+    ex:date "2021-02-09"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_622a05b4-9617-4d3c-98d1-8c6cd9bed586 a ex:Review ;
+    ex:abstract "Marriage specific point including nothing career find. Without sense husband agent present land cut. And director reduce everything." ;
+    ex:date "2021-01-02"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_62905d2e-d216-45cc-a4e7-eb986dbd468e a ex:Review ;
+    ex:abstract "Argue worker realize. Politics foot laugh movie big discover. Attention could environment for build hundred lay prevent. For including provide pretty kind. Budget every teach might wonder popular growth institution." ;
+    ex:date "2023-12-05"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_62eed790-9e37-4f58-a070-ea800e491275 a ex:Review ;
+    ex:abstract "Technology research focus bed democratic perform. Poor consider laugh. Mean within build." ;
+    ex:date "2022-02-14"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_643770af-47be-4fb4-bd62-205fc25bc00b a ex:Review ;
+    ex:abstract "Operation even baby. Popular help campaign statement factor safe size. Information audience us about. Radio question edge hold game. Meeting soon leader clearly. Trip entire make." ;
+    ex:date "2019-08-25"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_647fc106-3c39-4440-8b3b-d691bd6c7a0d a ex:Review ;
+    ex:abstract "Television six really much method remain century she. Family fire ground still evening wear risk. This relationship most inside least sell represent. Cup type city sign yet often little." ;
+    ex:date "2023-06-06"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_6587ba65-6820-4228-8598-112f2f28e4f6 a ex:Review ;
+    ex:abstract "Care reveal laugh summer many certain. Despite send rate career bag summer. Raise stand quality difficult yes boy." ;
+    ex:date "2019-05-30"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_668a2c09-4bb4-46fd-b107-fb171028d811 a ex:Review ;
+    ex:abstract "Director difficult help member entire. Set look education whole meeting use. However style front use." ;
+    ex:date "2019-07-27"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_66a48c00-93c2-4203-8ede-f2f765776c0f a ex:Review ;
+    ex:abstract "Show computer value myself. Debate ever bed class while. Area away car throughout during. Many present throw something." ;
+    ex:date "2023-01-29"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_66f921d3-b8dd-4896-9c3b-6de4b02946da a ex:Review ;
+    ex:abstract "Want successful worker. Character start news prevent test candidate behavior. Lawyer season dark remember behind Democrat source. She family price sit left agency international. Stop or create run blood the natural scene. Organization street now. Edge name section." ;
+    ex:date "2022-03-31"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_67fa88c4-3343-4f41-9ce9-0d9bfe4b87f5 a ex:Review ;
+    ex:abstract "Media plant when mother thought hand economic likely. Board entire number top. Exactly hope candidate something." ;
+    ex:date "2022-05-22"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_68760f4b-b86b-49db-bae3-5d336b362819 a ex:Review ;
+    ex:abstract "Exist six throughout nothing man. Couple whose either end put read." ;
+    ex:date "2022-10-27"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_6977d233-e97d-495d-b7c4-177f3ece1f2d a ex:Review ;
+    ex:abstract "Daughter thus near who computer either future. Time scene amount student positive." ;
+    ex:date "2022-07-29"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_6ab2e05b-fda9-46a5-970c-19832bd853be a ex:Review ;
+    ex:abstract "Above require media value. Pay include be account news. West range report my suffer individual also answer." ;
+    ex:date "2023-07-25"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_6b273658-60fd-4a83-81cb-5e014e60d3ef a ex:Review ;
+    ex:abstract "Mission usually popular once dinner. Its why arm not task crime discover." ;
+    ex:date "2023-06-08"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_6c28b3a4-3d9c-42bb-9ef0-38be4dbc8eaa a ex:Review ;
+    ex:abstract "Stuff field present church. Act admit rise coach raise run. Best serve future season miss. Entire reduce those professor present. Choose factor reflect ahead stock help hospital." ;
+    ex:date "2019-06-07"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_6d0cc56f-9c99-49f1-b0fd-1a4ddc35fc48 a ex:Review ;
+    ex:abstract "Answer quite character kid really realize. Go thus lose you alone seek. Account name produce choice light course boy." ;
+    ex:date "2019-11-03"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_6d16df89-eda7-4ea6-9b0d-5f59258c8a2f a ex:Review ;
+    ex:abstract "Speak close discuss bring member modern whom. Provide least continue very close. Instead doctor option traditional true. Respond ahead history probably crime city PM theory." ;
+    ex:date "2023-09-06"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_6f151d4f-d3c3-4997-9c18-a4b7776b4dda a ex:Review ;
+    ex:abstract "Respond off painting. Several wait wear. Military phone break single." ;
+    ex:date "2021-03-25"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_70da1e1c-40f7-4517-9350-c64d7294fc2a a ex:Review ;
+    ex:abstract "Wall see many yard tonight us dark. Democrat do beyond party station along. Couple professor nothing event send lead still. My second house conference green TV produce. Price professional himself environmental oil serve." ;
+    ex:date "2023-08-14"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_710240bf-466a-42c9-91c3-3de294fa1769 a ex:Review ;
+    ex:abstract "Song still result energy probably. Face finally issue seek onto. Manager drop wall shoulder experience wonder. Machine cause once address fire Republican." ;
+    ex:date "2019-07-01"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_737669f1-1bb8-45b8-99ad-b9b8710ca0d1 a ex:Review ;
+    ex:abstract "Hope economic agreement similar part magazine little be. Anything one guy blue call part ten. Town professional series sell second memory. Brother another which later air take. Husband interesting major court street easy take. Wait join strategy for a." ;
+    ex:date "2021-12-31"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_73f2f930-9655-4ca1-a512-fb17184dcf82 a ex:Review ;
+    ex:abstract "Listen American always knowledge." ;
+    ex:date "2020-09-23"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_79945d67-deaa-443b-934e-97bb01c4960d a ex:Review ;
+    ex:abstract "Law find short perhaps include play song. Appear ten lay really sort prevent. Arrive able model. Road nor just minute. Option mention away show event inside others rule." ;
+    ex:date "2022-01-28"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_7a5c70e9-9b83-4eef-b15d-763810b2ac78 a ex:Review ;
+    ex:abstract "Kitchen arm inside various research suggest. Prevent her special. Style get recognize federal pretty note management decade. Ground improve course north seek place. Serve sit scene meeting case ok. Indeed put pretty contain research. Choice enjoy situation protect." ;
+    ex:date "2024-03-03"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_7bc0d17d-8e0f-45ab-ba9c-1e720924a48a a ex:Review ;
+    ex:abstract "Moment successful stock team leg simply heart. Radio sometimes size sign administration." ;
+    ex:date "2020-08-02"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_7c4fabc3-e087-43b1-a693-8525fe469c29 a ex:Review ;
+    ex:abstract "Whose opportunity miss ahead community. Dream company data white first heavy. Help position mind popular why cup nature." ;
+    ex:date "2023-01-31"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_7d980a61-45f2-4064-b7ae-95e8cf65ce7c a ex:Review ;
+    ex:abstract "Official treatment try work identify mission common. Behind various expert participant. Manager store natural even. Democrat behavior camera role admit. Direction never movement analysis last. Especially lead red your skin character listen. Third maybe occur include team style certain." ;
+    ex:date "2022-06-12"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_8148867f-173a-4b6d-8ca0-1ff9928ada66 a ex:Review ;
+    ex:abstract "Trial shoulder party get have loss themselves ask. Throw head ready usually sure fear. Attention finish bad." ;
+    ex:date "2019-08-22"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_83ddee81-98cf-468f-8af9-a17fb2c0b708 a ex:Review ;
+    ex:abstract "Tree could dark add when animal. Safe my hold modern energy citizen stop. Eat prevent not space operation." ;
+    ex:date "2022-10-19"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_85fbe0d0-b0fb-47c0-b0c6-234b999dae40 a ex:Review ;
+    ex:abstract "Peace financial energy movement. Often service past activity often speak. Everything million bad ever." ;
+    ex:date "2022-02-07"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_87d41933-abe3-40b0-8bf0-eac2fd7436a8 a ex:Review ;
+    ex:abstract "Past available tell a billion chance. Again stand by include. Shoulder artist military you single." ;
+    ex:date "2020-11-08"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_87edcc26-0ff1-425b-9152-d829ab2f6fc0 a ex:Review ;
+    ex:abstract "Detail despite last hope. Few poor reduce ready realize long. Single evidence likely crime social trade. Political site behavior military task second. Exactly large item popular movement big. Our concern wall money imagine would. Out rise environmental side show also." ;
+    ex:date "2020-02-10"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_90e8b0bf-6d61-4e25-9220-2d9eea86b591 a ex:Review ;
+    ex:abstract "Particularly six poor line. Pick add yet situation rest vote whether. Everything market simply identify of." ;
+    ex:date "2022-05-02"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_91028ed6-3a0d-4074-9b6e-af63703980cb a ex:Review ;
+    ex:abstract "Your risk mention position old deep street. Dream suffer old book. Board quality buy attack model necessary hundred include." ;
+    ex:date "2022-05-24"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_9228be8c-417c-4737-bb20-3b8e7f1d96fb a ex:Review ;
+    ex:abstract "Medical allow spend tonight. Usually behind those wrong may red note." ;
+    ex:date "2021-08-01"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_9234f619-c95e-408b-99eb-ec460e630383 a ex:Review ;
+    ex:abstract "Television maintain return ready talk seem goal physical. Four much service mission or rest." ;
+    ex:date "2021-03-01"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_9452ac64-900f-4054-90c3-742fed5121df a ex:Review ;
+    ex:abstract "Will computer good up ready report professional. Three write direction economy education third. Street measure item arrive. Development nearly picture ask." ;
+    ex:date "2022-07-27"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_97d49e7f-6016-4415-b093-4099a27477b1 a ex:Review ;
+    ex:abstract "Training support walk some beautiful yeah return. Task lead stop police." ;
+    ex:date "2021-07-23"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_97ddd2fc-ac21-4967-927e-478d5c893a29 a ex:Review ;
+    ex:abstract "Recently sort decide true board. She want story chair rock family." ;
+    ex:date "2023-04-19"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_9888d75b-36c0-476d-963c-89ba9e94a101 a ex:Review ;
+    ex:abstract "Quite end less. Family media lawyer go. Control admit ask brother defense oil. Present be future knowledge. Amount safe wish truth." ;
+    ex:date "2022-02-24"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_9b0960ba-fee9-4e3a-afeb-1c941540ff4a a ex:Review ;
+    ex:abstract "Three chair reality sell seat item other. Goal everything may until. Force outside sound evidence it." ;
+    ex:date "2024-02-19"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_9bdc7131-9e17-4fee-9964-7323a4865ad7 a ex:Review ;
+    ex:abstract "Mind sure military officer give." ;
+    ex:date "2021-12-09"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_9cbb9400-5ec4-437b-8eba-a1ba50f07e71 a ex:Review ;
+    ex:abstract "Themselves garden TV someone develop. Second herself after employee whom peace debate economy. Especially work talk relate successful. Recognize watch property factor. Across production choose agent." ;
+    ex:date "2022-01-30"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_9e47f1b8-98c7-48a1-80a9-70105cec63ff a ex:Review ;
+    ex:abstract "City wide make person third throw. Small professor interest second phone different example. Resource item plant activity knowledge son. After agency anyone measure suffer Mrs." ;
+    ex:date "2023-09-26"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_9ead1921-c579-4b22-99c3-ed1f0b3edc25 a ex:Review ;
+    ex:abstract "Allow best number effect. Guy ten certainly pass generation. Another allow move help piece. Newspaper feeling rate enough analysis car sport." ;
+    ex:date "2023-12-22"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_a0911a30-7225-4dd1-9382-452deb116591 a ex:Review ;
+    ex:abstract "Meeting war tonight take star finally. Give produce seek itself. Idea summer think." ;
+    ex:date "2022-01-13"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_a176f0f2-7214-4a52-9bd4-c675063e7428 a ex:Review ;
+    ex:abstract "Machine couple rule often. Station get benefit watch. Difference phone security film season family." ;
+    ex:date "2023-04-28"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_a2190893-2620-40bd-b1c5-2587d0549036 a ex:Review ;
+    ex:abstract "Government religious plant east almost from. Improve continue both prevent feel institution. Man identify easy meet buy sell interview. Daughter think so sound car. Same sister painting few mention not school. Stuff else morning of animal." ;
+    ex:date "2020-04-17"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_a3593107-6c44-401c-b927-dabd45ae1fe3 a ex:Review ;
+    ex:abstract "This that simple add skill bit since. Save new rather race interest federal. Will child article lead away special a. Exactly lead ever analysis discover professor article." ;
+    ex:date "2022-03-07"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_a448d06c-6fc0-40ce-9689-647fe03cbd88 a ex:Review ;
+    ex:abstract "Catch final development suggest million economy accept. Over visit offer inside discover term. Image course camera water scene catch provide." ;
+    ex:date "2023-05-01"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_a5d034a9-bb64-44fc-9451-469a0c8d449e a ex:Review ;
+    ex:abstract "Artist suddenly individual strong finally. Challenge provide factor miss close treatment. College stand area couple focus past from. Century start talk level total control important." ;
+    ex:date "2020-06-18"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_a8f082a6-9d8b-4735-9b7e-bd541df1e961 a ex:Review ;
+    ex:abstract "Experience focus there perhaps. Student must detail those answer data. Note per use nothing a. Type draw specific debate American campaign." ;
+    ex:date "2022-06-06"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_a8f48009-6052-4165-80e9-d411ee0f9ecb a ex:Review ;
+    ex:abstract "Executive man history fight song house. Information particular easy baby face nation paper. Agree nation computer blood bag suddenly. Society interest money administration. Time first dark statement. Should explain agent become." ;
+    ex:date "2021-11-13"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_aaee9380-ace4-482f-a6af-c18fbcf53b5e a ex:Review ;
+    ex:abstract "Local paper common stand star find help. Would natural road rich. Mrs something any war." ;
+    ex:date "2023-03-24"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_ad51c801-5f50-461f-9dc6-84034d41af05 a ex:Review ;
+    ex:abstract "This ability significant. Good mean ready. Affect usually newspaper live them imagine cup forward. Republican walk thank." ;
+    ex:date "2020-10-31"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_ae4c239b-6c90-4814-ad56-844953d60a26 a ex:Review ;
+    ex:abstract "Assume group house blue major data buy simple. Authority lot year. Girl quality space much choose." ;
+    ex:date "2022-09-23"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_b130de65-de96-4401-939e-f318f1b9cc6a a ex:Review ;
+    ex:abstract "Hair order start Democrat late realize center. Significant myself enjoy continue teacher teacher yard. Seven perhaps half manage. Beat our human finally stuff bring. His six others every. Follow plan business much." ;
+    ex:date "2021-12-17"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_b2596f31-a780-4b2d-8a47-f64d9a48e217 a ex:Review ;
+    ex:abstract "Agree answer herself hope then without. Teacher policy travel modern your also star. Action plan occur." ;
+    ex:date "2021-01-23"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_b322de93-4b80-4065-b5f1-e3d335835f42 a ex:Review ;
+    ex:abstract "Information consider catch star color free person same. History sound same next term music husband. Concern action generation often industry capital coach. Plant today song board fast successful strategy. Visit check car sense full maintain." ;
+    ex:date "2020-05-18"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_b3478926-a3f6-4838-9d9c-e0bd859fe368 a ex:Review ;
+    ex:abstract "Onto trip too hot blood political. Environment teach read place per system feeling. Travel along serve stock author. Several notice never. Fall school position position long give throughout." ;
+    ex:date "2023-11-26"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_b5e9c319-3400-4659-9d2e-a1acc3f75974 a ex:Review ;
+    ex:abstract "Other science heart per determine reason series. Order follow prevent room. Compare rich among president. Weight family you significant say happen she. Matter whatever pass represent across officer. Already more smile hundred." ;
+    ex:date "2023-01-18"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_b5f1d868-ae95-4e86-9e5e-0ab47235956b a ex:Review ;
+    ex:abstract "Evening ask then century soldier. Act help ago behavior property prepare why." ;
+    ex:date "2023-03-04"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_b8f967c3-9236-4ce7-8b65-e05cebc597b5 a ex:Review ;
+    ex:abstract "Bad since which baby majority matter size television. Beat forget move away dark. Top reveal scene crime each. Lose respond how question thing onto seek. Go painting him. Natural impact official billion point eight whether fast. Kind cup where threat discover event inside. Likely office next usually term impact nothing." ;
+    ex:date "2021-01-27"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_b922355e-47da-451e-a8a8-8072e7613d95 a ex:Review ;
+    ex:abstract "Different reach begin rule before agency eye. Line head outside sister group. Baby economy fine wife. When apply science produce weight about art detail. Care agency beat interest benefit watch design. Itself who and draw. Bring beyond nor despite participant somebody. Economy require least state my." ;
+    ex:date "2021-09-21"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_bab64c47-6284-4ed0-9455-0d71e2087cf2 a ex:Review ;
+    ex:abstract "Well message blue avoid. Physical after plant score dog value give try. Contain kind successful soon. Final economic fund." ;
+    ex:date "2022-11-04"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_bb3c734b-af89-4227-9c93-58c317344786 a ex:Review ;
+    ex:abstract "Reveal individual around important black. Build somebody plant purpose." ;
+    ex:date "2019-06-27"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_bf4cebff-f4bd-4866-83bc-aac1e54fad26 a ex:Review ;
+    ex:abstract "Wonder house stay. Network herself old once outside but body." ;
+    ex:date "2019-09-06"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_bfc1eb62-78fe-4ee9-be7c-609e205cdbcd a ex:Review ;
+    ex:abstract "College serve Mrs life. Then these specific southern near soldier. Camera successful probably fear hotel may. You spring maintain live success away single. Follow better pick whose surface. Experience baby building together approach." ;
+    ex:date "2023-09-19"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_c421c6fb-b6ff-4a8d-92ed-7e0d038fbc34 a ex:Review ;
+    ex:abstract "Evidence report yet probably so still. Will throw open." ;
+    ex:date "2022-01-08"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_c4bdb475-256e-4f28-bb7f-c1e10835d587 a ex:Review ;
+    ex:abstract "Kitchen along sport low time method yes. Difference main live hope development head paper town. Drop view relate production." ;
+    ex:date "2023-09-19"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_ca26d093-3b23-4bcf-82ef-f9707fcc7c80 a ex:Review ;
+    ex:abstract "Job reflect determine about. We interest these budget course. Next lay appear product evening personal bag. Song week have at training follow establish. Until issue enjoy hour dream gun fear. Section poor past always region born." ;
+    ex:date "2021-02-08"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_cac66b32-9d3e-4ca1-80cc-d9eca972ae11 a ex:Review ;
+    ex:abstract "Left road force live woman wide military. Ahead everybody government expect pattern person. Discussion common enough really security. When measure protect list. State develop could whom former no. Blood three indicate no." ;
+    ex:date "2023-08-25"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_cc0ade7d-a94d-44f9-aa2e-12e1c2bb13a7 a ex:Review ;
+    ex:abstract "Agree line art somebody look instead probably. Reflect him opportunity hear before pass. Want cut plant condition." ;
+    ex:date "2019-08-18"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_cccb6398-d1c0-4646-994a-ef8d0c7a8572 a ex:Review ;
+    ex:abstract "Rule line inside cover majority suggest. Action send unit although. Pull couple American check reflect mind vote believe. Color international see field responsibility parent machine." ;
+    ex:date "2020-01-20"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_cdc9aec3-7556-4a8e-a230-559312ab9620 a ex:Review ;
+    ex:abstract "Step ever that remember. Week short thing human exist building. Thing religious letter. Even stuff factor car suggest modern. Smile on store. Yourself sell provide make. Anyone throw and traditional either radio." ;
+    ex:date "2019-12-04"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_ce491930-51e6-4ccd-aebc-18d77529e763 a ex:Review ;
+    ex:abstract "Deep adult opportunity stay player all senior perhaps. Every next avoid free color reveal true pattern." ;
+    ex:date "2021-08-16"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_cec91c16-8da9-47d9-8d2e-2c88cef7fad4 a ex:Review ;
+    ex:abstract "Build four sometimes hope. Very music officer finish loss heavy beautiful. Move board whom. Rule training different special visit." ;
+    ex:date "2020-02-20"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_cf3398af-4ebb-4579-a5c3-69330bc0d59c a ex:Review ;
+    ex:abstract "Anyone culture thing environment. Institution good itself animal exactly own manager. Song marriage common. Fine hot just age medical. Nothing worker vote television situation role listen." ;
+    ex:date "2021-06-30"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_cfdaf012-43bf-4330-a2f2-6557af097b6c a ex:Review ;
+    ex:abstract "Wait make enjoy foreign scientist. If choose beyond something never visit. Stop quickly person quality cell traditional. Just democratic million knowledge. Development reflect place commercial author none accept." ;
+    ex:date "2022-05-27"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_d2ad9176-751a-4069-82fa-de773246e8a2 a ex:Review ;
+    ex:abstract "Interesting smile born might finish campaign. Lay social site past find. Figure investment ten term add. Price husband name pick event television customer race. Imagine seven worry give seven yes." ;
+    ex:date "2024-02-07"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_d30f317b-8150-483f-89be-9b908e353407 a ex:Review ;
+    ex:abstract "Specific window treatment general without page at. Already decide laugh specific. Not change marriage believe best or. Edge wrong return call bit century much. Store into spend reduce already take admit. Among may whose number society. Western of product lawyer similar smile wall." ;
+    ex:date "2022-05-14"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_d31ed461-0373-4da4-a098-66c1c14411a2 a ex:Review ;
+    ex:abstract "Old very do. Technology dog describe investment wife wrong avoid. Artist study everything treat energy. Against environmental anything per exactly across deep. Early sit bag sometimes letter." ;
+    ex:date "2022-11-18"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_d3bc0048-7dfa-45cb-ac2e-ee5703ce057d a ex:Review ;
+    ex:abstract "Another reality fine cut. Food in expect two do. Worker choose it prove. Space identify over focus story seven trip. Discover child property whatever. Only cup area health audience sense include. Watch provide write at better pull recently develop." ;
+    ex:date "2019-07-11"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_d725c924-4b25-4017-bff7-4d226236e2cf a ex:Review ;
+    ex:abstract "Create while religious agree power. There rock issue friend where. Choice food white floor thousand green notice power. Specific information someone lot walk perhaps key dog." ;
+    ex:date "2024-04-09"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_d8b84abf-f9bd-45cd-83a6-77a0013f3469 a ex:Review ;
+    ex:abstract "Measure floor hold base. Million material hear tax national red several allow." ;
+    ex:date "2023-01-04"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_d918be58-9895-496b-a247-d24142707f5b a ex:Review ;
+    ex:abstract "Add production pull. Statement base property make ahead medical unit natural." ;
+    ex:date "2024-03-01"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_df9d4c86-97b9-4b5f-97a9-327ccca4d2fe a ex:Review ;
+    ex:abstract "Authority camera assume executive organization kid. Human available common fund office pay article. Through member option story key alone." ;
+    ex:date "2019-05-26"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_e248bf0f-ad77-4954-86d9-f3da8da7f324 a ex:Review ;
+    ex:abstract "Note song two compare nor mission. Arm court feeling cell. Treatment series wrong past figure give." ;
+    ex:date "2022-10-07"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_e57cbfcd-7869-43ae-9c8a-277277d1a271 a ex:Review ;
+    ex:abstract "Take body society measure employee admit management. Control glass away increase factor." ;
+    ex:date "2020-11-15"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_e678f6cf-df06-41af-9e1c-a55a802e8783 a ex:Review ;
+    ex:abstract "Great part reveal because project current. Table trouble store pay employee skin first. Finish matter agree away. Oil nothing smile center church." ;
+    ex:date "2024-01-27"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_eabeb827-8e4e-4f91-9925-86ec075dcb23 a ex:Review ;
+    ex:abstract "See indeed wind. Away reality personal enjoy. Control detail small serious discover." ;
+    ex:date "2023-09-15"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_ed5a1e88-fca6-4d8e-bc05-ee6b4c62d4d5 a ex:Review ;
+    ex:abstract "Board seven offer above long region place. Feeling thousand coach indeed because lawyer little." ;
+    ex:date "2023-12-11"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_efd351d5-cd19-4573-8eff-77447f032561 a ex:Review ;
+    ex:abstract "From because billion than. Your quite kid expect oil town degree. Mr who organization special feeling your successful too. Woman place discuss seek include here. Serve doctor mean good. Successful part able receive total indeed simple. Stock suffer economy himself usually art because party." ;
+    ex:date "2019-09-24"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_f1598afb-bcf8-485d-9c32-564cd36beed3 a ex:Review ;
+    ex:abstract "Long reveal race indeed occur several. Chair phone former read million others understand. Game white everything in amount program example." ;
+    ex:date "2022-10-22"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_f2f19011-9fd7-4df7-8f95-7797fdc4615a a ex:Review ;
+    ex:abstract "Role single represent financial everything list. Mean finally evening move. Special several play actually but speech scene miss. Keep also lay bag doctor traditional state. Resource man leave." ;
+    ex:date "2020-12-12"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_f3bd6e2e-2418-4735-9c64-52daab79e1f8 a ex:Review ;
+    ex:abstract "Wear speak store then these whose process. Door about take stuff. Tell believe ago thousand late write. Arm idea realize sister its. Everything early identify decade. Apply article animal certainly as drop choice. A situation rise describe discussion forget. Check central present personal." ;
+    ex:date "2022-09-01"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_f561e25a-c3fe-4e88-bbd8-c1b4ba2d1c36 a ex:Review ;
+    ex:abstract "Every fund evening speak Mrs. Father spend difference never. Next believe really enough. Happen out city region worry everything. Product fund discuss statement dog." ;
+    ex:date "2022-03-19"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_f5d7cf64-2aad-4a99-a266-e0a852265b1d a ex:Review ;
+    ex:abstract "Tv last full present leader see. Reduce friend improve light property. Poor later majority list name respond who speech. Difference third stop member wish during. Ask rather ability at break total city. Wait rich performance give her right offer. Area now compare movement himself. Upon type still across." ;
+    ex:date "2021-06-23"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_f609fffc-9e8f-4806-a580-a4983958bd50 a ex:Review ;
+    ex:abstract "Throughout moment until administration magazine perform international. Tax course pull do difficult. Record season enjoy." ;
+    ex:date "2023-02-06"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_f6388ff6-1035-4d9e-aae5-17d28dc567b3 a ex:Review ;
+    ex:abstract "Chair on whatever each majority. Save old finally month cup despite. Wall letter better Democrat bill side throughout. Ago return adult then many land animal." ;
+    ex:date "2024-01-13"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_fa6643e7-9b17-43ae-a4ff-f3ac8bb65434 a ex:Review ;
+    ex:abstract "Sure always everything increase." ;
+    ex:date "2024-03-01"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_fcb64934-f6bf-4ae8-8219-73d39a41dc5a a ex:Review ;
+    ex:abstract "Beautiful may serve return ability. Safe hundred result your number step. Their story perhaps meet life experience scientist." ;
+    ex:date "2020-08-07"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_fdd6613b-6dbe-47d3-b76a-799d40b4a9bf a ex:Review ;
+    ex:abstract "Yourself performance drug yourself run may best executive. Hundred while include part buy because. Structure seem art move travel. Summer control up garden need." ;
+    ex:date "2019-09-27"^^xsd:date ;
+    ex:decision "Accepted" .
+
+ex:Review_fdea8063-cb41-44b2-aeb2-896ec71a48ed a ex:Review ;
+    ex:abstract "Television paper threat season up. Now throw simply apply throw." ;
+    ex:date "2023-01-02"^^xsd:date ;
+    ex:decision "Rejected" .
+
+ex:Review_ff16d596-9120-42e2-a464-c9941fae4500 a ex:Review ;
+    ex:abstract "Together blue television bag. Understand child fill point. Shake ask moment. Draw which organization significant beautiful need service. Leader heart deal data." ;
+    ex:date "2022-09-01"^^xsd:date ;
+    ex:decision "Accepted" .
+
